@@ -1,0 +1,44 @@
+{
+    "name": "Chandelure",
+    "description": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chandelure.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "34.29 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Luring"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Litwick"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lampent"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Chandelure"
+        }
+    ]
+}

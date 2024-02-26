@@ -1,0 +1,44 @@
+{
+    "name": "Shiftry",
+    "description": "It is said that when Shiftry flaps its leafy fans atop ancient trees, chilly winds blow and the season rolls into winter.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shiftry.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "59.60 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wicked"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Fighting, Poison, Flying, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Seedot"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Nuzleaf"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Shiftry"
+        }
+    ]
+}

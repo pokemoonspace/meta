@@ -1,0 +1,44 @@
+{
+    "name": "Haxorus",
+    "description": "This Pokemon nests in caves and abandoned mines. It is docile, but it will become incredibly angry if its tusks are touched, so beware.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Haxorus.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "105.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Axe Jaw"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rivalry"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Axew"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Fraxure"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Haxorus"
+        }
+    ]
+}

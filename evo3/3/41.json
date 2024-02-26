@@ -1,0 +1,44 @@
+{
+    "name": "Orbeetle",
+    "description": "Its famous for its high level of intelligence, and the large size of its brain is proof that it also possesses immense psychic power.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Orbeetle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "40.78 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Seven Spot"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Bug, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Blipbug"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dottler"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Orbeetle"
+        }
+    ]
+}

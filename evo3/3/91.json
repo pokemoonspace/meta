@@ -1,0 +1,44 @@
+{
+    "name": "Infernape",
+    "description": "This Pokemon confounds opponents with its speed. It uses all its limbs to fight in its own unique style.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Infernape.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "55.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Chimchar"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Monferno"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Infernape"
+        }
+    ]
+}

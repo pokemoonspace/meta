@@ -1,0 +1,44 @@
+{
+    "name": "Obstagoon",
+    "description": "Its voice is staggering in volume. Obstagoon has a tendency to take on a threatening posture and shout this move is known as Obstruct.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Obstagoon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "45.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Blocking"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Guts"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Zigzagoon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Linoone"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Obstagoon"
+        }
+    ]
+}

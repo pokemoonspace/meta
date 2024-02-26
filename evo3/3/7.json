@@ -1,0 +1,44 @@
+{
+    "name": "Incineroar",
+    "description": "When its fighting spirit is set alight, the flames around its waist become especially intense.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Incineroar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "83.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Heel"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Litten"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Torracat"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Incineroar"
+        }
+    ]
+}

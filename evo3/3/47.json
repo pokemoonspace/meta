@@ -1,0 +1,44 @@
+{
+    "name": "Vivillon",
+    "description": "The patterns on this Pokemon depend on the climate and topography of the land it was born in. This form is from lands where flowers bloom.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Vivillon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "17.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Scale"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shield Dust"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Electric, Ice, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Scatterbug"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Spewpa"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Vivillon"
+        }
+    ]
+}

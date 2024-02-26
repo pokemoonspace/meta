@@ -1,0 +1,44 @@
+{
+    "name": "Coalossal",
+    "description": "To intimidate its opponents, Coalossal will vigorously shake its body, scattering coal from its smoldering back.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Coalossal.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "310.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Coal"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flame Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rolycoly"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Carkol"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Coalossal"
+        }
+    ]
+}

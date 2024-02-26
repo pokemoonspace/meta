@@ -1,0 +1,44 @@
+{
+    "name": "Froslass",
+    "description": "When it finds humans or Pokemon it likes, it freezes them and takes them to its chilly den, where they become decorations.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Froslass.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "26.58 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Snow Land"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Snow Cloak"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Rock, Ghost, Dark, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Snorunt"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Glalie"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Froslass"
+        }
+    ]
+}

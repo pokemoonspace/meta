@@ -1,0 +1,44 @@
+{
+    "name": "Ceruledge",
+    "description": "The fiery blades on its arms burn fiercely with the lingering resentment of a sword wielder who fell before accomplishing their goal.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ceruledge.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "62.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Blades"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Charcadet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Armarouge"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Ceruledge"
+        }
+    ]
+}

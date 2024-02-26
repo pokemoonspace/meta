@@ -1,0 +1,44 @@
+{
+    "name": "Tsareena",
+    "description": "This Pokemon is proud and aggressive. However, it is said that a Tsareena will instantly become calm if someone touches the crown on its calyx.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tsareena.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "21.41 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fruit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Leaf Guard"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bounsweet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Steenee"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Tsareena"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Clefable",
+    "description": "Said to live in quiet, remote mountains, this type of fairy has a strong aversion to being seen.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Clefable.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "40.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Cute Charm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cleffa"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Clefairy"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Clefable"
+        }
+    ]
+}

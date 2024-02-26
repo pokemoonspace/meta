@@ -1,0 +1,44 @@
+{
+    "name": "Quaquaval",
+    "description": "A single kick from a Quaquaval can send a truck rolling. This Pokemon uses its powerful legs to perform striking dances from far-off lands.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Quaquaval.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "61.92 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dancer"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Quaxly"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Quaxwell"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Quaquaval"
+        }
+    ]
+}

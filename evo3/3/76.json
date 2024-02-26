@@ -1,0 +1,44 @@
+{
+    "name": "Vanilluxe",
+    "description": "When its anger reaches a breaking point, this Pokemon unleashes a fierce blizzard that freezes every creature around it, be they friend or foe.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Vanilluxe.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "57.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Snowstorm"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Ice Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Vanillite"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Vanillish"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Vanilluxe"
+        }
+    ]
+}

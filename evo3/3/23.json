@@ -1,0 +1,44 @@
+{
+    "name": "Golem",
+    "description": "It is enclosed in a hard shell that is as rugged as slabs of rock. It sheds skin once a year to grow larger.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Golem.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "300.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Megaton"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Geodude"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Graveler"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Golem"
+        }
+    ]
+}

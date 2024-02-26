@@ -1,0 +1,44 @@
+{
+    "name": "Blaziken",
+    "description": "When facing a tough foe, it looses flames from its wrists. Its powerful legs let it jump clear over buildings.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Blaziken.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "51.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Torchic"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Combusken"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Blaziken"
+        }
+    ]
+}

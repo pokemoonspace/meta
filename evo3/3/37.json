@@ -1,0 +1,44 @@
+{
+    "name": "Aggron",
+    "description": "Aggron has a horn sharp enough to perforate thick iron sheets. It brings down its opponents by ramming into them horn first.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Aggron.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.11 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "360.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Iron Armor"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Aron"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lairon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Aggron"
+        }
+    ]
+}

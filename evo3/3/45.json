@@ -1,0 +1,44 @@
+{
+    "name": "Kingdra",
+    "description": "It sleeps deep on the ocean floor to build its energy. It is said to cause tornadoes as it wakes.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kingdra.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "152.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Horsea"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Seadra"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Kingdra"
+        }
+    ]
+}

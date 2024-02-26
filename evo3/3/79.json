@@ -1,0 +1,44 @@
+{
+    "name": "Corviknight",
+    "description": "Corviknight cant serve as a taxi service in Paldea because the Pokemons natural predators will attack it while it flies, endangering the customer.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Corviknight.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Flying, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.21 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "74.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Raven"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rookidee"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Corvisquire"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Corviknight"
+        }
+    ]
+}

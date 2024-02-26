@@ -1,0 +1,44 @@
+{
+    "name": "Luxray",
+    "description": "It can see clearly through walls to track down its prey and seek its lost young.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Luxray.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "42.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Gleam Eyes"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shinx"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Luxio"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Luxray"
+        }
+    ]
+}

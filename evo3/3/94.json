@@ -1,0 +1,44 @@
+{
+    "name": "Ampharos",
+    "description": "The bright light on its tail can be seen far away. It has been treasured since ancient times as a beacon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ampharos.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "61.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mareep"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Flaaffy"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Ampharos"
+        }
+    ]
+}

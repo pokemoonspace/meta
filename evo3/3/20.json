@@ -1,0 +1,44 @@
+{
+    "name": "Gothitelle",
+    "description": "Gothitelle unleashes psychic energy and shows opponents dreams of the universes end. These dreams are apparently ethereal and beautiful.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gothitelle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "44.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Astral Body"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Frisk"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gothita"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gothorita"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Gothitelle"
+        }
+    ]
+}

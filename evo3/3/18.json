@@ -1,0 +1,44 @@
+{
+    "name": "Talonflame",
+    "description": "It has top-notch flying capabilities. It flies around easily, even while carrying prey that weighs more than 220 lbs.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Talonflame.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "24.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Scorching"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flame Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Electric, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Fletchling"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Fletchinder"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Talonflame"
+        }
+    ]
+}

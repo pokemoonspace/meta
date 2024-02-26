@@ -1,0 +1,44 @@
+{
+    "name": "Azumarill",
+    "description": "Its long ears are superb sensors. It can distinguish the movements of things in water and tell what they are.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Azumarill.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "28.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Aqua Rabbit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Thick Fat"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Poison"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Azurill"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Marill"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Azumarill"
+        }
+    ]
+}

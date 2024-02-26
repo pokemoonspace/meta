@@ -1,0 +1,44 @@
+{
+    "name": "Vikavolt",
+    "description": "Displaying exceptional mobility, it weaves between trees and shoots down bird Pokemon with its electromagnetic beams.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Vikavolt.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "45.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Stag Beetle"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Grubbin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Charjabug"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Vikavolt"
+        }
+    ]
+}

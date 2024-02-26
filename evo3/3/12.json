@@ -1,0 +1,44 @@
+{
+    "name": "Walrein",
+    "description": "Walrein form herds of 20 to 30 individuals. When a threat appears, the herd\u2019s leader will protect the group with its life.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Walrein.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "150.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ice Break"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Thick Fat"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Spheal"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sealeo"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Walrein"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Delphox",
+    "description": "It leaves burn marks in the ground with the flame at the tip of its wand. Long ago, people used the shapes of these burn marks for divination.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Delphox.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "39.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Fennekin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Braixen"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Delphox"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Stoutland",
+    "description": "These Pokemon seem to enjoy living with humans. Even a Stoutland caught in the wild will warm up to people in about three days.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Stoutland.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "61.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Big-Hearted"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Lillipup"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Herdier"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Stoutland"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Aegislash",
+    "description": "In this defensive stance, Aegislash uses its steel body and a force field of spectral power to reduce the damage of any attack.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Aegislash.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "52.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Royal Sword"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Stance Change"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ground, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Honedge"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Doublade"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Aegislash"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Empoleon",
+    "description": "If anyone were to hurt its pride, it would slash them in two with wings that can cleave through an ice floe.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Empoleon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "84.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Emperor"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Piplup"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Prinplup"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Empoleon"
+        }
+    ]
+}

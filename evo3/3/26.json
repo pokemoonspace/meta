@@ -1,0 +1,44 @@
+{
+    "name": "Annihilape",
+    "description": "When its anger rose beyond a critical point, this Pokemon gained power that is unfettered by the limits of its physical body.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Annihilape.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "56.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rage Monkey"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Inner Focus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Ghost, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mankey"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Primeape"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Annihilape"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Kommo-o",
+    "description": "It lets its arm hang, and then quick as a flash swings upward to land its specialty punch and send the opponent flying high into the sky.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kommo-o.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "78.20 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Scaly"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Soundproof"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Flying, Psychic, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Jangmo-o"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Hakamo-o"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Kommo-o"
+        }
+    ]
+}

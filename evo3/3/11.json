@@ -1,0 +1,44 @@
+{
+    "name": "Eelektross",
+    "description": "They crawl out of the ocean using their arms. They will attack prey on shore and immediately drag it into the ocean.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Eelektross.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.11 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "80.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "EleFish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tynamo"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Eelektrik"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Eelektross"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Electivire",
+    "description": "When it gets excited, it thumps its chest. With every thud, thunder roars and electric sparks shower all around.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Electivire.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "138.62 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Thunderbolt"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Motor Drive"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Elekid"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Electabuzz"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Electivire"
+        }
+    ]
+}

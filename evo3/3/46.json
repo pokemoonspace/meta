@@ -1,0 +1,44 @@
+{
+    "name": "Swampert",
+    "description": "Its arms are hard as rock. With one swing, it can break an enormous boulder into pieces.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Swampert.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "81.92 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mud Fish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mudkip"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Marshtomp"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Swampert"
+        }
+    ]
+}

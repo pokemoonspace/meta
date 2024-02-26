@@ -1,0 +1,44 @@
+{
+    "name": "Kingambit",
+    "description": "Only a Bisharp that stands above all others in its vast army can evolve into Kingambit.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kingambit.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "120.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Big Blade"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Defiant"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pawniard"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bisharp"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Kingambit"
+        }
+    ]
+}

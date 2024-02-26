@@ -1,0 +1,44 @@
+{
+    "name": "Togekiss",
+    "description": "These Pokemon are never seen anywhere near conflict or turmoil. In recent times, theyve hardly been seen at all.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Togekiss.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "38.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Jubilee"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Serene Grace"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Poison, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Togepi"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Togetic"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Togekiss"
+        }
+    ]
+}

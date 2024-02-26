@@ -1,0 +1,44 @@
+{
+    "name": "Pawmot",
+    "description": "This Pokemon normally is slow to react, but once it enters battle, it will strike down its enemies with lightning-fast movements.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pawmot.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "41.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hands-On"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Natural Cure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pawmi"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pawmo"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Pawmot"
+        }
+    ]
+}

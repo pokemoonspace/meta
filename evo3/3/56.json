@@ -1,0 +1,44 @@
+{
+    "name": "Kleavor",
+    "description": "Parts of its body turned to stone when it evolved thanks to an extremely rare ore found in volcanic areas.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kleavor.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "88.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Axe"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Scyther"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Scizor"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Kleavor"
+        }
+    ]
+}

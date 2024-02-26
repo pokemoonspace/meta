@@ -1,0 +1,44 @@
+{
+    "name": "Nidoqueen",
+    "description": "Nidoqueen is better at defense than offense. With scales like armor, this Pokemon will shield its children from any kind of attack.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nidoqueen.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "60.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Drill"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Poison Point"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ice, Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nidoran Female"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Nidorina"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Nidoqueen"
+        }
+    ]
+}

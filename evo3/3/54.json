@@ -1,0 +1,44 @@
+{
+    "name": "Rhyperior",
+    "description": "This Pokemons sturdy carapace protects it from volcanic eruptions. It shoots round rocks from the holes in its hands.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rhyperior.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground, Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.39 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "282.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Drill"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Lightning Rod"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rhyhorn"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Rhydon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Rhyperior"
+        }
+    ]
+}

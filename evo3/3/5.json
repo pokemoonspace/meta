@@ -1,0 +1,44 @@
+{
+    "name": "Slaking",
+    "description": "It is the worlds most slothful Pokemon. However, it can exert horrifying power by releasing pent-up energy all at once.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Slaking.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "130.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Lazy"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Truant"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Slakoth"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Vigoroth"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Slaking"
+        }
+    ]
+}

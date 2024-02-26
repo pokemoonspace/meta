@@ -1,0 +1,44 @@
+{
+    "name": "Garganacl",
+    "description": "Garganacl will rub its fingertips together and sprinkle injured Pokemon with salt. Even severe wounds will promptly heal afterward.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Garganacl.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.31 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "240.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rock Salt"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nacli"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Naclstack"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Garganacl"
+        }
+    ]
+}

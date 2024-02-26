@@ -1,0 +1,44 @@
+{
+    "name": "Leavanny",
+    "description": "This gentle Pokemon has strong protective instincts. The leaves on its arms are sharp enough to slice a thick tree in half with one stroke.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Leavanny.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "20.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Nurturing"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sewaddle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Swadloon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Leavanny"
+        }
+    ]
+}

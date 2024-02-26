@@ -1,0 +1,44 @@
+{
+    "name": "Krookodile",
+    "description": "After clamping down with its powerful jaws, it twists its body around to rip its prey in half.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Krookodile.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "96.30 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Intimidation"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sandile"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Krokorok"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Krookodile"
+        }
+    ]
+}

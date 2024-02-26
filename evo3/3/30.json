@@ -1,0 +1,44 @@
+{
+    "name": "Nidoking",
+    "description": "When it goes on a rampage, its impossible to control. But in the presence of a Nidoqueen its lived with for a long time, Nidoking calms down.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nidoking.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "62.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Drill"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Poison Point"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ice, Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nidoran Male"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Nidorino"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Nidoking"
+        }
+    ]
+}

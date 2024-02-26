@@ -1,0 +1,44 @@
+{
+    "name": "Grimmsnarl",
+    "description": "This Pokemon has complete control over its hair. Grimmsnarl normally keeps its hair wrapped around its body to support its muscles.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Grimmsnarl.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "61.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bulk Up"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Frisk"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Impidimp"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Morgrem"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Grimmsnarl"
+        }
+    ]
+}

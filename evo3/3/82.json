@@ -1,0 +1,44 @@
+{
+    "name": "Primarina",
+    "description": "To Primarina, every battle is a stage. It takes down its prey with beautiful singing and dancing.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Primarina.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "44.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Soloist"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Poison"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Popplio"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Brionne"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Primarina"
+        }
+    ]
+}

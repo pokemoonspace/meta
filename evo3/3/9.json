@@ -1,0 +1,44 @@
+{
+    "name": "Greninja",
+    "description": "The movement of air against the long tongue Greninja keeps wrapped around its neck allows it to sense enemies it cant see.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Greninja.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "40.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ninja"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Froakie"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Frogadier"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Greninja"
+        }
+    ]
+}

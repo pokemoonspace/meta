@@ -1,0 +1,44 @@
+{
+    "name": "Dusknoir",
+    "description": "It is said to take lost spirits into its pliant body and take them to the afterlife.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dusknoir.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.21 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "106.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Gripper"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Duskull"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dusclops"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Dusknoir"
+        }
+    ]
+}

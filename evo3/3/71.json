@@ -1,0 +1,44 @@
+{
+    "name": "Emboar",
+    "description": "The flames blazing deep inside Emboars chest erupt vigorously from its chin, forming a beard of fire.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Emboar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "150.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mega Fire Pig"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tepig"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pignite"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Emboar"
+        }
+    ]
+}

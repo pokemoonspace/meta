@@ -1,0 +1,44 @@
+{
+    "name": "Meganium",
+    "description": "Anyone who stands beside it becomes refreshed, just as if they were soaking in the soothing atmosphere of a forest.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Meganium.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "100.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Herb"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Chikorita"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bayleef"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Meganium"
+        }
+    ]
+}

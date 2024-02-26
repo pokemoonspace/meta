@@ -1,0 +1,44 @@
+{
+    "name": "Rillaboom",
+    "description": "Though it has a calm disposition, it wont tolerate those who drum up discord. It strictly disciplines offenders until they learn their lesson.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rillaboom.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.11 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "89.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Drummer"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Grookey"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Thwackey"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Rillaboom"
+        }
+    ]
+}

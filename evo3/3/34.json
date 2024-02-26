@@ -1,0 +1,44 @@
+{
+    "name": "Sceptile",
+    "description": "It agilely flits through the jungle and uses the sharp-edged leaves on its arms to cut down its prey.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sceptile.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "52.21 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Forest"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Treecko"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Grovyle"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Sceptile"
+        }
+    ]
+}

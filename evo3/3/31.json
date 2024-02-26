@@ -1,0 +1,44 @@
+{
+    "name": "Klinklang",
+    "description": "From its spikes, it launches powerful blasts of electricity. Its red core contains an enormous amount of energy.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Klinklang.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "81.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Gear"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Plus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Klink"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Klang"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Klinklang"
+        }
+    ]
+}

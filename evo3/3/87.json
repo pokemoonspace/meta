@@ -1,0 +1,44 @@
+{
+    "name": "Dragonite",
+    "description": "It is said that somewhere in the ocean lies an island where these gather. Only they live there.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dragonite.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.21 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "210.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Inner Focus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Rock, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Dratini"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dragonair"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Dragonite"
+        }
+    ]
+}

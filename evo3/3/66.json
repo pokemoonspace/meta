@@ -1,0 +1,44 @@
+{
+    "name": "Victreebel",
+    "description": "It lures prey into its mouth with a nectar-like aroma. The helpless prey is melted with a dissolving fluid.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Victreebel.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Flycatcher"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bellsprout"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Weepinbell"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Victreebel"
+        }
+    ]
+}

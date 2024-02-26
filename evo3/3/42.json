@@ -1,0 +1,44 @@
+{
+    "name": "Machamp",
+    "description": "It punches with its four arms at blinding speed. It can launch 1,000 punches in two seconds.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Machamp.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "130.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Superpower"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Guts"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Machop"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Machoke"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Machamp"
+        }
+    ]
+}

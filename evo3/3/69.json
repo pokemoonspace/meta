@@ -1,0 +1,44 @@
+{
+    "name": "Scolipede",
+    "description": "Scolipede latches on to its prey with the claws on its neck before slamming them into the ground and jabbing them with its claws toxic spikes.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Scolipede.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.49 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "200.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Megapede"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Venipede"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Whirlipede"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Scolipede"
+        }
+    ]
+}

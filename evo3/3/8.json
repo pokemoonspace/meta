@@ -1,0 +1,44 @@
+{
+    "name": "Goodra",
+    "description": "It loves the rain. This mellow Pokemon can be seen walking around on the plains and in the mountains on rainy days.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Goodra.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "150.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hydration"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Goomy"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sliggoo"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Goodra"
+        }
+    ]
+}

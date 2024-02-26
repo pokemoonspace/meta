@@ -1,0 +1,44 @@
+{
+    "name": "Magmortar",
+    "description": "When shooting 3,600 degree Fahrenheit fireballs from its arms, its body takes on a whitish hue from the intense heat.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Magmortar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "67.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Blast"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flame Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Magby"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Magmar"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Magmortar"
+        }
+    ]
+}

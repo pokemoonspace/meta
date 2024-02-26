@@ -1,0 +1,44 @@
+{
+    "name": "Magnezone",
+    "description": "As it zooms through the sky, this Pokemon seems to be receiving signals of unknown origin while transmitting signals of unknown purpose.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Magnezone.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "179.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Magnet Area"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Magnemite"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Magneton"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Magnezone"
+        }
+    ]
+}

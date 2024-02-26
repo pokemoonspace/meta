@@ -1,0 +1,44 @@
+{
+    "name": "Crobat",
+    "description": "Both of its legs have turned into wings. Without a sound, Crobat flies swiftly toward its prey and sinks its fangs into the nape of its targets neck.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Crobat.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "74.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bat"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Inner Focus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Zubat"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Golbat"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Crobat"
+        }
+    ]
+}
