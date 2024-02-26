@@ -1,0 +1,44 @@
+{
+    "name": "Pignite",
+    "description": "When Pignite enters battle, its body temperature rapidly soars until Pignite itself is engulfed by a scorching fireball.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pignite.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "55.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Pig"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tepig"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pignite"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Emboar"
+        }
+    ]
+}

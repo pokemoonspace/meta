@@ -1,0 +1,44 @@
+{
+    "name": "Primeape",
+    "description": "It becomes wildly furious if it even senses someone looking at it. It chases anyone that meets its glare.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Primeape.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "31.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Pig Monkey"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Vital Spirit"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mankey"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Primeape"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Annihilape"
+        }
+    ]
+}

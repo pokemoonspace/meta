@@ -1,0 +1,44 @@
+{
+    "name": "Pupitar",
+    "description": "This pupa flies around wildly by venting with great force the gas pressurized inside its body.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pupitar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "152.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hard Shell"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shed Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Larvitar"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pupitar"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Tyranitar"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Gabite",
+    "description": "In rare cases, it molts and sheds its scales. Medicine containing its scales as an ingredient will make a weary body feel invigorated.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gabite.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "56.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cave"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sand Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gible"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gabite"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Garchomp"
+        }
+    ]
+}

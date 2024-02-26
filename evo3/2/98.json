@@ -1,0 +1,44 @@
+{
+    "name": "Lombre",
+    "description": "Old folklore in Kitakami tells of a mischievous child who was reborn as a Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lombre.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "32.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Jolly"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Lotad"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lombre"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Ludicolo"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Linoone",
+    "description": "It charges prey at speeds over 60 mph. However, because it can only run straight, it often fails.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Linoone.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "32.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rushing"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pickup"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Zigzagoon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Linoone"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Obstagoon"
+        }
+    ]
+}

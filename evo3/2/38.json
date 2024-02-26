@@ -1,0 +1,44 @@
+{
+    "name": "Servine",
+    "description": "It runs low to the ground, weaving through the grass, then mercilessly pummels its target by whipping them with its vines.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Servine.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "16.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Grass Snake"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Snivy"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Servine"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Serperior"
+        }
+    ]
+}

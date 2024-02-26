@@ -1,0 +1,44 @@
+{
+    "name": "Floragato",
+    "description": "Floragato deftly wields the vine hidden beneath its long fur, slamming the hard flower bud against its opponents.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Floragato.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.20 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Grass Cat"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sprigatito"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Floragato"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Meowscarada"
+        }
+    ]
+}

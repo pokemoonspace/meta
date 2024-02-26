@@ -1,0 +1,44 @@
+{
+    "name": "Chansey",
+    "description": "This kindly Pokemon lays highly nutritious eggs and shares them with injured Pokemon or people.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chansey.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "34.61 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Egg"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Natural Cure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Happiny"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Chansey"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Blissey"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Sealeo",
+    "description": "Sealeo live on top of drift ice. They go swimming when theyre on the hunt, seeking out their prey by scent.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sealeo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "87.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ball Roll"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Thick Fat"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Spheal"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sealeo"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Walrein"
+        }
+    ]
+}

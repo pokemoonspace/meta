@@ -1,0 +1,44 @@
+{
+    "name": "Porygon2",
+    "description": "This artificial Pokemon evolved thanks to cutting-edge science. It sometimes displays behavior that is not in its programming.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Porygon2.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "32.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Virtual"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Trace"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Porygon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Porygon2"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Porygon-Z"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Klang",
+    "description": "When Klang goes all out, the minigear links up perfectly with the outer part of the big gear, and this Pokemon's rotation speed increases sharply.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Klang.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "50.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Gear"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Plus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Klink"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Klang"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Klinklang"
+        }
+    ]
+}

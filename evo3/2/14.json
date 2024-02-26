@@ -1,0 +1,44 @@
+{
+    "name": "Hakamo-o",
+    "description": "It gets into fistfights so intense that the scales on its arms peel off. Bare arms are a sign of valiance.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hakamo-o.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "46.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Scaly"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Soundproof"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Flying, Psychic, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Jangmo-o"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Hakamo-o"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Kommo-o"
+        }
+    ]
+}

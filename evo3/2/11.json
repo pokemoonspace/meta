@@ -1,0 +1,44 @@
+{
+    "name": "Eelektrik",
+    "description": "They coil around foes and shock them with electricity-generating organs that seem simply to be circular patterns.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Eelektrik.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "22.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "EleFish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tynamo"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Eelektrik"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Eelektross"
+        }
+    ]
+}

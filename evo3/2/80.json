@@ -1,0 +1,44 @@
+{
+    "name": "Steenee",
+    "description": "Steenee spreads a sweet scent that makes others feel invigorated. This same scent is popular for antiperspirants.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Steenee.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.21 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fruit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bounsweet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Steenee"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Tsareena"
+        }
+    ]
+}

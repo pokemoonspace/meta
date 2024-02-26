@@ -1,0 +1,44 @@
+{
+    "name": "Monferno",
+    "description": "It skillfully controls the intensity of the fire on its tail to keep its foes at an ideal distance.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Monferno.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "22.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Playful"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Chimchar"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Monferno"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Infernape"
+        }
+    ]
+}

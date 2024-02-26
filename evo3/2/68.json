@@ -1,0 +1,44 @@
+{
+    "name": "Trumbeak",
+    "description": "It flies around using a hundred different cries in various ways to declare its territory to others.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Trumbeak.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "14.79 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bugle Beak"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pikipek"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Trumbeak"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Toucannon"
+        }
+    ]
+}

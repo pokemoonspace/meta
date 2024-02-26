@@ -1,0 +1,44 @@
+{
+    "name": "Flaaffy",
+    "description": "As a result of storing too much electricity, it developed patches where even downy wool won\u2019t grow.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Flaaffy.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "13.29 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wool"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mareep"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Flaaffy"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Ampharos"
+        }
+    ]
+}

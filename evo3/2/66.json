@@ -1,0 +1,44 @@
+{
+    "name": "Weepinbell",
+    "description": "Even though it is filled with acid, it does not melt because it also oozes a protective fluid.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Weepinbell.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.40 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Flycatcher"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bellsprout"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Weepinbell"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Victreebel"
+        }
+    ]
+}

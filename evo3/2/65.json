@@ -1,0 +1,44 @@
+{
+    "name": "Charjabug",
+    "description": "Protected by a sturdy shell, Charjabug eats large quantities of fresh and decomposing leaf litter in order to evolve.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Charjabug.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Battery"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Battery"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Grubbin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Charjabug"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Vikavolt"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Ivysaur",
+    "description": "The more sunlight Ivysaur bathes in, the more strength wells up within it, allowing the bud on its back to grow larger.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ivysaur.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "13.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Seed"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bulbasaur"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ivysaur"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Venusaur"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Torracat",
+    "description": "At its throat, it bears a bell of fire. The bell rings brightly whenever fire spews out.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Torracat.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "24.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Cat"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Litten"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Torracat"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Incineroar"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Clefairy",
+    "description": "On nights with a full moon, Clefairy gather from all over and dance. Bathing in moonlight makes them float.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Clefairy.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Cute Charm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cleffa"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Clefairy"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Clefable"
+        }
+    ]
+}

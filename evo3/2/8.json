@@ -1,0 +1,44 @@
+{
+    "name": "Sliggoo",
+    "description": "The swirly protrusion on its back is filled with all its vital organs, such as its brain and heart.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sliggoo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "17.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Soft Tissue"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hydration"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Goomy"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sliggoo"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Goodra"
+        }
+    ]
+}

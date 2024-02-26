@@ -1,0 +1,44 @@
+{
+    "name": "Armarouge",
+    "description": "Armarouge evolved through the use of a set of armor that belonged to a distinguished warrior. This Pokemon is incredibly loyal.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Armarouge.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "85.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Warrior"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Charcadet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Armarouge"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Ceruledge"
+        }
+    ]
+}

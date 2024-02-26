@@ -1,0 +1,44 @@
+{
+    "name": "Prinplup",
+    "description": "It lives a solitary life. Its wings deliver wicked blows that can snap even the thickest of trees in half with a single hit.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Prinplup.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "23.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Penguin"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Piplup"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Prinplup"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Empoleon"
+        }
+    ]
+}

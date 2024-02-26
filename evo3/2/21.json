@@ -1,0 +1,44 @@
+{
+    "name": "Quaxwell",
+    "description": "These Pokemon constantly run through shallow waters to train their legs, then compete with each other to see which of them kicks most gracefully.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Quaxwell.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "21.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Practicing"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Quaxly"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Quaxwell"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Quaquaval"
+        }
+    ]
+}

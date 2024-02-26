@@ -1,0 +1,44 @@
+{
+    "name": "Charmeleon",
+    "description": "When it swings its burning tail, the temperature around it rises higher and higher, tormenting its opponents.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Charmeleon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Flame"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Charmander"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Charmeleon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Charizard"
+        }
+    ]
+}

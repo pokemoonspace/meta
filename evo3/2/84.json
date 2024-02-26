@@ -1,0 +1,44 @@
+{
+    "name": "Ursaring",
+    "description": "It usually wears a hardened expression, but when it\u2019s licking up honey which it loves the joy it feels will cause it to break into a wide grin.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ursaring.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "125.78 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hibernator"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Guts"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Teddiursa"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ursaring"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Ursaluna"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Dottler",
+    "description": "It barely moves, but it\u2019s still alive. Hiding in its shell without food or water seems to have awakened its psychic powers.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dottler.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Radome"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Compound Eyes"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Bug, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Blipbug"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dottler"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Orbeetle"
+        }
+    ]
+}

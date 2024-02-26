@@ -1,0 +1,44 @@
+{
+    "name": "Combusken",
+    "description": "It boosts its concentration by emitting harsh cries. Its kicks have outstanding destructive power.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Combusken.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Young Fowl"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Torchic"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Combusken"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Blaziken"
+        }
+    ]
+}

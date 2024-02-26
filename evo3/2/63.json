@@ -1,0 +1,44 @@
+{
+    "name": "Luxio",
+    "description": "Strong electricity courses through the tips of its sharp claws. A light scratch causes fainting in foes.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Luxio.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "30.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Spark"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shinx"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Luxio"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Luxray"
+        }
+    ]
+}

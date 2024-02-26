@@ -1,0 +1,44 @@
+{
+    "name": "Naclstack",
+    "description": "This Pokemon dry cures its prey by spraying salt over them. The curing process steals away the water in the prey's body.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Naclstack.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "105.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rock Salt"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nacli"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Naclstack"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Garganacl"
+        }
+    ]
+}

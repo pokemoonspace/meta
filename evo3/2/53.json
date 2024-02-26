@@ -1,0 +1,44 @@
+{
+    "name": "Bayleef",
+    "description": "The spicy scent that wafts from around Bayleef\u2019s neck somehow makes those who smell it want to fight.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bayleef.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.79 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Leaf"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Chikorita"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bayleef"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Meganium"
+        }
+    ]
+}

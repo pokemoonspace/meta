@@ -1,0 +1,44 @@
+{
+    "name": "Zweilous",
+    "description": "The two heads do not get along at all. If you dont give each head the same amount of attention, they begin fighting out of jealousy.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Zweilous.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "49.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hostile"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hustle"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Fighting, Bug, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Deino"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Zweilous"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Hydreigon"
+        }
+    ]
+}

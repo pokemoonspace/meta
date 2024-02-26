@@ -1,0 +1,44 @@
+{
+    "name": "Scizor",
+    "description": "This Pokemons pincers, which contain steel, can crush any hard object they get ahold of into bits.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Scizor.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "117.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Pincer"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Scyther"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Scizor"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Kleavor"
+        }
+    ]
+}

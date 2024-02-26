@@ -1,0 +1,44 @@
+{
+    "name": "Roselia",
+    "description": "Its flowers give off a relaxing fragrance. The stronger its aroma, the healthier the Roselia is.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Roselia.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Thorn"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Poison Point"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Budew"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Roselia"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Roserade"
+        }
+    ]
+}

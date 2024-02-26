@@ -1,0 +1,44 @@
+{
+    "name": "Whirlipede",
+    "description": "This Pokemon spins itself rapidly and charges into its opponents. Its top speed is just over 60 mph.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Whirlipede.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "58.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Curlipede"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Venipede"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Whirlipede"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Scolipede"
+        }
+    ]
+}

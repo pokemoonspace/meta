@@ -1,0 +1,44 @@
+{
+    "name": "Nuzleaf",
+    "description": "It leads a quiet life deep in the forest. If anything wanders into its territory, Nuzleaf will warn the intruder by sounding its grass flute.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nuzleaf.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "27.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wily"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Fighting, Poison, Flying, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Seedot"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Nuzleaf"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Shiftry"
+        }
+    ]
+}

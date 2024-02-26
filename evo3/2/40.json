@@ -1,0 +1,44 @@
+{
+    "name": "Krokorok",
+    "description": "Protected by thin membranes, their eyes can see even in the dead of night. They live in groups of a few individuals.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Krokorok.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "33.38 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Desert Croc"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sandile"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Krokorok"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Krookodile"
+        }
+    ]
+}

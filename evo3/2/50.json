@@ -1,0 +1,44 @@
+{
+    "name": "Bisharp",
+    "description": "This Pokemon commands a group of several Pawniard. Groups that are defeated in territorial disputes are absorbed by the winning side.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bisharp.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "69.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sword Blade"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Inner Focus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pawniard"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bisharp"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Kingambit"
+        }
+    ]
+}

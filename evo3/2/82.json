@@ -1,0 +1,44 @@
+{
+    "name": "Brionne",
+    "description": "A skillful dancer, it creates a sequence of water balloons as it dances, then briskly bombards its enemies.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Brionne.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "17.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Pop Star"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Popplio"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Brionne"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Primarina"
+        }
+    ]
+}

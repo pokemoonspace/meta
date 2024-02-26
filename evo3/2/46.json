@@ -1,0 +1,44 @@
+{
+    "name": "Marshtomp",
+    "description": "Living on muddy ground that provides poor footing has served to train its lower body and caused it to develop sturdy legs.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Marshtomp.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "27.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mud Fish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mudkip"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Marshtomp"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Swampert"
+        }
+    ]
+}

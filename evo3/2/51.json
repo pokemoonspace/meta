@@ -1,0 +1,44 @@
+{
+    "name": "Golbat",
+    "description": "It loves to drink other creatures\u2019 blood. It\u2019s said that if it finds others of its kind going hungry, it sometimes shares the blood it\u2019s gathered.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Golbat.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "55.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bat"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Inner Focus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Zubat"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Golbat"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Crobat"
+        }
+    ]
+}

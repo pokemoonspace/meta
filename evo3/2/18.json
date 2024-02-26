@@ -1,0 +1,44 @@
+{
+    "name": "Fletchinder",
+    "description": "Fletchinder scatters embers in tall grass where bug Pokemon might be hiding and then catches them as they come leaping out.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Fletchinder.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "16.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ember"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flame Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Electric, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Fletchling"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Fletchinder"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Talonflame"
+        }
+    ]
+}

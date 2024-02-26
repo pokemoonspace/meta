@@ -1,0 +1,44 @@
+{
+    "name": "Graveler",
+    "description": "A slow walker, it rolls to move. It pays no attention to any object that happens to be in its path.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Graveler.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "105.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Geodude"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Graveler"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Golem"
+        }
+    ]
+}

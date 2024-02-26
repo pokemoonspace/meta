@@ -1,0 +1,44 @@
+{
+    "name": "Nidorina",
+    "description": "The horn on its head has atrophied. Its thought that this happens so Nidorinas children wont get poked while their mother is feeding them.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nidorina.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "20.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Poison Pin"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Poison Point"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nidoran"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Nidorina"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Nidoqueen"
+        }
+    ]
+}

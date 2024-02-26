@@ -1,0 +1,44 @@
+{
+    "name": "Huntail",
+    "description": "It\u2019s not the strongest swimmer. It wags its tail to lure in its prey and then gulps them down as soon as they get close.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Huntail.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "26.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Deep Sea"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Clamperl"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Huntail"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Gorebyss"
+        }
+    ]
+}

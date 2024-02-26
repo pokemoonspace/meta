@@ -1,0 +1,44 @@
+{
+    "name": "Tinkatuff",
+    "description": "This Pokemon will attack groups of Pawniard and Bisharp, gathering metal from them in order to create a large and sturdy hammer.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tinkatuff.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "59.10 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hammer"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Own Tempo"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tinkatink"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Tinkatuff"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Tinkaton"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Loudred",
+    "description": "Loudreds ears serve as speakers, and they can put out sound waves powerful enough to blow away a house.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Loudred.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "40.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Big Voice"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Soundproof"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Whismur"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Loudred"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Exploud"
+        }
+    ]
+}

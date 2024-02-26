@@ -1,0 +1,44 @@
+{
+    "name": "Wartortle",
+    "description": "Wartortles long, furry tail is a symbol of longevity, so this Pokemon is quite popular among older people.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wartortle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "22.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Turtle"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Squirtle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Wartortle"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Blastoise"
+        }
+    ]
+}

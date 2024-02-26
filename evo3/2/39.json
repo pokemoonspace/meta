@@ -1,0 +1,44 @@
+{
+    "name": "Magmar",
+    "description": "Found near the mouth of a volcano. This fire-breather\u2019s body temperature is nearly 2,200 degrees Fahrenheit.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Magmar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "44.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Spitfire"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flame Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Magby"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Magmar"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Magmortar"
+        }
+    ]
+}

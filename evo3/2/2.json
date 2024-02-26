@@ -1,0 +1,44 @@
+{
+    "name": "Magneton",
+    "description": "Three Magnemite are linked by a strong magnetic force. Earaches will occur if you get too close.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Magneton.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "60.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Magnet"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Magnemite"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Magneton"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Magnezone"
+        }
+    ]
+}

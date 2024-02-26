@@ -1,0 +1,44 @@
+{
+    "name": "Swadloon",
+    "description": "Swadloon lives quietly at the feet of trees. It prefers eating fallen leaves that have grown soft rather than fresh ones.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Swadloon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.30 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Leaf-Wrapped"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sewaddle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Swadloon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Leavanny"
+        }
+    ]
+}

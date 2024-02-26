@@ -1,0 +1,44 @@
+{
+    "name": "Corvisquire",
+    "description": "Its said that the reason behind Corvisquires high level of intelligence is the large size of its brain relative to those of other bird Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Corvisquire.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "16.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Raven"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rookidee"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Corvisquire"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Corviknight"
+        }
+    ]
+}

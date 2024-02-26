@@ -1,0 +1,44 @@
+{
+    "name": "Braixen",
+    "description": "It ignites the twig from its tail and waves the twig around to signal its allies. To indicate danger, it draws circles in the air with the twig\u2019s flame.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Braixen.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "14.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Fennekin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Braixen"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Delphox"
+        }
+    ]
+}

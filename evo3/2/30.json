@@ -1,0 +1,44 @@
+{
+    "name": "Nidorino",
+    "description": "With a horn thats harder than diamond, this Pokemon goes around shattering boulders as it searches for a moon stone.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nidorino.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Poison Pin"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Poison Point"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nidoran"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Nidorino"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Nidoking"
+        }
+    ]
+}

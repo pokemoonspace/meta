@@ -1,0 +1,44 @@
+{
+    "name": "Gothorita",
+    "description": "This Pokemon will hypnotize children to put them to sleep before carrying them away. Be wary of nights when the starlight is bright.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gothorita.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "18.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Manipulate"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Frisk"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gothita"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gothorita"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Gothitelle"
+        }
+    ]
+}

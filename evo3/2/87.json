@@ -1,0 +1,44 @@
+{
+    "name": "Dragonair",
+    "description": "They say that if it emits an aura from its whole body, the weather will begin to change instantly.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dragonair.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "16.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shed Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Dratini"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dragonair"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Dragonite"
+        }
+    ]
+}

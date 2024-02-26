@@ -1,0 +1,44 @@
+{
+    "name": "Herdier",
+    "description": "Herdier is a very smart and friendly Pokemon. So much so that theres a theory that Herdier was the first Pokemon to partner with people.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Herdier.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "14.70 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Loyal Dog"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Lillipup"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Herdier"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Stoutland"
+        }
+    ]
+}

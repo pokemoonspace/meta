@@ -1,0 +1,44 @@
+{
+    "name": "Gurdurr",
+    "description": "They strengthen their bodies by carrying steel beams. They show off their big muscles to their friends.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gurdurr.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "40.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Muscular"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Guts"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Timburr"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gurdurr"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Conkeldurr"
+        }
+    ]
+}

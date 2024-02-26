@@ -1,0 +1,44 @@
+{
+    "name": "Rhydon",
+    "description": "The horn of a Rhydon is powerful enough to crush raw diamonds. These Pokemon polish their horns by bashing them together.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rhydon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground, Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "120.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Drill"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rhyhorn"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Rhydon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Rhyperior"
+        }
+    ]
+}

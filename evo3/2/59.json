@@ -1,0 +1,44 @@
+{
+    "name": "Quilava",
+    "description": "Before battle, it turns its back on its opponent to demonstrate how ferociously its fire blazes.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Quilava.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cyndaquil"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Quilava"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Typhlosion"
+        }
+    ]
+}

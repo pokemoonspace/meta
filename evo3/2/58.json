@@ -1,0 +1,44 @@
+{
+    "name": "Dusclops",
+    "description": "Dusclops is feared because it\u2019s said to pull the soul out of anyone who gazes upon the strange movements of its hands.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dusclops.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "30.62 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Beckon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Duskull"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dusclops"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Dusknoir"
+        }
+    ]
+}

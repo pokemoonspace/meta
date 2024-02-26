@@ -1,0 +1,44 @@
+{
+    "name": "Fraxure",
+    "description": "Because its tusks dont grow back once they break, this Pokemon apparently wont use them unless truly necessary.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Fraxure.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "36.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Axe Jaw"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rivalry"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Axew"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Fraxure"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Haxorus"
+        }
+    ]
+}

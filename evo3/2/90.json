@@ -1,0 +1,44 @@
+{
+    "name": "Electabuzz",
+    "description": "Its body constantly discharges electricity. Getting close to it will make your hair stand on end.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Electabuzz.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Elekid"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Electabuzz"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Electivire"
+        }
+    ]
+}
