@@ -1,0 +1,44 @@
+{
+    "name": "Tepig",
+    "description": "Its more nimble than it looks, and it uses its speed to confound its enemies. It rapidly launches fireballs from both nostrils.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tepig.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.89 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Pig"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tepig"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pignite"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Emboar"
+        }
+    ]
+}

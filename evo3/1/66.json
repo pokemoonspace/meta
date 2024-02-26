@@ -1,0 +1,44 @@
+{
+    "name": "Bellsprout",
+    "description": "No matter what Bellsprout is doing, if it detects movement nearby, it will immediately react by reaching out with its thin vines.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bellsprout.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bellsprout"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Weepinbell"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Victreebel"
+        }
+    ]
+}

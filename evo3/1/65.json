@@ -1,0 +1,44 @@
+{
+    "name": "Grubbin",
+    "description": "Grubbin normally live underground, but if they get unearthed by Hoothoot, they may be found gathered around electric Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Grubbin.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.40 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Larva"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Grubbin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Charjabug"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Vikavolt"
+        }
+    ]
+}

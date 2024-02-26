@@ -1,0 +1,44 @@
+{
+    "name": "Porygon",
+    "description": "It is an artificial Pokemon. Since it doesnt breathe, people are excited by its potential to be useful in any environment.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Porygon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "36.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Virtual"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Trace"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Porygon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Porygon2"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Porygon-Z"
+        }
+    ]
+}

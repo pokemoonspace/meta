@@ -1,0 +1,44 @@
+{
+    "name": "Litwick",
+    "description": "Its flame is usually out, but it starts shining when Litwick absorbs life-force from people or Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Litwick.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.08 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Candle"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Litwick"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lampent"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Chandelure"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Elekid",
+    "description": "It loves violent thunder. The space between its horns flickers bluish white when it is charging energy.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Elekid.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "23.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Elekid"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Electabuzz"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Electivire"
+        }
+    ]
+}

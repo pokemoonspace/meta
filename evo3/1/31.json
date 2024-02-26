@@ -1,0 +1,44 @@
+{
+    "name": "Klink",
+    "description": "The two minigears that compose this Pokemon are closer than twins. They mesh well only with each other.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Klink.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "21.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Gear"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Plus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Klink"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Klang"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Klinklang"
+        }
+    ]
+}

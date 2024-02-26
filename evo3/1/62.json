@@ -1,0 +1,44 @@
+{
+    "name": "Sobble",
+    "description": "It gets berries to eat by shooting them down with bullets of water it spurts from its mouth. Its aim is perfect.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sobble.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Water Lizard"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sobble"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Drizzile"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Inteleon"
+        }
+    ]
+}

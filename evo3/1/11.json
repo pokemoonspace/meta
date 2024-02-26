@@ -1,0 +1,44 @@
+{
+    "name": "Tynamo",
+    "description": "While one alone doest have much power, a chain of many Tynamo can be as powerful as lightning.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tynamo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.32 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "EleFish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tynamo"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Eelektrik"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Eelektross"
+        }
+    ]
+}

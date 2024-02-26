@@ -1,0 +1,44 @@
+{
+    "name": "Shinx",
+    "description": "The extension and contraction of its muscles generates electricity. It glows when in trouble.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shinx.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Flash"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shinx"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Luxio"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Luxray"
+        }
+    ]
+}

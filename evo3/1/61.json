@@ -1,0 +1,44 @@
+{
+    "name": "Rolycoly",
+    "description": "On sunny days, Rolycoly will come out onto grassy plains and roll around. Then it will eat the grass that gets tangled in its wheel-like leg.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rolycoly.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Coal"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Heatproof"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rolycoly"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Carkol"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Coalossal"
+        }
+    ]
+}

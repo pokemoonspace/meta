@@ -1,0 +1,44 @@
+{
+    "name": "Timburr",
+    "description": "Always carrying squared logs, they help out with construction. As they grow, they carry bigger logs.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Timburr.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Muscular"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Guts"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Timburr"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gurdurr"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Conkeldurr"
+        }
+    ]
+}

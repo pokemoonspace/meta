@@ -1,0 +1,44 @@
+{
+    "name": "Totodile",
+    "description": "Its powerful, well-developed jaws are capable of crushing anything. Even its Trainer must be careful.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Totodile.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Big Jaw"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Totodile"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Croconaw"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Feraligatr"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Mankey",
+    "description": "It lives in groups in the treetops. If it loses sight of its group, it becomes infuriated by its loneliness.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mankey.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "27.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Pig Monkey"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Vital Spirit"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mankey"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Primeape"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Annihilape"
+        }
+    ]
+}

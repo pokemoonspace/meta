@@ -1,0 +1,44 @@
+{
+    "name": "Trapinch",
+    "description": "This Pokemon lives in arid deserts. It patiently awaits prey inside its funnel-shaped nest.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Trapinch.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ant Pit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Arena Trap"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Trapinch"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Vibrava"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Flygon"
+        }
+    ]
+}

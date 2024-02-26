@@ -1,0 +1,44 @@
+{
+    "name": "Mudkip",
+    "description": "It has the power to crush large boulders into pieces. To rest, it buries itself in mud at the bottom of a river.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mudkip.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.62 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mud Fish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mudkip"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Marshtomp"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Swampert"
+        }
+    ]
+}

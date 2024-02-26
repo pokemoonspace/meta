@@ -1,0 +1,44 @@
+{
+    "name": "Froakie",
+    "description": "Its happy-go-lucky look is an act intended to fool its enemies. It will suddenly drop the facade and overwhelm its foes with its blinding speed.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Froakie.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bubble Frog"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Froakie"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Frogadier"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Greninja"
+        }
+    ]
+}

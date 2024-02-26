@@ -1,0 +1,44 @@
+{
+    "name": "Impidimp",
+    "description": "The reason this Pokemon causes trouble for those it feels close to is because Impidimp itself gets irritable if it cant absorb negative emotions.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Impidimp.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wily"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Frisk"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Impidimp"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Morgrem"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Grimmsnarl"
+        }
+    ]
+}

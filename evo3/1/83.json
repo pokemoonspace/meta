@@ -1,0 +1,44 @@
+{
+    "name": "Slowpoke",
+    "description": "It is incredibly slow and dopey. It takes five seconds for it to feel pain when under attack.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Slowpoke.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "36.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dopey"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Slowpoke"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Slowbro"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Slowking"
+        }
+    ]
+}

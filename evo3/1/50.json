@@ -1,0 +1,44 @@
+{
+    "name": "Pawniard",
+    "description": "Pawniard will fearlessly challenge even powerful foes. In a pinch, it will cling to opponents and pierce them with the blades all over its body.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pawniard.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.21 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sharp Blade"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Inner Focus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pawniard"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bisharp"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Kingambit"
+        }
+    ]
+}

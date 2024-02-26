@@ -1,0 +1,44 @@
+{
+    "name": "Togepi",
+    "description": "The shell seems to be filled with joy. It is said that it will share good luck when treated kindly.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Togepi.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Spike Ball"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Serene Grace"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Togepi"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Togetic"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Togekiss"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Larvitar",
+    "description": "Born deep underground, this Pokemon becomes a pupa after eating enough dirt to make a mountain.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Larvitar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "71.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rock Skin"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Guts"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Larvitar"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pupitar"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Tyranitar"
+        }
+    ]
+}

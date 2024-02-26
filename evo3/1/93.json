@@ -1,0 +1,44 @@
+{
+    "name": "Gible",
+    "description": "It skulks in caves, and when prey or an enemy passes by, it leaps out and chomps them. The force of its attack sometimes chips its teeth.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gible.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "20.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Land Shark"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sand Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gible"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gabite"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Garchomp"
+        }
+    ]
+}

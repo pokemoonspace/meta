@@ -1,0 +1,44 @@
+{
+    "name": "Nidoran Male",
+    "description": "The horn on a male Nidorans forehead contains a powerful poison. This is a very cautious Pokemon, always straining its large ears.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nidoran-Male.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Poison Pin"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Poison Point"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nidoran Male"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Nidorino"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Nidoking"
+        }
+    ]
+}

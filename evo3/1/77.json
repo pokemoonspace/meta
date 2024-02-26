@@ -1,0 +1,44 @@
+{
+    "name": "Sprigatito",
+    "description": "Its fluffy fur is similar in composition to plants. This Pokemon frequently washes its face to keep it from drying out.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sprigatito.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.08 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Grass Cat"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sprigatito"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Floragato"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Meowscarada"
+        }
+    ]
+}

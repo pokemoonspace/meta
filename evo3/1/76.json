@@ -1,0 +1,44 @@
+{
+    "name": "Vanillite",
+    "description": "Unable to survive in hot areas, it makes itself comfortable by breathing out air cold enough to cause snow. It burrows into the snow to sleep.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Vanillite.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.72 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fresh Snow"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Snow Cloak"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Vanillite"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Vanillish"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Vanilluxe"
+        }
+    ]
+}

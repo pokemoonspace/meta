@@ -1,0 +1,44 @@
+{
+    "name": "Machop",
+    "description": "Its whole body is composed of muscles. Even though it\u2019s the size of a human child, it can hurl 100 grown-ups.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Machop.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Superpower"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Guts"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Machop"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Machoke"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Machamp"
+        }
+    ]
+}

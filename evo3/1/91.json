@@ -1,0 +1,44 @@
+{
+    "name": "Chimchar",
+    "description": "It is very agile. Before going to sleep, it extinguishes the flame on its tail to prevent fires.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chimchar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.21 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Chimp"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Chimchar"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Monferno"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Infernape"
+        }
+    ]
+}

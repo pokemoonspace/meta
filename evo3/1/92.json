@@ -1,0 +1,44 @@
+{
+    "name": "Happiny",
+    "description": "It carries a round, white rock in its belly pouch. If it gets along well with someone, it will sometimes give that person the rock.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Happiny.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "24.40 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Playhouse"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Natural Cure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Happiny"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Chansey"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Blissey"
+        }
+    ]
+}

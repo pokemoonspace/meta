@@ -1,0 +1,44 @@
+{
+    "name": "Budew",
+    "description": "The pollen it releases contains poison. If this Pokemon is raised on clean water, the poisons toxicity is increased.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Budew.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bud"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Poison Point"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Budew"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Roselia"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Roserade"
+        }
+    ]
+}

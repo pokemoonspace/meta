@@ -1,0 +1,44 @@
+{
+    "name": "Duskull",
+    "description": "In the dead of night, these Pokemon wander through towns in search of children, whose vital energy is a Duskulls favorite food.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Duskull.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Requiem"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Duskull"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dusclops"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Dusknoir"
+        }
+    ]
+}

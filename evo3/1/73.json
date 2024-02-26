@@ -1,0 +1,44 @@
+{
+    "name": "Pawmi",
+    "description": "It has underdeveloped electric sacs on its cheeks. These sacs can produce electricity only if Pawmi rubs them furiously with the pads on its forepaws.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pawmi.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mouse"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pawmi"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pawmo"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Pawmot"
+        }
+    ]
+}

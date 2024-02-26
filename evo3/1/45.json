@@ -1,0 +1,44 @@
+{
+    "name": "Horsea",
+    "description": "If attacked\u2014even by a large enemy\u2014Horsea effortlessly swims to safety by utilizing its well-developed dorsal fin.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Horsea.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Horsea"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Seadra"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Kingdra"
+        }
+    ]
+}

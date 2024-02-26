@@ -1,0 +1,44 @@
+{
+    "name": "Pidgey",
+    "description": "Very docile. If attacked, it will often kick up sand to protect itself rather than fight back.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pidgey.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tiny Bird"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pidgey"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pidgeotto"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Pidgeot"
+        }
+    ]
+}

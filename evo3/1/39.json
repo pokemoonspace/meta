@@ -1,0 +1,44 @@
+{
+    "name": "Magby",
+    "description": "Each and every time it inhales and exhales, sparks leak from its mouth and nostrils.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Magby.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "21.41 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Live Coal"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flame Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Magby"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Magmar"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Magmortar"
+        }
+    ]
+}

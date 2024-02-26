@@ -1,0 +1,44 @@
+{
+    "name": "Nacli",
+    "description": "It was born in a layer of rock salt deep under the earth. This species was particularly treasured in the old days, as they would share precious salt.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nacli.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "16.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rock Salt"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nacli"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Naclstack"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Garganacl"
+        }
+    ]
+}

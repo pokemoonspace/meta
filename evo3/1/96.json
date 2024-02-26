@@ -1,0 +1,44 @@
+{
+    "name": "Zigzagoon",
+    "description": "It walks in zigzag fashion. It\u2019s good at finding items in the grass and even in the ground.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Zigzagoon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "17.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tiny Raccoon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pickup"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Zigzagoon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Linoone"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Obstagoon"
+        }
+    ]
+}

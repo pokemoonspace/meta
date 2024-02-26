@@ -1,0 +1,44 @@
+{
+    "name": "Deino",
+    "description": "It can\u2019t see, so its first approach to examining things is to bite them. You will be covered in wounds until a Deino warms up to you.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Deino.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "17.28 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Irate"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hustle"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Fighting, Bug, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Deino"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Zweilous"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Hydreigon"
+        }
+    ]
+}

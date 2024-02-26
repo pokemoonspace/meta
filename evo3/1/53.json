@@ -1,0 +1,44 @@
+{
+    "name": "Chikorita",
+    "description": "It loves to bask in the sunlight. It uses the leaf on its head to seek out warm places.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chikorita.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.40 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Leaf"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Chikorita"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bayleef"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Meganium"
+        }
+    ]
+}

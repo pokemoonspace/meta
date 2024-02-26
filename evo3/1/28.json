@@ -1,0 +1,44 @@
+{
+    "name": "Squirtle",
+    "description": "After birth, its back swells and hardens into a shell. It sprays a potent foam from its mouth.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Squirtle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tiny Turtle"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Squirtle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Wartortle"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Blastoise"
+        }
+    ]
+}

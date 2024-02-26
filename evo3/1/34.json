@@ -1,0 +1,44 @@
+{
+    "name": "Treecko",
+    "description": "The small hooks on the soles of its feet latch on to walls and ceilings, so it will never fall even while hanging upside down.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Treecko.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wood Gecko"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Treecko"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Grovyle"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Sceptile"
+        }
+    ]
+}

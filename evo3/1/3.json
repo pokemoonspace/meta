@@ -1,0 +1,44 @@
+{
+    "name": "Flabebe",
+    "description": "This Pokemon can draw forth the power hidden within blooming wild flowers. It is particularly fond of red flowers.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Flabebe.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.10 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.09 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Single Bloom"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flower Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Flabebe"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Floette"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Florges"
+        }
+    ]
+}

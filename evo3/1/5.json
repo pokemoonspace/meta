@@ -1,0 +1,44 @@
+{
+    "name": "Slakoth",
+    "description": "It sleeps for 20 hours every day. Making drowsy those that see it is one of its abilities.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Slakoth.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "24.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Slacker"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Truant"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Slakoth"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Vigoroth"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Slaking"
+        }
+    ]
+}

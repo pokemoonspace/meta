@@ -1,0 +1,44 @@
+{
+    "name": "Honedge",
+    "description": "Honedges soul once belonged to a person who was killed a long time ago by the sword that makes up Honedges body.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Honedge.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sword"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "No Guard"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ground, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Honedge"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Doublade"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Aegislash"
+        }
+    ]
+}

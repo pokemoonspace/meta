@@ -1,0 +1,44 @@
+{
+    "name": "Clamperl",
+    "description": "Despite its appearance, its carnivorous. It clamps down on its prey with both sides of its shell and doesn\u2019t let go until they stop moving.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Clamperl.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "52.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bivalve"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shell Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Clamperl"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Huntail"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Gorebyss"
+        }
+    ]
+}

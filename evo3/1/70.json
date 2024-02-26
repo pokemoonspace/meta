@@ -1,0 +1,44 @@
+{
+    "name": "Charcadet",
+    "description": "Burnt charcoal came to life and became a Pokemon. Possessing a fiery fighting spirit, Charcadet will battle even tough opponents.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Charcadet.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Child"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Charcadet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Armarouge"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Ceruledge"
+        }
+    ]
+}

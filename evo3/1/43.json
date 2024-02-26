@@ -1,0 +1,44 @@
+{
+    "name": "Pichu",
+    "description": "It is unskilled at storing electric power. Any kind of shock causes it to discharge energy spontaneously.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pichu.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tiny Mouse"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pichu"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pikachu"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Raichu"
+        }
+    ]
+}

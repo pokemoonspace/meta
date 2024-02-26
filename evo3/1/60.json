@@ -1,0 +1,44 @@
+{
+    "name": "Bulbasaur",
+    "description": "For some time after its birth, it uses the nutrients that are packed into the seed on its back in order to grow.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bulbasaur.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.89 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Seed"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bulbasaur"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ivysaur"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Venusaur"
+        }
+    ]
+}

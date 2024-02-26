@@ -1,0 +1,44 @@
+{
+    "name": "Aron",
+    "description": "It eats iron ore and sometimes railroad tracks to build up the steel armor that protects its body.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Aron.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "60.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Iron Armor"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Aron"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lairon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Aggron"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Venipede",
+    "description": "Venipede and Sizzlipede are similar species, but when the two meet, a huge fight ensues.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Venipede.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.31 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Centipede"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Venipede"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Whirlipede"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Scolipede"
+        }
+    ]
+}

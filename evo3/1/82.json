@@ -1,0 +1,44 @@
+{
+    "name": "Popplio",
+    "description": "This Pokemon can control balloons made of water. It practices diligently so it can learn to make big balloons.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Popplio.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Lion"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Popplio"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Brionne"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Primarina"
+        }
+    ]
+}

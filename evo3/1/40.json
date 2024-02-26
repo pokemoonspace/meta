@@ -1,0 +1,44 @@
+{
+    "name": "Sandile",
+    "description": "It submerges itself in sand and moves as if swimming. This wise behavior keeps its enemies from finding it and maintains its temperature.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sandile.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.20 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Desert Croc"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sandile"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Krokorok"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Krookodile"
+        }
+    ]
+}

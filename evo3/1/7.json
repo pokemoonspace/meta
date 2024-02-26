@@ -1,0 +1,44 @@
+{
+    "name": "Litten",
+    "description": "If you try too hard to get close to it, it wont open up to you. Even if you do grow close, giving it too much affection is still a no-no.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Litten.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.31 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Cat"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Litten"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Torracat"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Incineroar"
+        }
+    ]
+}

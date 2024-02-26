@@ -1,0 +1,44 @@
+{
+    "name": "Fennekin",
+    "description": "This Pokemon gets worked up easily. Its body can also overheat, so it uses its ears to dissipate the heat and calm down.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Fennekin.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.39 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Fennekin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Braixen"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Delphox"
+        }
+    ]
+}

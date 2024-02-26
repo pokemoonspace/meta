@@ -1,0 +1,44 @@
+{
+    "name": "Oshawott",
+    "description": "It wields the scalchop on its stomach like a knife, blocking the moves of its enemies before slashing back at them in swift retaliation.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Oshawott.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.90 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Otter"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Torrent"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Oshawott"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dewott"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Samurott"
+        }
+    ]
+}

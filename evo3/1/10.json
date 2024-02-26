@@ -1,0 +1,44 @@
+{
+    "name": "Dreepy",
+    "description": "In the evening, groups of Dreepy will fly at high speeds over the ocean and poke at Pokemon in the water for fun.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dreepy.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Lingering"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Clear Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Ghost, Dragon, Dark, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Dreepy"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Drakloak"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Dragapult"
+        }
+    ]
+}

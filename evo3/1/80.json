@@ -1,0 +1,44 @@
+{
+    "name": "Bounsweet",
+    "description": "Its sweat is sweet, like syrup made from boiled-down fruit. Because of this, Bounsweet was highly valued in the past, when sweeteners were scarce.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bounsweet.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.22 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fruit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bounsweet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Steenee"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Tsareena"
+        }
+    ]
+}

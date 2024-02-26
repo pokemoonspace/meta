@@ -1,0 +1,44 @@
+{
+    "name": "Caterpie",
+    "description": "For protection, it releases a horrible stench from the antenna on its head to drive away enemies.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Caterpie.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.90 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Worm"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shield Dust"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Caterpie"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Metapod"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Butterfree"
+        }
+    ]
+}

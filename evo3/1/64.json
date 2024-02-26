@@ -1,0 +1,44 @@
+{
+    "name": "Seedot",
+    "description": "To expand its habitat, it pretends to be a nut so that bird Pokemon will pick it up and carry it far away.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Seedot.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Acorn"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Seedot"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Nuzleaf"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Shiftry"
+        }
+    ]
+}

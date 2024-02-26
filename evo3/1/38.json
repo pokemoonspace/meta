@@ -1,0 +1,44 @@
+{
+    "name": "Snivy",
+    "description": "The leaf on Snivys tail generates energy when exposed to sunlight, making Snivy swifter and adding an edge to its moves.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Snivy.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.12 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Grass Snake"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Snivy"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Servine"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Serperior"
+        }
+    ]
+}

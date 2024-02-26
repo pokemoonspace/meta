@@ -1,0 +1,44 @@
+{
+    "name": "Pidove",
+    "description": "Where people go, these Pokemon follow. If you\u2019re scattering food for them, be careful several hundred of them can gather at once.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pidove.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.09 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tiny Pigeon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Super Luck"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pidove"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Tranquill"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Unfezant"
+        }
+    ]
+}

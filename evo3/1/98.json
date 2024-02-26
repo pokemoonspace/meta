@@ -1,0 +1,44 @@
+{
+    "name": "Lotad",
+    "description": "The leaf on its head is naturally dirt repellent and will stay clean even after transporting Pokemon that are covered in mud.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lotad.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Water Weed"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Lotad"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lombre"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Ludicolo"
+        }
+    ]
+}

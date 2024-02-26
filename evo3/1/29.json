@@ -1,0 +1,44 @@
+{
+    "name": "Tinkatink",
+    "description": "It swings its handmade hammer around to protect itself, but the hammer is often stolen by Pokemon that eat metal.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tinkatink.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.89 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Metalsmith"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Own Tempo"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tinkatink"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Tinkatuff"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Tinkaton"
+        }
+    ]
+}

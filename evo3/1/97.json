@@ -1,0 +1,44 @@
+{
+    "name": "Swinub",
+    "description": "It searches for food by digging into the ground with its snout. Even frozen ground doesn\u2019t give it any trouble.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Swinub.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Pig"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Water, Grass, Fighting, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Swinub"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Piloswine"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Mamoswine"
+        }
+    ]
+}
