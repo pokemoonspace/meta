@@ -1,0 +1,40 @@
+{
+    "name": "Wyrdeer",
+    "description": "The black orbs shine with an uncanny light when the Pokemon is erecting invisible barriers. The fur shed from its beard retains heat well and is a highly useful material for winter clothing.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wyrdeer.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "95.12 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Big Horn"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Stantler"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Wyrdeer"
+        }
+    ]
+}

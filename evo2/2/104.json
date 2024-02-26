@@ -1,0 +1,40 @@
+{
+    "name": "Houndoom",
+    "description": "If you are burned by the flames it shoots from its mouth, the pain will never go away.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Houndoom.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "35.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dark"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Houndour"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Houndoom"
+        }
+    ]
+}

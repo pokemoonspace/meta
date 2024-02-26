@@ -1,0 +1,40 @@
+{
+    "name": "Bibarel",
+    "description": "It busily makes its nest with stacks of branches and roots it has cut up with its sharp incisors.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bibarel.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "31.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Beaver"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Simple"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bidoof"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bibarel"
+        }
+    ]
+}

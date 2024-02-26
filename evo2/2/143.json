@@ -1,0 +1,40 @@
+{
+    "name": "Beheeyem",
+    "description": "Whenever a Beheeyem visits a farm, a Dubwool mysteriously disappears.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Beheeyem.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "34.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cerebral"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Synchronize"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Elgyem"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Beheeyem"
+        }
+    ]
+}

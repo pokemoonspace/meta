@@ -1,0 +1,40 @@
+{
+    "name": "Scrafty",
+    "description": "Groups of them beat up anything that enters their territory. Each can spit acidic liquid from its mouth.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Scrafty.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hoodlum"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shed Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Flying, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Scraggy"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Scrafty"
+        }
+    ]
+}

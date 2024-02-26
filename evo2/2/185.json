@@ -1,0 +1,40 @@
+{
+    "name": "Scovillain",
+    "description": "The red head converts spicy chemicals into fire energy and blasts the surrounding area with a super spicy stream of flame.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Scovillain.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Spicy Pepper"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Capsakid"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Scovillain"
+        }
+    ]
+}

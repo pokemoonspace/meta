@@ -1,0 +1,40 @@
+{
+    "name": "Melmetal",
+    "description": "At the end of its life-span, Melmetal will rust and fall apart. The small shards left behind will eventually be reborn as Meltan.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Melmetal.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.49 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "800.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hex Nut"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Iron Fist"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Meltan"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Melmetal"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Tyrantrum",
+    "description": "This Pokemon is from about 100,000,000 years ago. It has the presence of a king, vicious but magnificent.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tyrantrum.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.49 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "269.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Despot"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Strong Jaw"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Fighting, Ground, Dragon, Steel, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tyrunt"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Tyrantrum"
+        }
+    ]
+}

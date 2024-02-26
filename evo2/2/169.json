@@ -1,0 +1,40 @@
+{
+    "name": "Dachsbun",
+    "description": "The pleasant aroma that emanates from this Pokemons body helps wheat grow, so Dachsbun has been treasured by farming villages.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dachsbun.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "14.88 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dog"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Well-Baked Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Fidough"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dachsbun"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Bewear",
+    "description": "Once it accepts you as a friend, it tries to show its affection with a hug. Letting it do that is dangerous it could easily shatter your bones.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bewear.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.11 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "134.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Strong Arm"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Klutz"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Stufful"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bewear"
+        }
+    ]
+}

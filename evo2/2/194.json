@@ -1,0 +1,40 @@
+{
+    "name": "Swalot",
+    "description": "It gulps anything that fits in its mouth. Its special enzymes can dissolve anything.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Swalot.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "80.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Poison Bag"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Liquid Ooze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gulpin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Swalot"
+        }
+    ]
+}

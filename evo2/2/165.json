@@ -1,0 +1,40 @@
+{
+    "name": "Skuntank",
+    "description": "It attacks by spraying a horribly smelly fluid from the tip of its tail. Attacks from above confound it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Skuntank.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "38.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Skunk"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Stench"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Stunky"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Skuntank"
+        }
+    ]
+}

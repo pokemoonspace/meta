@@ -1,0 +1,40 @@
+{
+    "name": "Donphan",
+    "description": "Donphan is covered in tough hide, so even being hit by a car won\u2019t faze this Pokemon. However, it is extremely susceptible to rain.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Donphan.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "120.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Armor"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Phanpy"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Donphan"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Sunflora",
+    "description": "In the daytime, it rushes about in a hectic manner, but it comes to a complete stop when the sun sets.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sunflora.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sun"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sunkern"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sunflora"
+        }
+    ]
+}

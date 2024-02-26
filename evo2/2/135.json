@@ -1,0 +1,40 @@
+{
+    "name": "Gholdengo",
+    "description": "Its body seems to be made up of 1,000 coins. This Pokemon gets along well with others and is quick to make friends with anybody.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gholdengo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Coin Entity"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Good as Gold"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ground, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gimmighoul"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gholdengo"
+        }
+    ]
+}

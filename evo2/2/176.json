@@ -1,0 +1,40 @@
+{
+    "name": "Rapidash",
+    "description": "It gallops at nearly 150 mph. With its mane blazing ferociously, it races as if it were an arrow.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rapidash.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "94.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Horse"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Ponyta"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Rapidash"
+        }
+    ]
+}

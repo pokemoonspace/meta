@@ -1,0 +1,40 @@
+{
+    "name": "Shiinotic",
+    "description": "Its flickering spores lure in prey and put them to sleep. Once this Pokemon has its prey snoozing, it drains their vitality with its fingertips.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shiinotic.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "11.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Illuminating"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Effect Spore"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Morelull"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Shiinotic"
+        }
+    ]
+}

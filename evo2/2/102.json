@@ -1,0 +1,40 @@
+{
+    "name": "Braviary",
+    "description": "The more scars they have, the more respect these brave soldiers of the sky get from their peers.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Braviary.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "41.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Valiant"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rufflet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Braviary"
+        }
+    ]
+}

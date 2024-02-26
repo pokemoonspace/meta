@@ -1,0 +1,40 @@
+{
+    "name": "Escavalier",
+    "description": "They use shells theyve stolen from Shelmet to arm and protect themselves. Theyre very popular Pokemon in the Galar region.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Escavalier.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "33.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cavalry"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Karrablast"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Escavalier"
+        }
+    ]
+}

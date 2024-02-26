@@ -1,0 +1,40 @@
+{
+    "name": "Omastar",
+    "description": "Weighed down by a large and heavy shell, Omastar couldnt move very fast. Some say it went extinct because it was unable to catch food.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Omastar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "35.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shell Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Omanyte"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Omastar"
+        }
+    ]
+}

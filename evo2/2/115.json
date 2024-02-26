@@ -1,0 +1,40 @@
+{
+    "name": "Ledian",
+    "description": "Its said that the patterns on its back are related to the stars in the night sky, but the details of that relationship remain unclear.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ledian.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "35.61 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Five Star"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Electric, Ice, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Ledyba"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ledian"
+        }
+    ]
+}

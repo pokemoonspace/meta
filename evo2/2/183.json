@@ -1,0 +1,40 @@
+{
+    "name": "Manectric",
+    "description": "It stimulates its own muscles with electricity, so it can move quickly. It eases its soreness with electricity, too, so it can recover quickly as well.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Manectric.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "40.19 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Discharge"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Electrike"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Manectric"
+        }
+    ]
+}

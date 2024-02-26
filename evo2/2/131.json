@@ -1,0 +1,40 @@
+{
+    "name": "Banette",
+    "description": "This Pokemon developed from an abandoned doll that amassed a grudge. It is seen in dark alleys.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Banette.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Marionette"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Insomnia"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shuppet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Banette"
+        }
+    ]
+}

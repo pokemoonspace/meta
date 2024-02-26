@@ -1,0 +1,40 @@
+{
+    "name": "Swoobat",
+    "description": "Emitting powerful sound waves tires it out. Afterward, it wont be able to fly for a little while.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Swoobat.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Courting"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Unaware"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Woobat"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Swoobat"
+        }
+    ]
+}

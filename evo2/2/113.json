@@ -1,0 +1,40 @@
+{
+    "name": "Drifblim",
+    "description": "It can generate and release gas within its body. Thats how it can control the altitude of its drift.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Drifblim.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Blimp"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Aftermath"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Drifloon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Drifblim"
+        }
+    ]
+}

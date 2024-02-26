@@ -1,0 +1,40 @@
+{
+    "name": "Accelgor",
+    "description": "It moves with blinding speed and lobs poison at foes. Featuring Accelgor as a main character is a surefire way to make a movie or comic popular.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Accelgor.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "25.31 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Shell Out"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hydration"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shelmet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Accelgor"
+        }
+    ]
+}

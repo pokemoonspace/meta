@@ -1,0 +1,40 @@
+{
+    "name": "Volcarona",
+    "description": "Its burning body causes it to be unpopular in hot parts of the world, but in cold ones, Volcarona is revered as an embodiment of the sun.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Volcarona.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "45.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sun"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flame Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Larvesta"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Volcarona"
+        }
+    ]
+}

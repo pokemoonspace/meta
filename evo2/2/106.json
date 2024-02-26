@@ -1,0 +1,40 @@
+{
+    "name": "Aromatisse",
+    "description": "The scent that constantly emits from its fur is so powerful that this Pokemons companions will eventually lose their sense of smell.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Aromatisse.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fragrance"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Healer"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Spritzee"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Aromatisse"
+        }
+    ]
+}

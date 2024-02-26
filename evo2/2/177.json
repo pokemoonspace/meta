@@ -1,0 +1,40 @@
+{
+    "name": "Dodrio",
+    "description": "It now has three hearts and three sets of lungs. Though it cant run as fast as Doduo, Dodrio can keep running for longer stretches of time.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dodrio.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "85.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Triple Bird"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Doduo"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dodrio"
+        }
+    ]
+}

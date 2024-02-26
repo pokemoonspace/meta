@@ -1,0 +1,40 @@
+{
+    "name": "Mantine",
+    "description": "If it builds up enough speed swimming, it can jump out above the waves and glide for over 300 feet.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mantine.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.11 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "219.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Kite"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Water Absorb"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mantyke"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Mantine"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Lickilicky",
+    "description": "Lickilickys strange tongue can stretch to many times the length of its body. No one has figured out how Lickilickys tongue can stretch so far.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lickilicky.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "139.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Licking"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Lickitung"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lickilicky"
+        }
+    ]
+}

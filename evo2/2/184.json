@@ -1,0 +1,40 @@
+{
+    "name": "Urshifu",
+    "description": "This form of Urshifu is a strong believer in the one-hit KO. Its strategy is to leap in close to foes and land a devastating blow with a hardened fist.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Urshifu.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "105.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wushu"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Unseen Fist"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Flying, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Kubfu"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Urshifu"
+        }
+    ]
+}

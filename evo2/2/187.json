@@ -1,0 +1,40 @@
+{
+    "name": "Galvantula",
+    "description": "They employ an electrically charged web to trap their prey. While it is immobilized by shock, they leisurely consume it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Galvantula.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "14.29 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "EleSpider"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Compound Eyes"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Joltik"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Galvantula"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Floatzel",
+    "description": "With its flotation sac inflated, it can carry people on its back. It deflates the sac before it dives.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Floatzel.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "33.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Weasel"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Buizel"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Floatzel"
+        }
+    ]
+}

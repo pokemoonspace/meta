@@ -1,0 +1,40 @@
+{
+    "name": "Electrode",
+    "description": "The more energy it charges up, the faster it gets. But this also makes it more likely to explode.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Electrode.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "66.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ball"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Voltorb"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Electrode"
+        }
+    ]
+}

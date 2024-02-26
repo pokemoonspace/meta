@@ -1,0 +1,40 @@
+{
+    "name": "Breloom",
+    "description": "It scatters poisonous spores and throws powerful punches while its foe is hampered by inhaled spores.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Breloom.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "39.19 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mushroom"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Effect Spore"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shroomish"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Breloom"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Toxapex",
+    "description": "This Pokemon lives within a dome made by its own legs. Toxapex monitors its surroundings by sensing the flow of the tide through its spikes.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Toxapex.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "14.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Brutal Star"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Limber"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mareanie"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Toxapex"
+        }
+    ]
+}

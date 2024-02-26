@@ -1,0 +1,40 @@
+{
+    "name": "Bastiodon",
+    "description": "While it can guard against any sort of attack from the front, it is left without recourse when attacked from behind.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bastiodon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "149.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Shield"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shieldon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bastiodon"
+        }
+    ]
+}

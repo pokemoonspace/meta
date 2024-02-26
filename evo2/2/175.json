@@ -1,0 +1,40 @@
+{
+    "name": "Purugly",
+    "description": "It would claim another Pokemons nest as its own if it finds a nest sufficiently comfortable.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Purugly.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "43.82 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tiger Cat"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Own Tempo"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Glameow"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Purugly"
+        }
+    ]
+}

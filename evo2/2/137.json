@@ -1,0 +1,40 @@
+{
+    "name": "Excadrill",
+    "description": "Forming a drill with its steel claws and head, it can bore through a steel plate, no matter how thick it is.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Excadrill.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "40.42 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Subterrene"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sand Rush"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Water, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Drilbur"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Excadrill"
+        }
+    ]
+}

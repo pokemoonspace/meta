@@ -1,0 +1,40 @@
+{
+    "name": "Archaludon",
+    "description": "It gathers static electricity from its surroundings. The beams it launches when down on all fours are tremendously powerful.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Archaludon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "60.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Alloy"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Duraludon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Archaludon"
+        }
+    ]
+}

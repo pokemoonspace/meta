@@ -1,0 +1,40 @@
+{
+    "name": "Pangoro",
+    "description": "This Pokemon is quick to anger, and it has no problem using its prodigious strength to get its way. It lives for duels against Obstagoon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pangoro.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.11 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "135.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Daunting"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Iron Fist"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Flying, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pancham"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pangoro"
+        }
+    ]
+}

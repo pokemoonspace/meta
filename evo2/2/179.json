@@ -1,0 +1,40 @@
+{
+    "name": "Golisopod",
+    "description": "It will do anything to win, taking advantage of every opening and finishing opponents off with the small claws on its front legs.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Golisopod.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "108.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hard Scale"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Emergency Exit"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wimpod"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Golisopod"
+        }
+    ]
+}

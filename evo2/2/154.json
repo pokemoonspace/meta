@@ -1,0 +1,40 @@
+{
+    "name": "Ninetales",
+    "description": "Some legends claim that each of its nine tails has its own unique type of special mystical power.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ninetales.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.91 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Vulpix"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ninetales"
+        }
+    ]
+}

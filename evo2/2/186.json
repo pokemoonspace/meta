@@ -1,0 +1,40 @@
+{
+    "name": "Sawsbuck",
+    "description": "It seems that a Sawsbuck with many flowers on its antlers will grow at a slightly slower pace because the flowers absorb the Pokemons nutrients.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sawsbuck.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "92.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Season"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Fighting, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Deerling"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sawsbuck"
+        }
+    ]
+}

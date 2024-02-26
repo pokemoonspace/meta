@@ -1,0 +1,40 @@
+{
+    "name": "Simisear",
+    "description": "A flame burns inside its body. It scatters embers from its head and tail to sear its opponents.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Simisear.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "27.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ember"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Gluttony"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pansear"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Simisear"
+        }
+    ]
+}

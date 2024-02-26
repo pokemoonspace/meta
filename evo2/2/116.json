@@ -1,0 +1,40 @@
+{
+    "name": "Cacturne",
+    "description": "Packs of them follow travelers through the desert until the travelers can no longer move.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cacturne.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "77.38 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Scarecrow"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sand Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Fighting, Poison, Flying, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cacnea"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Cacturne"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Furret",
+    "description": "It raises its offspring inside a long, narrow nest. Once theyre old enough, it takes them outside the nest to prepare them for independence.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Furret.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "32.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Long Body"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sentret"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Furret"
+        }
+    ]
+}

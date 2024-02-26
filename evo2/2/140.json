@@ -1,0 +1,40 @@
+{
+    "name": "Wailord",
+    "description": "It can sometimes knock out opponents with the shock created by breaching and crashing its big body onto the water.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wailord.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "14.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "397.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Float Whale"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wailmer"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Wailord"
+        }
+    ]
+}

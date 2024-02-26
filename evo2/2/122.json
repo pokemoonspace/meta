@@ -1,0 +1,40 @@
+{
+    "name": "Beartic",
+    "description": "It is a ferocious, carnivorous Pokemon. Once it captures its prey, it will breathe cold air onto the prey to freeze and preserve it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Beartic.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.59 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "260.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Freezing"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Snow Cloak"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cubchoo"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Beartic"
+        }
+    ]
+}

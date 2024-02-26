@@ -1,0 +1,40 @@
+{
+    "name": "Eldegoss",
+    "description": "The seeds attached to its cotton fluff are full of nutrients. It spreads them on the wind so that plants and other Pokemon can benefit from them.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Eldegoss.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cotton Bloom"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Regenerator"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gossifleur"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Eldegoss"
+        }
+    ]
+}

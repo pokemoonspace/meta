@@ -1,0 +1,40 @@
+{
+    "name": "Mightyena",
+    "description": "They faithfully follow the orders of their leader. Prey targeted by Mightyena is never allowed to escape the outstanding teamwork of its pursuers.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mightyena.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "37.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bite"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Poochyena"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Mightyena"
+        }
+    ]
+}

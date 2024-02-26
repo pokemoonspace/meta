@@ -1,0 +1,40 @@
+{
+    "name": "Boltund",
+    "description": "This Pokemon generates electricity and channels it into its legs to keep them going strong. Boltund can run nonstop for three full days.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Boltund.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "34.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dog"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Strong Jaw"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Yamper"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Boltund"
+        }
+    ]
+}

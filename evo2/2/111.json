@@ -1,0 +1,40 @@
+{
+    "name": "Avalugg",
+    "description": "As Avalugg walks along with Bergmite on its back, it comes across pods of Cetitan. It lets them pass to avoid conflict.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Avalugg.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "504.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Iceberg"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Own Tempo"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bergmite"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Avalugg"
+        }
+    ]
+}

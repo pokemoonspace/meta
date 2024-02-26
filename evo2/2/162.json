@@ -1,0 +1,40 @@
+{
+    "name": "Salazzle",
+    "description": "Salazzle makes its opponents light-headed with poisonous gas, then captivates them with alluring movements to turn them into loyal servants.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Salazzle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "22.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Toxic Lizard"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Corrosion"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Salandit"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Salazzle"
+        }
+    ]
+}

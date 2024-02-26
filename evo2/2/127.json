@@ -1,0 +1,40 @@
+{
+    "name": "Honchkrow",
+    "description": "It is merciless by nature. It is said that it never forgives the mistakes of its Murkrow followers.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Honchkrow.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "27.31 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Big Boss"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Insomnia"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Murkrow"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Honchkrow"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Rabsca",
+    "description": "The body that supports the ball barely moves. Therefore, it is thought that the true body of this Pokemon is actually inside the ball.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rabsca.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rolling"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Synchronize"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Bug, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rellor"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Rabsca"
+        }
+    ]
+}

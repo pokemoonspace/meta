@@ -1,0 +1,40 @@
+{
+    "name": "Dudunsparce",
+    "description": "This Pokemon uses its hard tail to make its nest by boring holes into bedrock deep underground. The nest can reach lengths of over six miles.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dudunsparce.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "39.19 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Land Snake"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Dunsparce"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dudunsparce"
+        }
+    ]
+}

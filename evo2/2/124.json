@@ -1,0 +1,40 @@
+{
+    "name": "Gastrodon",
+    "description": "Its whole body is sticky with mucus. In the past, this form of Gastrodon was by far the more numerous one.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gastrodon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.89 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Slug"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sticky Hold"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shellos"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gastrodon"
+        }
+    ]
+}

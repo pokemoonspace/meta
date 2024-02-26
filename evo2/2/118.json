@@ -1,0 +1,40 @@
+{
+    "name": "Toxicroak",
+    "description": "Swaying and dodging the attacks of its foes, it weaves its flexible body in close, then lunges out with its poisonous claws.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Toxicroak.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "44.41 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Toxic Mouth"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Dry Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Croagunk"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Toxicroak"
+        }
+    ]
+}

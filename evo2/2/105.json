@@ -1,0 +1,40 @@
+{
+    "name": "Sharpedo",
+    "description": "As soon as it catches the scent of prey, Sharpedo will jet seawater from its backside, hurtling toward the target to attack at 75 mph.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sharpedo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "88.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Brutal"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rough Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Carvanha"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sharpedo"
+        }
+    ]
+}

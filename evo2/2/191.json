@@ -1,0 +1,40 @@
+{
+    "name": "Basculegion",
+    "description": "This Pokemon is cloaked in the souls of its comrades who perished during a punishing journey to the river of their birth.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Basculegion.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.00 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "110.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Big Fish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Basculin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Basculegion"
+        }
+    ]
+}

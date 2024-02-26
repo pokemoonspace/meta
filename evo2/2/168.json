@@ -1,0 +1,40 @@
+{
+    "name": "Cherrim",
+    "description": "As a bud, it barely moves. It sits still, placidly waiting for sunlight to appear.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cherrim.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.30 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Blossom"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flower Gift"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cherubi"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Cherrim"
+        }
+    ]
+}

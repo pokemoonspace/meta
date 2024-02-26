@@ -1,0 +1,40 @@
+{
+    "name": "Mandibuzz",
+    "description": "Its always searching for food for Vullaby. When it finds a weak Pokemon, Mandibuzz swoops it right off to its nest.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mandibuzz.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "39.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bone Vulture"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Big Pecks"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Vullaby"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Mandibuzz"
+        }
+    ]
+}

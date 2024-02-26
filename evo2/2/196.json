@@ -1,0 +1,40 @@
+{
+    "name": "Tangrowth",
+    "description": "Tangrowth has two arms that it can extend as it pleases. Recent research has shown that these arms are, in fact, bundles of vines.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tangrowth.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "128.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Vine"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tangela"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Tangrowth"
+        }
+    ]
+}

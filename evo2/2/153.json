@@ -1,0 +1,40 @@
+{
+    "name": "Spidops",
+    "description": "It clings to branches and ceilings using its threads and moves without a sound. It takes out its prey before the prey even notices it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Spidops.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "16.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Trap"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Insomnia"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tarountula"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Spidops"
+        }
+    ]
+}

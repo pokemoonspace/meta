@@ -1,0 +1,40 @@
+{
+    "name": "Gliscor",
+    "description": "If it succeeds in catching even a faint breeze properly, it can circle the globe without flapping once.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gliscor.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "42.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fang Scorpion"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sand Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ice"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gligar"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gliscor"
+        }
+    ]
+}

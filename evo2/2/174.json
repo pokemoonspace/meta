@@ -1,0 +1,40 @@
+{
+    "name": "Lucario",
+    "description": "Its said that no foe can remain invisible to Lucario, since it can detect auraseven those of foes it could not otherwise see.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lucario.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "53.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Aura"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Inner Focus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Riolu"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lucario"
+        }
+    ]
+}

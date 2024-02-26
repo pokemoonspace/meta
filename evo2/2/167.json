@@ -1,0 +1,40 @@
+{
+    "name": "Muk",
+    "description": "It\u2019s thickly covered with a filthy, vile sludge. It is so toxic, even its footprints contain poison.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Muk.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sludge"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Stench"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Grimer"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Muk"
+        }
+    ]
+}

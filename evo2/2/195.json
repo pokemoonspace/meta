@@ -1,0 +1,40 @@
+{
+    "name": "Archeops",
+    "description": "It needs a running start to take off. If Archeops wants to fly, it first needs to run nearly 25 mph, building speed over a course of about 2.5 miles.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Archeops.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "31.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "First Bird"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Defeatist"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Electric, Ice, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Archen"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Archeops"
+        }
+    ]
+}
