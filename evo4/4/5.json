@@ -1,0 +1,48 @@
+{
+    "name": "Hitmontop",
+    "description": "This Pokemon is adept at dance-like kicks. The horn atop its head is made from the same substance that generally forms fur and claws.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hitmontop.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "47.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Handstand"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tyrogue"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Hitmonlee"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Hitmonchan"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Hitmontop"
+        }
+    ]
+}

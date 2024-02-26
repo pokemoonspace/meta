@@ -1,0 +1,48 @@
+{
+    "name": "Gallade",
+    "description": "When trying to protect someone, it extends its elbows as if they were swords and fights savagely.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gallade.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "51.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Blade"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Steadfast"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Ghost, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Ralts"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Kirlia"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Gardevoir"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Gallade"
+        }
+    ]
+}

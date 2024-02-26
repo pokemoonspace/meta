@@ -1,0 +1,48 @@
+{
+    "name": "Bellossom",
+    "description": "Due to the effects of the Sun Stone, it is now active during the daytime. It likes to dance in pools of sunlight.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bellossom.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Oddish"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gloom"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Vileplume"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Bellossom"
+        }
+    ]
+}

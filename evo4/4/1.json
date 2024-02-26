@@ -1,0 +1,48 @@
+{
+    "name": "Politoed",
+    "description": "If Poliwag and Poliwhirl hear its echoing cry, they respond by gathering from far and wide.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Politoed.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "33.88 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Frog"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Damp"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Poliwag"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Poliwhirl"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Poliwrath"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Politoed"
+        }
+    ]
+}
