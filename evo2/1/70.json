@@ -1,0 +1,40 @@
+{
+    "name": "Milcery",
+    "description": "The more sweet aromas it absorbs, the more its body swells. Milcery will deflate when its energy level drops.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Milcery.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.32 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sweet Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Milcery"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Alcremie"
+        }
+    ]
+}

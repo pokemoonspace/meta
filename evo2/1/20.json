@@ -1,0 +1,40 @@
+{
+    "name": "Krabby",
+    "description": "It can be found near the sea. The large pincers grow back if they are torn out of their sockets.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Krabby.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "River Crab"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shell Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Krabby"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Kingler"
+        }
+    ]
+}

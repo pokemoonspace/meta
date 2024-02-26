@@ -1,0 +1,40 @@
+{
+    "name": "Wiglett",
+    "description": "This Pokemon can pick up the scent of a Veluza just over 65 feet away and will hide itself in the sand.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wiglett.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Garden Eel"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Gooey"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wiglett"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Wugtrio"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Magikarp",
+    "description": "An underpowered, pathetic Pokemon. It may jump high on rare occasions but never more than seven feet.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Magikarp.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Magikarp"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gyarados"
+        }
+    ]
+}

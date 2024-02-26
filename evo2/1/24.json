@@ -1,0 +1,40 @@
+{
+    "name": "Litleo",
+    "description": "When Litleo are young, female Pyroar will teach them how to hunt. Once the Litleo mature, they will leave the pride and set out on their own.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Litleo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "13.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Lion Cub"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rivalry"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Litleo"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pyroar"
+        }
+    ]
+}

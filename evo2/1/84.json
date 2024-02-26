@@ -1,0 +1,40 @@
+{
+    "name": "Cetoddle",
+    "description": "This species left the ocean and began living on land a very long time ago. It seems to be closely related to Wailmer.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cetoddle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "45.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Terra Whale"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Thick Fat"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cetoddle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Cetitan"
+        }
+    ]
+}

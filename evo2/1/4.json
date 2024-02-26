@@ -1,0 +1,40 @@
+{
+    "name": "Drowzee",
+    "description": "It remembers every dream it eats. It rarely eats the dreams of adults because children\u2019s are much tastier.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Drowzee.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "32.39 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hypnosis"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Insomnia"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Drowzee"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Hypno"
+        }
+    ]
+}

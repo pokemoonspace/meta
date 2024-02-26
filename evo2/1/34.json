@@ -1,0 +1,40 @@
+{
+    "name": "Noibat",
+    "description": "This Pokemon emits ultrasonic waves from its large ears to search for fruit to eat. It mistakes Applin for its food.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Noibat.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Flying, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sound Wave"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Frisk"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Rock, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Noibat"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Noivern"
+        }
+    ]
+}

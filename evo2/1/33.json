@@ -1,0 +1,40 @@
+{
+    "name": "Rockruff",
+    "description": "This Pokemon is very friendly when its young. Its disposition becomes vicious once it matures, but it never forgets the kindness of its master.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rockruff.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.21 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Puppy"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rockruff"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lycanroc"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Munchlax",
+    "description": "It needs to consume its own weight in food every day. As far as flavor is concerned, it\u2019s indifferent.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Munchlax.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "105.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Big Eater"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pickup"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Munchlax"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Snorlax"
+        }
+    ]
+}

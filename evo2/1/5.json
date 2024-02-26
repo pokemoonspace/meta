@@ -1,0 +1,40 @@
+{
+    "name": "Tandemaus",
+    "description": "Exhibiting great teamwork, they use their incisors to cut pieces out of any material that might be useful for a nest, then make off with them.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tandemaus.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Couple"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tandemaus"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Maushold"
+        }
+    ]
+}

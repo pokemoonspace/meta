@@ -1,0 +1,40 @@
+{
+    "name": "Bramblin",
+    "description": "A soul unable to move on to the afterlife was blown around by the wind until it got tangled up with dried grass and became a Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bramblin.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tumbleweed"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Wind Rider"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bramblin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Brambleghast"
+        }
+    ]
+}

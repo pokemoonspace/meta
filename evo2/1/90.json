@@ -1,0 +1,40 @@
+{
+    "name": "Skorupi",
+    "description": "After burrowing into the sand, it waits patiently for prey to come near. This Pokemon and Sizzlipede share common descent.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Skorupi.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Scorpion"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sniper"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Skorupi"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Drapion"
+        }
+    ]
+}

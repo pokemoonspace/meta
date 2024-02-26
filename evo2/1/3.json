@@ -1,0 +1,40 @@
+{
+    "name": "Varoom",
+    "description": "It is said that this Pokemon was born when an unknown poison Pokemon entered and inspirited an engine left at a scrap-processing factory.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Varoom.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "35.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Single-Cyl"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overcoat"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Varoom"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Revavroom"
+        }
+    ]
+}

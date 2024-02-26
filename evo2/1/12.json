@@ -1,0 +1,40 @@
+{
+    "name": "Mudbray",
+    "description": "This Pokemon covers itself in mud that it has regurgitated. The mud wont dry out even if its exposed to the sun for a long time.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mudbray.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "110.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Donkey"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Own Tempo"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mudbray"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Mudsdale"
+        }
+    ]
+}

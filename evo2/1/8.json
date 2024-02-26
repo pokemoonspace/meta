@@ -1,0 +1,40 @@
+{
+    "name": "Barboach",
+    "description": "Its two whiskers provide a sensitive radar. Even in muddy waters, it can detect its preys location.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Barboach.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.91 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Whiskers"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Barboach"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Whiscash"
+        }
+    ]
+}

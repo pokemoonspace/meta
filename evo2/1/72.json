@@ -1,0 +1,40 @@
+{
+    "name": "Chewtle",
+    "description": "Its large front tooth is still growing in. When the tooth itches, this Pokemon will bite another Chewtles horn, and the two Pokemon will tussle.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chewtle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Snapping"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shell Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Chewtle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Drednaw"
+        }
+    ]
+}

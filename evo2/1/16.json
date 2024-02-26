@@ -1,0 +1,40 @@
+{
+    "name": "Tentacool",
+    "description": "When the tide goes out, dehydrated Tentacool can be found left behind on the shore.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tentacool.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "45.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Jellyfish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Clear Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tentacool"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Tentacruel"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Munna",
+    "description": "Late at night, it appears beside people\u2019s pillows. As it feeds on dreams, the patterns on its body give off a faint glow.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Munna.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "23.31 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dream Eater"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Synchronize"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Munna"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Musharna"
+        }
+    ]
+}

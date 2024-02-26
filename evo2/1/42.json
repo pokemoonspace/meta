@@ -1,0 +1,40 @@
+{
+    "name": "Clauncher",
+    "description": "This Pokemon launches water by detonating gas inside its right claw. It snipes flying Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Clauncher.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.30 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Water Gun"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Mega Launcher"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Clauncher"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Clawitzer"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Tirtouga",
+    "description": "This Pokemon inhabited ancient seas. Although it can only crawl, it still comes up onto land in search of prey.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tirtouga.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "16.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Prototurtle"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tirtouga"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Carracosta"
+        }
+    ]
+}

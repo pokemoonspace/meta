@@ -1,0 +1,40 @@
+{
+    "name": "Phantump",
+    "description": "Legend tells that its green leaves can cure any illness. When plucked, however, the leaves will instantly wither away.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Phantump.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Stump"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Natural Cure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Phantump"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Trevenant"
+        }
+    ]
+}

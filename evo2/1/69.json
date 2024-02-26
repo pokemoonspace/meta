@@ -1,0 +1,40 @@
+{
+    "name": "Snom",
+    "description": "It eats snow that has accumulated on the ground. It prefers soft, freshly fallen snow, so it will eat its way up a mountain, aiming for the peak.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Snom.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice, Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Worm"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shield Dust"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Snom"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Frosmoth"
+        }
+    ]
+}

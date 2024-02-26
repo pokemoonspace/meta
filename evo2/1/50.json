@@ -1,0 +1,40 @@
+{
+    "name": "Psyduck",
+    "description": "It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Psyduck.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.60 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Duck"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Damp"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Psyduck"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Golduck"
+        }
+    ]
+}

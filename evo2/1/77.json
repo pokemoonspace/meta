@@ -1,0 +1,40 @@
+{
+    "name": "Onix",
+    "description": "As it digs through the ground, it absorbs many hard objects. This is what makes its body so solid.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Onix.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "8.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "210.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rock Snake"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Onix"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Steelix"
+        }
+    ]
+}

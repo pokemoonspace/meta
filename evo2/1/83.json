@@ -1,0 +1,40 @@
+{
+    "name": "Poipole",
+    "description": "This Ultra Beast is well enough liked to be chosen as a first partner in its own world.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Poipole.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Poison Pin"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Beast Boost"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Poipole"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Naganadel"
+        }
+    ]
+}

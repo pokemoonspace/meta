@@ -1,0 +1,40 @@
+{
+    "name": "Type Null",
+    "description": "Rumor has it that the theft of top-secret research notes led to a new instance of this Pokemon being created in the Galar region.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Type_Null.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "120.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Synthetic"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Battle Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Type Null"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Silvally"
+        }
+    ]
+}

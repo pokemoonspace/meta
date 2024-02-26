@@ -1,0 +1,40 @@
+{
+    "name": "Corphish",
+    "description": "It came from overseas. It is a very hardy creature that will quickly proliferate, even in polluted streams.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Corphish.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "11.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ruffian"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shell Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Corphish"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Crawdaunt"
+        }
+    ]
+}

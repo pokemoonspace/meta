@@ -1,0 +1,40 @@
+{
+    "name": "Cottonee",
+    "description": "Pillows and beds stuffed with cotton exhaled by Cottonee are soft and puffy, light and airy\u2014altogether top quality.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cottonee.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cotton Puff"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Prankster"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cottonee"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Whimsicott"
+        }
+    ]
+}

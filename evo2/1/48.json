@@ -1,0 +1,40 @@
+{
+    "name": "Chingling",
+    "description": "There is an orb inside its mouth. When it hops, the orb bounces all over and makes a ringing sound.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chingling.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bell"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Chingling"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Chimecho"
+        }
+    ]
+}

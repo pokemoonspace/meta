@@ -1,0 +1,40 @@
+{
+    "name": "Zorua",
+    "description": "It changes into the forms of others to surprise them. Apparently, it often transforms into a silent child.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Zorua.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tricky Fox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Illusion"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Zorua"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Zoroark"
+        }
+    ]
+}

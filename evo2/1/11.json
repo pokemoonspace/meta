@@ -1,0 +1,40 @@
+{
+    "name": "Staryu",
+    "description": "If you visit a beach at the end of summer, you be able to see groups of Staryu lighting up in a steady rhythm.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Staryu.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "34.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Star Shape"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Natural Cure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Staryu"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Starmie"
+        }
+    ]
+}

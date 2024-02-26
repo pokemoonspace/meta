@@ -1,0 +1,40 @@
+{
+    "name": "Helioptile",
+    "description": "When spread, the frills on its head act like solar panels, generating the power behind this Pokemons electric moves.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Helioptile.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Generator"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sand Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Helioptile"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Heliolisk"
+        }
+    ]
+}

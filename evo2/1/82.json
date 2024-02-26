@@ -1,0 +1,40 @@
+{
+    "name": "Skrelp",
+    "description": "Skrelp evades its enemies by hiding amid drifting seaweed. It eats rotten seaweed to create its poison.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Skrelp.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.30 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mock Kelp"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Poison Point"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Skrelp"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dragalge"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Toxel",
+    "description": "It has no problem drinking dirty water. An organ inside Toxels body filters such water into a poisonous liquid that is harmless to Toxel.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Toxel.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "11.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Baby"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Toxel"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Toxtricity"
+        }
+    ]
+}

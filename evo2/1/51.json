@@ -1,0 +1,40 @@
+{
+    "name": "Paras",
+    "description": "Burrows under the ground to gnaw on tree roots. The mushrooms on its back absorb most of the nutrition.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Paras.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.40 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mushroom"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Effect Spore"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Paras"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Parasect"
+        }
+    ]
+}

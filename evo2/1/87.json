@@ -1,0 +1,40 @@
+{
+    "name": "Dwebble",
+    "description": "When it finds a stone appealing, it creates a hole inside it and uses it as its home. This Pokemon is the natural enemy of Roggenrola and Rolycoly.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dwebble.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "14.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rock Inn"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Dwebble"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Crustle"
+        }
+    ]
+}

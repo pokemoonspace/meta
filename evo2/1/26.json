@@ -1,0 +1,40 @@
+{
+    "name": "Remoraid",
+    "description": "The water they shoot from their mouths can hit moving prey from more than 300 feet away.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Remoraid.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Jet"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sniper"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Remoraid"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Octillery"
+        }
+    ]
+}

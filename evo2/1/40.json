@@ -1,0 +1,40 @@
+{
+    "name": "Glimmet",
+    "description": "It absorbs nutrients from cave walls. The petals it wears are made of crystallized poison.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Glimmet.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ore"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Toxic Debris"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Psychic, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Glimmet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Glimmora"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Wynaut",
+    "description": "It tends to move in a pack. Individuals squash against one another to toughen their spirits.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wynaut.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "14.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bright"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shadow Tag"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wynaut"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Wobbuffet"
+        }
+    ]
+}

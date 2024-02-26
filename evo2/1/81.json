@@ -1,0 +1,40 @@
+{
+    "name": "Kricketot",
+    "description": "Its legs are short. Whenever it stumbles, its stiff antennae clack with a xylophone-like sound.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kricketot.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.22 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cricket"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shed Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Kricketot"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Kricketune"
+        }
+    ]
+}

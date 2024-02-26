@@ -1,0 +1,40 @@
+{
+    "name": "Nymble",
+    "description": "It has its third set of legs folded up. When it\u2019s in a tough spot, this Pokemon jumps over 30 feet using the strength of its legs.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nymble.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Grasshopper"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nymble"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lokix"
+        }
+    ]
+}

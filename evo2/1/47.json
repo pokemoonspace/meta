@@ -1,0 +1,40 @@
+{
+    "name": "Lileep",
+    "description": "This Pokemon was restored from a fossil. Lileep once lived in warm seas that existed approximately 100,000,000 years ago.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lileep.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "23.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Lily"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Suction Cups"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Fighting, Bug, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Lileep"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Cradily"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Snover",
+    "description": "During cold seasons, it migrates to the mountains lower reaches. It returns to the snow-covered summit in the spring.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Snover.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "50.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Frost Tree"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Snow Warning"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Poison, Flying, Bug, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Snover"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Abomasnow"
+        }
+    ]
+}

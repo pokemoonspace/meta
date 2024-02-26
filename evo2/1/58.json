@@ -1,0 +1,40 @@
+{
+    "name": "Silicobra",
+    "description": "Silicobras neck pouch, which can inflate and deflate like a balloon, gets more elastic each time Silicobra sheds its skin.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Silicobra.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.21 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.62 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sand Snake"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shed Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Silicobra"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sandaconda"
+        }
+    ]
+}

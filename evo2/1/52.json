@@ -1,0 +1,40 @@
+{
+    "name": "Anorith",
+    "description": "This Pokemon was restored from a fossil. Anorith lived in the ocean about 100,000,000 years ago, hunting with its pair of claws.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Anorith.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Old Shrimp"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Battle Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Anorith"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Armaldo"
+        }
+    ]
+}

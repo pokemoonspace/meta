@@ -1,0 +1,40 @@
+{
+    "name": "Nickit",
+    "description": "Aided by the soft pads on its feet, it silently raids the food stores of other Pokemon. It survives off its ill-gotten gains.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nickit.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.89 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nickit"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Thievul"
+        }
+    ]
+}

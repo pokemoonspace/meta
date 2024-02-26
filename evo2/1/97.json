@@ -1,0 +1,40 @@
+{
+    "name": "Exeggcute",
+    "description": "If you touch one of Exeggcute\u2019s heads, mistaking it for an egg, the other heads will quickly gather and attack you in a swarm.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Exeggcute.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Egg"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Exeggcute"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Exeggutor"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Amaura",
+    "description": "This Pokemon was successfully restored from a fossil. In the past, it lived with others of its kind in cold lands where there were fewer predators.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Amaura.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "25.22 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tundra"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Refrigerate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Amaura"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Aurorus"
+        }
+    ]
+}

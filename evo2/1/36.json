@@ -1,0 +1,40 @@
+{
+    "name": "Greavard",
+    "description": "It is said that a dog Pokemon that died in the wild without ever interacting with a human was reborn as this Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Greavard.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "35.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ghost Dog"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pickup"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Greavard"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Houndstone"
+        }
+    ]
+}

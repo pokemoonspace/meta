@@ -1,0 +1,40 @@
+{
+    "name": "Slugma",
+    "description": "Its lava body can cool and chip away at times, but a magma bath will heal it right up.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Slugma.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "35.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Lava"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flame Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Slugma"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Magcargo"
+        }
+    ]
+}

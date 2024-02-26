@@ -1,0 +1,40 @@
+{
+    "name": "Ducklett",
+    "description": "It\u2019s not very good at flying yet. It watches the dances of its Swanna parents to learn how to move its wings.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ducklett.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Water Bird"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Ducklett"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Swanna"
+        }
+    ]
+}

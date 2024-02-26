@@ -1,0 +1,40 @@
+{
+    "name": "Cufant",
+    "description": "Using the pointy tip of its trunk, it carves off chunks of hard rocks to eat. It is very docile and helps people with physical labor.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cufant.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "100.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Copperderm"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sheer Force"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cufant"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Copperajah"
+        }
+    ]
+}

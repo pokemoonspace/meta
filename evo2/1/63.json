@@ -1,0 +1,40 @@
+{
+    "name": "Rattata",
+    "description": "Will chew on anything with its fangs. If you see one, you can be certain that 40 more live in the area.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rattata.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mouse"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rattata"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Raticate"
+        }
+    ]
+}

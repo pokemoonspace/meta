@@ -1,0 +1,40 @@
+{
+    "name": "Venonat",
+    "description": "Poison oozes from all over its body. It catches small bug Pokemon at night that are attracted by light.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Venonat.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Insect"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Compound Eyes"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Venonat"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Venomoth"
+        }
+    ]
+}

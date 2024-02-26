@@ -1,0 +1,40 @@
+{
+    "name": "Blitzle",
+    "description": "Its heartbeat generates electricity. When Blitzle is surprised and its heart rate goes up, the voltage of its electricity also rises.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Blitzle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.80 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Electrified"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Lightning Rod"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Blitzle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Zebstrika"
+        }
+    ]
+}

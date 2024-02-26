@@ -1,0 +1,40 @@
+{
+    "name": "Wattrel",
+    "description": "When its wings catch the wind, the bones within produce electricity. This Pokemon dives into the ocean, catching prey by electrocuting them.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wattrel.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.58 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Storm Petrel"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Volt Absorb"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wattrel"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Kilowattrel"
+        }
+    ]
+}

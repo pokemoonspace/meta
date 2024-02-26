@@ -1,0 +1,40 @@
+{
+    "name": "Cutiefly",
+    "description": "When it senses the auras of people or Pokemon who are having fun, it will draw close and give them a painful poke with its long proboscis.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cutiefly.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.10 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bee Fly"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shield Dust"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Poison, Flying, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cutiefly"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ribombee"
+        }
+    ]
+}

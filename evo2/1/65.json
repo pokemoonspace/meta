@@ -1,0 +1,40 @@
+{
+    "name": "Ekans",
+    "description": "It can freely detach its jaw to swallow large prey whole. It can become too heavy to move, however.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ekans.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.89 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Snake"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shed Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Ekans"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Arbok"
+        }
+    ]
+}

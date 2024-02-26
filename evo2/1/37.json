@@ -1,0 +1,40 @@
+{
+    "name": "Sneasel",
+    "description": "This cunning Pokemon hides under the cover of darkness, waiting to attack its prey.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sneasel.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "27.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sharp Claw"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Bug, Rock, Steel, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sneasel"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Weavile"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Trubbish",
+    "description": "Its favorite places are unsanitary ones. If you leave trash lying around, you could even find one of these Pokemon living in your room.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Trubbish.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "30.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Trash Bag"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Stench"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Trubbish"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Garbodor"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Hoothoot",
+    "description": "Hoothoot\u2019s internal clock is precise at all times. It tilts its head in a fixed rhythm.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hoothoot.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "21.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Owl"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Hoothoot"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Noctowl"
+        }
+    ]
+}

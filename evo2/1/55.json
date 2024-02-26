@@ -1,0 +1,40 @@
+{
+    "name": "Shellder",
+    "description": "It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shellder.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bivalve"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shell Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shellder"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Cloyster"
+        }
+    ]
+}

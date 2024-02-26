@@ -1,0 +1,40 @@
+{
+    "name": "Bonsly",
+    "description": "In order to adjust the level of fluids in its body, it exudes water from its eyes. This makes it appear to be crying.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bonsly.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bonsai"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bonsly"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sudowoodo"
+        }
+    ]
+}

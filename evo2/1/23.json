@@ -1,0 +1,40 @@
+{
+    "name": "Meditite",
+    "description": "It never skips its daily yoga training. It heightens its inner strength through meditation.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Meditite.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "11.20 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Meditate"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pure Power"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Ghost, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Meditite"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Medicham"
+        }
+    ]
+}

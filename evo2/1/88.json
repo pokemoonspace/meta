@@ -1,0 +1,40 @@
+{
+    "name": "Hippopotas",
+    "description": "It shuts its nostrils tight, then travels through sand as if walking. They form colonies of around 10.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hippopotas.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "49.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hippo"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sand Stream"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Hippopotas"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Hippowdon"
+        }
+    ]
+}
