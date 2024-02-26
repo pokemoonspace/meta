@@ -1,0 +1,44 @@
+{
+    "name": "Shedinja",
+    "description": "A most peculiar Pokemon that somehow appears in a Poke Ball when a Nincada evolves.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shedinja.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Shed"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Wonder Guard"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nincada"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ninjask"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Shedinja"
+        }
+    ]
+}

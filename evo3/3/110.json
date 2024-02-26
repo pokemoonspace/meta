@@ -1,0 +1,44 @@
+{
+    "name": "Skeledirge",
+    "description": "The fiery bird changes shape when Skeledirge sings. Rumor has it that the bird was born when the fireball on Skeledirges head gained a soul.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Skeledirge.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "326.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Singer"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Fuecoco"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Crocalor"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Skeledirge"
+        }
+    ]
+}

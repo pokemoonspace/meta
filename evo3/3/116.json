@@ -1,0 +1,44 @@
+{
+    "name": "Hatterene",
+    "description": "Hatterene knocks out those that intrude in its home forest by blasting them with a beam, then slashing with claws enhanced by psychic power.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hatterene.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.11 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.08 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Silent"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Anticipation"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Ghost, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Hatenna"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Hattrem"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Hatterene"
+        }
+    ]
+}

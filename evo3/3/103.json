@@ -1,0 +1,44 @@
+{
+    "name": "Gigalith",
+    "description": "This hardy Pokemon can often be found on construction sites and in mines, working alongside people and Copperajah.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gigalith.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "260.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Compressed"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Roggenrola"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Boldore"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Gigalith"
+        }
+    ]
+}

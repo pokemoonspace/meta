@@ -1,0 +1,44 @@
+{
+    "name": "Seismitoad",
+    "description": "The vibrating of the bumps all over its body causes earthquake-like tremors. Seismitoad and Croagunk are similar species.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Seismitoad.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "62.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Vibration"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tympole"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Palpitoad"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Seismitoad"
+        }
+    ]
+}

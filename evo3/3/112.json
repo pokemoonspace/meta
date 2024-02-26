@@ -1,0 +1,44 @@
+{
+    "name": "Decidueye",
+    "description": "It cunningly conceals arrow quills in its wings. It launches these quills with such precision that they can pierce a pebble at over a hundred yards.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Decidueye.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "36.60 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Arrow Quill"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rowlet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dartrix"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Decidueye"
+        }
+    ]
+}

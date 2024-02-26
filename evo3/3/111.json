@@ -1,0 +1,44 @@
+{
+    "name": "Beedrill",
+    "description": "It has three poisonous stingers on its forelegs and its tail. They are used to jab its enemy repeatedly.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Beedrill.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Poison Bee"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Weedle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Kakuna"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Beedrill"
+        }
+    ]
+}

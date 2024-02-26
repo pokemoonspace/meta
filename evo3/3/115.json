@@ -1,0 +1,44 @@
+{
+    "name": "Salamence",
+    "description": "It flies around on its wings, which have grown in at last. In its happiness, it gushes hot flames, burning up everything it passes over.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Salamence.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "102.60 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Rock, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bagon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Shelgon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Salamence"
+        }
+    ]
+}

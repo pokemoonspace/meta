@@ -1,0 +1,44 @@
+{
+    "name": "Jumpluff",
+    "description": "Jumpluff travels on seasonal winds. Once its cotton spores run out, its journey ends, as does its life.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Jumpluff.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cottonweed"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Hoppip"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Skiploom"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Jumpluff"
+        }
+    ]
+}
