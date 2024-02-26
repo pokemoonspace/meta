@@ -1,0 +1,44 @@
+{
+    "name": "Kadabra",
+    "description": "Using its psychic power, Kadabra levitates as it sleeps. It uses its springy tail as a pillow.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kadabra.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "56.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Psi"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Inner Focus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Abra"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Kadabra"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Alakazam"
+        }
+    ]
+}

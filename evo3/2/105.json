@@ -1,0 +1,44 @@
+{
+    "name": "Grotle",
+    "description": "Grotle live in the forest. Each is said to have its own secret place for getting clean springwater.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Grotle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "96.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Grove"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Turtwig"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Grotle"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Torterra"
+        }
+    ]
+}

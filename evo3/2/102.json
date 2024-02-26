@@ -1,0 +1,44 @@
+{
+    "name": "Palpitoad",
+    "description": "It weakens its prey with sound waves intense enough to cause headaches, then entangles them with its sticky tongue.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Palpitoad.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "17.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Vibration"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hydration"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tympole"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Palpitoad"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Seismitoad"
+        }
+    ]
+}

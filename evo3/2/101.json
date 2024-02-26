@@ -1,0 +1,44 @@
+{
+    "name": "Ninjask",
+    "description": "Its cry leaves a lasting headache if heard for too long. It moves so quickly that it is almost invisible.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ninjask.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ninja"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Speed Boost"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Electric, Ice, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nincada"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ninjask"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Shedinja"
+        }
+    ]
+}

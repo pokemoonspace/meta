@@ -1,0 +1,44 @@
+{
+    "name": "Kakuna",
+    "description": "Able to move only slightly. When endangered, it may stick out its stinger and poison its enemy.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kakuna.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cocoon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shed Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Weedle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Kakuna"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Beedrill"
+        }
+    ]
+}

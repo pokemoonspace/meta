@@ -1,0 +1,44 @@
+{
+    "name": "Duosion",
+    "description": "Since they have two divided brains, at times they suddenly try to take two different actions at once.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Duosion.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mitosis"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Magic Guard"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Solosis"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Duosion"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Reuniclus"
+        }
+    ]
+}

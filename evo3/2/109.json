@@ -1,0 +1,44 @@
+{
+    "name": "Raboot",
+    "description": "Thanks to its soft and fluffy fur, Raboot can easily heat up its fire energy and produce flames with more power.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Raboot.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rabbit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Scorbunny"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Raboot"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Cinderace"
+        }
+    ]
+}

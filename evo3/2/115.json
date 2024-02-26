@@ -1,0 +1,44 @@
+{
+    "name": "Shelgon",
+    "description": "The cells within its shell transform with explosive speed, preparing it for evolution.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shelgon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "110.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Endurance"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bagon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Shelgon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Salamence"
+        }
+    ]
+}

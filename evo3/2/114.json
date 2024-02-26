@@ -1,0 +1,44 @@
+{
+    "name": "Quagsire",
+    "description": "This carefree Pokemon has an easygoing nature. While swimming, it always bumps into boat hulls.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Quagsire.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "74.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Water Fish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Damp"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wooper"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Quagsire"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Clodsire"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Hattrem",
+    "description": "To this Pokemon, strong emotions apparently feel like incredibly loud noises-even if the emotions are happy ones.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hattrem.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Serene"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Anticipation"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Hatenna"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Hattrem"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Hatterene"
+        }
+    ]
+}

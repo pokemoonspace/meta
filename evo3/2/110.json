@@ -1,0 +1,44 @@
+{
+    "name": "Crocalor",
+    "description": "The combination of Crocalors fire energy and overflowing vitality has caused an egg-shaped fireball to appear on the Pokemons head.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Crocalor.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "30.71 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Croc"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Fuecoco"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Crocalor"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Skeledirge"
+        }
+    ]
+}

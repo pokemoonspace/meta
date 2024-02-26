@@ -1,0 +1,44 @@
+{
+    "name": "Dolliv",
+    "description": "Dolliv shares its tasty, fresh-scented oil with others. This species has coexisted with humans since times long gone.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dolliv.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "11.88 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Olive"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Early Bird"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Fighting, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Smoliv"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dolliv"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Arboliva"
+        }
+    ]
+}

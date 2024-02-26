@@ -1,0 +1,44 @@
+{
+    "name": "Dartrix",
+    "description": "This narcissistic Pokemon is a clean freak. If you dont groom it diligently, it may stop listening to you.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dartrix.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "16.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Blade Quill"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rowlet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dartrix"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Decidueye"
+        }
+    ]
+}
