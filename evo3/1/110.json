@@ -1,0 +1,44 @@
+{
+    "name": "Fuecoco",
+    "description": "It lies on warm rocks and uses the heat absorbed by its square-shaped scales to create fire energy.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Fuecoco.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.80 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Croc"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Fuecoco"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Crocalor"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Skeledirge"
+        }
+    ]
+}

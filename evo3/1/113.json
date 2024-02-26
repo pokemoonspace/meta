@@ -1,0 +1,44 @@
+{
+    "name": "Hoppip",
+    "description": "This Pokemon is blown across vast distances by the wind. It is unclear where the Hoppip of Paldea originally came from.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hoppip.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cottonweed"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Hoppip"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Skiploom"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Jumpluff"
+        }
+    ]
+}

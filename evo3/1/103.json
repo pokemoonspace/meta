@@ -1,0 +1,44 @@
+{
+    "name": "Roggenrola",
+    "description": "It\u2019s as hard as steel, but apparently a long soak in water will cause it to soften a bit.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Roggenrola.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "18.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mantle"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Roggenrola"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Boldore"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Gigalith"
+        }
+    ]
+}

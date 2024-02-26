@@ -1,0 +1,44 @@
+{
+    "name": "Turtwig",
+    "description": "The shell on its back is made of soil. If the shell is moist to the touch, Turtwig is very healthy.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Turtwig.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.21 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tiny Leaf"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Turtwig"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Grotle"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Torterra"
+        }
+    ]
+}

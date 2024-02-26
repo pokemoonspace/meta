@@ -1,0 +1,44 @@
+{
+    "name": "Abra",
+    "description": "This Pokemon uses its psychic powers while it sleeps. The contents of Abras dreams affect the powers that the Pokemon wields.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Abra.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Psi"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Inner Focus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Abra"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Kadabra"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Alakazam"
+        }
+    ]
+}

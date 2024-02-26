@@ -1,0 +1,44 @@
+{
+    "name": "Tympole",
+    "description": "Graceful ripples running across the waters surface are a sure sign that Tympole are singing in high-pitched voices below.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tympole.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tadpole"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hydration"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tympole"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Palpitoad"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Seismitoad"
+        }
+    ]
+}

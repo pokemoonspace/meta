@@ -1,0 +1,44 @@
+{
+    "name": "Rowlet",
+    "description": "Silently it glides, streaking toward its targets to get close to them. Before they even notice it, it begins to pelt them with vicious kicks.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rowlet.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Grass Quill"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Overgrow"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rowlet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dartrix"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Decidueye"
+        }
+    ]
+}

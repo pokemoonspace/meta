@@ -1,0 +1,44 @@
+{
+    "name": "Solosis",
+    "description": "Because their bodies are enveloped in a special liquid, they can survive in any environment.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Solosis.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cell"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Magic Guard"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Solosis"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Duosion"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Reuniclus"
+        }
+    ]
+}

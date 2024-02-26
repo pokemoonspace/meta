@@ -1,0 +1,44 @@
+{
+    "name": "Nincada",
+    "description": "Because it lived almost entirely underground, it is nearly blind. It uses its antennae instead.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nincada.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Trainee"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Compound Eyes"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Water, Ice, Flying"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nincada"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ninjask"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Shedinja"
+        }
+    ]
+}

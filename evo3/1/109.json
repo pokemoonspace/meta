@@ -1,0 +1,44 @@
+{
+    "name": "Scorbunny",
+    "description": "Once its body has heated up, Scorbunny can use the full extent of its power. That\u2019s why it does warm-up exercises.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Scorbunny.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rabbit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Blaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Scorbunny"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Raboot"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Cinderace"
+        }
+    ]
+}

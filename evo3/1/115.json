@@ -1,0 +1,44 @@
+{
+    "name": "Bagon",
+    "description": "Its steel-hard head can shatter boulders. It longingly hopes for wings to grow so it can fly.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bagon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "42.09 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bagon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Shelgon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Salamence"
+        }
+    ]
+}
