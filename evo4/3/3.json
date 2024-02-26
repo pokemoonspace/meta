@@ -1,0 +1,48 @@
+{
+    "name": "Vileplume",
+    "description": "The bud bursts into bloom with a bang. It then starts scattering allergenic, poisonous pollen.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Vileplume.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "18.60 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Flower"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Oddish"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gloom"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Vileplume"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Bellossom"
+        }
+    ]
+}

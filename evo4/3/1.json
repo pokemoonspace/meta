@@ -1,0 +1,48 @@
+{
+    "name": "Poliwrath",
+    "description": "Although it\u2019s skilled in a style of dynamic swimming that uses all its muscles, for some reason it lives on dry land.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Poliwrath.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "53.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tadpole"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Damp"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Poliwag"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Poliwhirl"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Poliwrath"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Politoed"
+        }
+    ]
+}
