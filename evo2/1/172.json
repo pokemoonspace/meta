@@ -1,0 +1,40 @@
+{
+    "name": "Yamask",
+    "description": "It wanders through ruins by night, carrying a mask that\u2019s said to have been the face it had when it was still human.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Yamask.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Spirit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Mummy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Yamask"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Cofagrigus"
+        }
+    ]
+}

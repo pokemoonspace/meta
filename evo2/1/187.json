@@ -1,0 +1,40 @@
+{
+    "name": "Joltik",
+    "description": "Joltik that live in cities have learned a technique for sucking electricity from the outlets in houses.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Joltik.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.10 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Attaching"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Compound Eyes"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Joltik"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Galvantula"
+        }
+    ]
+}

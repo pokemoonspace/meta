@@ -1,0 +1,40 @@
+{
+    "name": "Bergmite",
+    "description": "They live in mountainous regions of frigid cold. On rare occasions, they ride on the back of an Avalugg to cross seas and move to new habitats.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bergmite.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "99.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ice Chunk"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Own Tempo"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bergmite"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Avalugg"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Tarountula",
+    "description": "The ball of threads wrapped around its body is elastic enough to deflect the scythes of Scyther, this Pokemon\u2019s natural enemy.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tarountula.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "String Ball"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Insomnia"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tarountula"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Spidops"
+        }
+    ]
+}

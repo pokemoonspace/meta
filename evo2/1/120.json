@@ -1,0 +1,40 @@
+{
+    "name": "Spearow",
+    "description": "Inept at flying high. However, it can fly around very fast to protect its territory.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Spearow.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tiny Bird"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Spearow"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Fearow"
+        }
+    ]
+}

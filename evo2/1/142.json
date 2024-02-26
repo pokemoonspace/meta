@@ -1,0 +1,40 @@
+{
+    "name": "Swirlix",
+    "description": "It eats its own weight in sugar every day. If it doesn\u2019t get enough sugar, it becomes incredibly grumpy.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Swirlix.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cotton Candy"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sweet Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Swirlix"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Slurpuff"
+        }
+    ]
+}

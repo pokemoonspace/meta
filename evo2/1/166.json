@@ -1,0 +1,40 @@
+{
+    "name": "Smoochum",
+    "description": "If its face gets even slightly dirty, Smoochum will bathe immediately. But if its body gets dirty, Smoochum does not really seem to care.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Smoochum.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Kiss"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Bug, Rock, Ghost, Dark, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Smoochum"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Jynx"
+        }
+    ]
+}

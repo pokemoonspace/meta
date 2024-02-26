@@ -1,0 +1,40 @@
+{
+    "name": "Carvanha",
+    "description": "It wont attack while its alone not even if it spots prey. Instead, it waits for other Carvanha to join it, and then the Pokemon attack as a group.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Carvanha.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "20.82 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Savage"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rough Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Carvanha"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sharpedo"
+        }
+    ]
+}

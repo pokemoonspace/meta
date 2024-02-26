@@ -1,0 +1,40 @@
+{
+    "name": "Darumaka",
+    "description": "Darumakas droppings are hot, so people used to put them in their clothes to keep themselves warm.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Darumaka.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "37.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Zen Charm"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hustle"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Darumaka"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Darmanitan"
+        }
+    ]
+}

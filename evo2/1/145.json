@@ -1,0 +1,40 @@
+{
+    "name": "Spinarak",
+    "description": "Even while there are prey ensnared in its nest of spun thread, Spinarak will wait motionlessly until darkness falls.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Spinarak.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "String Spit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Spinarak"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ariados"
+        }
+    ]
+}

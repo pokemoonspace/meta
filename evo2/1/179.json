@@ -1,0 +1,40 @@
+{
+    "name": "Wimpod",
+    "description": "Its natures cleanerit eats anything and everything, including garbage and rotten things. The ground near its nest is always clean.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wimpod.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Turn Tail"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Wimp Out"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wimpod"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Golisopod"
+        }
+    ]
+}

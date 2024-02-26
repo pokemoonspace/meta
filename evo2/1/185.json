@@ -1,0 +1,40 @@
+{
+    "name": "Capsakid",
+    "description": "The more sunlight this Pokemon bathes in, the more spicy chemicals are produced by its body, and thus the spicier its moves become.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Capsakid.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Spicy Pepper"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Capsakid"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Scovillain"
+        }
+    ]
+}

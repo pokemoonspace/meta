@@ -1,0 +1,40 @@
+{
+    "name": "Vulpix",
+    "description": "If it is attacked by an enemy that is stronger than itself, it feigns injury to fool the enemy and escapes.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Vulpix.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.89 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Vulpix"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ninetales"
+        }
+    ]
+}

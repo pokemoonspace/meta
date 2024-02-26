@@ -1,0 +1,40 @@
+{
+    "name": "Ponyta",
+    "description": "About an hour after birth, Ponyta\u2019s fiery mane and tail grow out, giving the Pokemon an impressive appearance.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ponyta.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fire Horse"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Ponyta"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Rapidash"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Voltorb",
+    "description": "It rolls to move. If the ground is uneven, a sudden jolt from hitting a bump can cause it to explode.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Voltorb.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.39 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ball"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Voltorb"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Electrode"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Shieldon",
+    "description": "It is outstandingly armored. As a result, it has no particular need to battle with others and can spend its time feeding on grass and berries.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shieldon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "57.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Shield"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shieldon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bastiodon"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Doduo",
+    "description": "Its twin heads have exactly the same genes and battle in perfect sync with each other.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Doduo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "39.19 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Twin Bird"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Doduo"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dodrio"
+        }
+    ]
+}

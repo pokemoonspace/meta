@@ -1,0 +1,40 @@
+{
+    "name": "Rellor",
+    "description": "This Pokemon creates a mud ball by mixing sand and dirt with psychic energy. It treasures its mud ball more than its own life.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rellor.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rolling"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Compound Eyes"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rellor"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Rabsca"
+        }
+    ]
+}

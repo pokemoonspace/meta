@@ -1,0 +1,40 @@
+{
+    "name": "Sunkern",
+    "description": "It suddenly falls out of the sky in the morning. Knowing its weak, it simply feeds until it evolves.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sunkern.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.81 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Seed"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sunkern"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sunflora"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Karrablast",
+    "description": "Its strange physiology reacts to electrical energy in interesting ways. The presence of a Shelmet will cause this Pokemon to evolve.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Karrablast.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.90 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Clamping"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shed Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Karrablast"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Escavalier"
+        }
+    ]
+}

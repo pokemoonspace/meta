@@ -1,0 +1,40 @@
+{
+    "name": "Mantyke",
+    "description": "Mantyke living in Galar seem to be somewhat sluggish. The colder waters of the seas in this region may be the cause.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mantyke.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "65.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Kite"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Water Absorb"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mantyke"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Mantine"
+        }
+    ]
+}

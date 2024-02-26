@@ -1,0 +1,40 @@
+{
+    "name": "Wooloo",
+    "description": "Its curly fleece is such an effective cushion that this Pokemon could fall off a cliff and stand right back up at the bottom, unharmed.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wooloo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sheep"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wooloo"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dubwool"
+        }
+    ]
+}

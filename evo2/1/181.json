@@ -1,0 +1,40 @@
+{
+    "name": "Stufful",
+    "description": "Its fluffy fur is a delight to pet, but carelessly reaching out to touch this Pokemon could result in painful retaliation.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Stufful.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.80 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Flailing"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Klutz"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Stufful"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bewear"
+        }
+    ]
+}

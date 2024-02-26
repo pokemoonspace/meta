@@ -1,0 +1,40 @@
+{
+    "name": "Taillow",
+    "description": "Taillow courageously stands its ground against foes, however strong they may be. This gutsy Pokemon will remain defiant even after a loss. On the other hand, it cries loudly if it becomes hungry.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Taillow.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.31 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tiny Swallow"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Guts"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Taillow"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Swellow"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Cherubi",
+    "description": "It nimbly dashes about to avoid getting pecked by bird Pokemon that would love to make off with its small, nutrient-rich storage ball.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cherubi.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.31 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cherry"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cherubi"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Cherrim"
+        }
+    ]
+}

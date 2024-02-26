@@ -1,0 +1,40 @@
+{
+    "name": "Buneary",
+    "description": "If both of Bunearys ears are rolled up, something is wrong with its body or mind. Its a sure sign the Pokemon is in need of care.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Buneary.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rabbit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Buneary"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lopunny"
+        }
+    ]
+}

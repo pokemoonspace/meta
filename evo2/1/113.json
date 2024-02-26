@@ -1,0 +1,40 @@
+{
+    "name": "Drifloon",
+    "description": "It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Drifloon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Balloon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Aftermath"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Drifloon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Drifblim"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Woobat",
+    "description": "While inside a cave, if you look up and see lots of heart-shaped marks lining the walls, its evidence that Woobat live there.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Woobat.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.09 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bat"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Unaware"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Woobat"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Swoobat"
+        }
+    ]
+}

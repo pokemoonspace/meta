@@ -1,0 +1,40 @@
+{
+    "name": "Kubfu",
+    "description": "Kubfu trains hard to perfect its moves. The moves it masters will determine which form it takes when it evolves.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kubfu.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wushu"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Inner Focus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Kubfu"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Urshifu"
+        }
+    ]
+}

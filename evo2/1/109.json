@@ -1,0 +1,40 @@
+{
+    "name": "Cranidos",
+    "description": "It lived in jungles around a hundred million years ago. It used its skillful headbutts to combat Aerodactyl.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cranidos.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "31.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Head Butt"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Mold Breaker"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cranidos"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Rampardos"
+        }
+    ]
+}

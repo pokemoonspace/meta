@@ -1,0 +1,40 @@
+{
+    "name": "Larvesta",
+    "description": "This Pokemon was called the Larva That Stole the Sun. The fire Larvesta spouts from its horns can cut right through a sheet of iron.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Larvesta.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "28.80 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Torch"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flame Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Larvesta"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Volcarona"
+        }
+    ]
+}

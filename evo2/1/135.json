@@ -1,0 +1,40 @@
+{
+    "name": "Gimmighoul",
+    "description": "This Pokemon was born inside a treasure chest about 1,500 years ago. It sucks the life-force out of scoundrels who try to steal the treasure.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gimmighoul.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Coin Chest"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rattled"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gimmighoul"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gholdengo"
+        }
+    ]
+}

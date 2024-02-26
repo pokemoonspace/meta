@@ -1,0 +1,40 @@
+{
+    "name": "Wingull",
+    "description": "It soars high in the sky, riding on updrafts like a glider. It carries food tucked in its bill.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wingull.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Seagull"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wingull"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pelipper"
+        }
+    ]
+}

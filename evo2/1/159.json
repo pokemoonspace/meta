@@ -1,0 +1,40 @@
+{
+    "name": "Meltan",
+    "description": "It melts particles of iron and other metals found in the subsoil, so it can absorb them into its body of molten steel.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Meltan.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Hex Nut"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Magnet Pull"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Meltan"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Melmetal"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Ledyba",
+    "description": "This Pokemon is very sensitive to cold. In the warmth of Alola, it appears quite lively.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ledyba.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.80 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Five Star"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Electric, Ice, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Ledyba"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Ledian"
+        }
+    ]
+}

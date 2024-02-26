@@ -1,0 +1,40 @@
+{
+    "name": "Rufflet",
+    "description": "They pick fights indiscriminately. They grow stronger and more powerful each time they faint or are injured.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rufflet.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Eaglet"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Rufflet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Braviary"
+        }
+    ]
+}

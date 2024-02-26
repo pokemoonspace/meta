@@ -1,0 +1,40 @@
+{
+    "name": "Bunnelby",
+    "description": "It excels at digging holes. Using its ears, it can dig a nest 33 feet deep in one night.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bunnelby.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Digging"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pickup"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bunnelby"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Diggersby"
+        }
+    ]
+}

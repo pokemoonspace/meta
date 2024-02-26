@@ -1,0 +1,40 @@
+{
+    "name": "Tadbulb",
+    "description": "Tadbulb shakes its tail to generate electricity. If it senses danger, it will make its head blink on and off to alert its allies.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tadbulb.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.41 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "EleTadpole"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tadbulb"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Bellibolt"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Houndour",
+    "description": "It is smart enough to hunt in packs. It uses a variety of cries for communicating with others.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Houndour.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.80 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dark"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Houndour"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Houndoom"
+        }
+    ]
+}

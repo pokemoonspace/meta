@@ -1,0 +1,40 @@
+{
+    "name": "Shroomish",
+    "description": "It prefers damp places. By day it remains still in the forest shade. It releases toxic powder from its head.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shroomish.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mushroom"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Effect Spore"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shroomish"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Breloom"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Meowth",
+    "description": "All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Meowth.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.22 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Scratch Cat"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pickup"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Meowth"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Persian"
+        }
+    ]
+}

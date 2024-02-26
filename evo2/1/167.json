@@ -1,0 +1,40 @@
+{
+    "name": "Grimer",
+    "description": "Born from sludge, these Pokemon now gather in polluted places and increase the bacteria in their bodies.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Grimer.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sludge"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Stench"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Grimer"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Muk"
+        }
+    ]
+}

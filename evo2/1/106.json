@@ -1,0 +1,40 @@
+{
+    "name": "Spritzee",
+    "description": "A scent pouch within this Pokemon\u2019s body allows it to create various scents. A change in its diet will alter the fragrance it produces.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Spritzee.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Perfume"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Healer"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Spritzee"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Aromatisse"
+        }
+    ]
+}

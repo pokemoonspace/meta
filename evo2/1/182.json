@@ -1,0 +1,40 @@
+{
+    "name": "Gossifleur",
+    "description": "It anchors itself in the ground with its single leg, then basks in the sun. After absorbing enough sunlight, its petals spread as it blooms brilliantly.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gossifleur.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.22 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Flowering"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Regenerator"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gossifleur"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Eldegoss"
+        }
+    ]
+}

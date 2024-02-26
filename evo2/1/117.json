@@ -1,0 +1,40 @@
+{
+    "name": "Finizen",
+    "description": "It likes playing with others of its kind using the water ring on its tail. It uses ultrasonic waves to sense the emotions of other living creatures.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Finizen.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "60.19 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dolphin"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Water Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Finizen"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Palafin"
+        }
+    ]
+}

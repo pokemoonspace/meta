@@ -1,0 +1,40 @@
+{
+    "name": "Dunsparce",
+    "description": "It creates mazes in dark locations. When spotted, it flees into the ground by digging with its tail.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dunsparce.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "14.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Land Snake"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Dunsparce"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Dudunsparce"
+        }
+    ]
+}

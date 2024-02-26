@@ -1,0 +1,40 @@
+{
+    "name": "Stunky",
+    "description": "It sprays a foul fluid from its rear. Its stench spreads over a mile radius, driving Pokemon away.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Stunky.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.19 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Skunk"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Stench"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Stunky"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Skuntank"
+        }
+    ]
+}

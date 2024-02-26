@@ -1,0 +1,40 @@
+{
+    "name": "Yamper",
+    "description": "This Pokemon is very popular as a herding dog in the Galar region. As it runs, it generates electricity from the base of its tail.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Yamper.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "13.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Puppy"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Ball Fetch"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Yamper"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Boltund"
+        }
+    ]
+}

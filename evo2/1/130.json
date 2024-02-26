@@ -1,0 +1,40 @@
+{
+    "name": "Tyrunt",
+    "description": "This is an ancient Pokemon, revived in modern times. It has a violent disposition, and it tear apart anything it gets between its hefty jaws.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tyrunt.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "25.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Royal Heir"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Strong Jaw"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Fighting, Ground, Dragon, Steel, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tyrunt"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Tyrantrum"
+        }
+    ]
+}

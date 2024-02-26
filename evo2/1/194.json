@@ -1,0 +1,40 @@
+{
+    "name": "Gulpin",
+    "description": "There is nothing its stomach cant digest. While it is digesting, vile, overpowering gases are expelled.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gulpin.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.30 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Stomach"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Liquid Ooze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gulpin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Swalot"
+        }
+    ]
+}

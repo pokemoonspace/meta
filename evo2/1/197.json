@@ -1,0 +1,40 @@
+{
+    "name": "Qwilfish",
+    "description": "Be cautious if this Pokemon starts sucking in water it will soon attack by scattering the toxic spikes that grow all over its body.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Qwilfish.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.90 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Balloon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Poison Point"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Qwilfish"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Overqwil"
+        }
+    ]
+}

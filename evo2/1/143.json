@@ -1,0 +1,40 @@
+{
+    "name": "Elgyem",
+    "description": "If this Pokemon stands near a TV, strange scenery will appear on the screen. That scenery is said to be from its home.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Elgyem.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cerebral"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Synchronize"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Elgyem"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Beheeyem"
+        }
+    ]
+}

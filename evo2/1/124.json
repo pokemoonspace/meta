@@ -1,0 +1,40 @@
+{
+    "name": "Shellos",
+    "description": "It used to have a shell on its back long ago. This species is closely related to Pokemon like Shellder.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shellos.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.30 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Slug"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sticky Hold"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shellos"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gastrodon"
+        }
+    ]
+}

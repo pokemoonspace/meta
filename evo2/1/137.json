@@ -1,0 +1,40 @@
+{
+    "name": "Drilbur",
+    "description": "It can dig through the ground at a speed of 30 mph. It could give a car running aboveground a good race.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Drilbur.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mole"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sand Rush"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Drilbur"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Excadrill"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Omanyte",
+    "description": "Because some Omanyte manage to escape after being restored or are released into the wild by people, this species is becoming a problem.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Omanyte.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Spiral"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shell Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Omanyte"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Omastar"
+        }
+    ]
+}

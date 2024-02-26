@@ -1,0 +1,40 @@
+{
+    "name": "Archen",
+    "description": "This Pokemon was successfully restored from a fossil. As research suggested, Archen is unable to fly. But its very good at jumping.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Archen.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "9.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "First Bird"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Defeatist"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Electric, Ice, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Archen"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Archeops"
+        }
+    ]
+}

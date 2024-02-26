@@ -1,0 +1,40 @@
+{
+    "name": "Skitty",
+    "description": "Skitty has the habit of becoming fascinated by moving objects and chasing them around. This Pokemon is known to chase after its own tail and become dizzy.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Skitty.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "11.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Kitten"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Cute Charm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Skitty"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Delcatty"
+        }
+    ]
+}

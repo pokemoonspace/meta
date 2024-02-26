@@ -1,0 +1,40 @@
+{
+    "name": "Vullaby",
+    "description": "They tend to guard their posteriors with suitable bones they have found. They pursue weak Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Vullaby.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Diapered"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Big Pecks"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Vullaby"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Mandibuzz"
+        }
+    ]
+}

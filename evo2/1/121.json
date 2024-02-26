@@ -1,0 +1,40 @@
+{
+    "name": "Pancham",
+    "description": "It chooses a Pangoro as its master and then imitates its masters actions. This is how it learns to battle and hunt for prey.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pancham.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Playful"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Iron Fist"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pancham"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Pangoro"
+        }
+    ]
+}

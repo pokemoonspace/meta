@@ -1,0 +1,40 @@
+{
+    "name": "Sizzlipede",
+    "description": "It stores flammable gas in its body and uses it to generate heat. The yellow sections on its belly get particularly hot.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sizzlipede.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Radiator"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sizzlipede"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Centiskorch"
+        }
+    ]
+}

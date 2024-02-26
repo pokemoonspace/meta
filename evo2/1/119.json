@@ -1,0 +1,40 @@
+{
+    "name": "Gligar",
+    "description": "It builds its nest on a steep cliff. When it is done gliding, it hops along the ground back to its nest.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gligar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "64.82 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fly Scorpion"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sand Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ice"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Gligar"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gliscor"
+        }
+    ]
+}

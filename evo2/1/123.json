@@ -1,0 +1,40 @@
+{
+    "name": "Buizel",
+    "description": "It spins its two tails like a screw to propel itself through water. The tails also slice clinging seaweed.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Buizel.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "29.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Weasel"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Buizel"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Floatzel"
+        }
+    ]
+}

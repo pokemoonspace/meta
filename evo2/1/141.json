@@ -1,0 +1,40 @@
+{
+    "name": "Shelmet",
+    "description": "When attacked, it tightly shuts the lid of its shell. This reaction fails to protect it from Karrablast, however, because they can still get into the shell.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shelmet.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.71 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Snail"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hydration"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shelmet"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Accelgor"
+        }
+    ]
+}

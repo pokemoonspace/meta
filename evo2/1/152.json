@@ -1,0 +1,40 @@
+{
+    "name": "Goldeen",
+    "description": "Its dorsal, pectoral, and tail fins wave elegantly in water. That is why it is known as the Water Dancer.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Goldeen.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Goldfish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Goldeen"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Seaking"
+        }
+    ]
+}

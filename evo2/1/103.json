@@ -1,0 +1,40 @@
+{
+    "name": "Sandygast",
+    "description": "If it loses its shovel, it will stick something else like a branchin its head to make do until it finds another shovel.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sandygast.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "69.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sand Heap"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Water Compaction"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Sandygast"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Palossand"
+        }
+    ]
+}

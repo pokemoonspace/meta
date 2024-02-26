@@ -1,0 +1,40 @@
+{
+    "name": "Lickitung",
+    "description": "If this Pokemons sticky saliva gets on you and you dont clean it off, an intense itch will set in. The itch wont go away, either.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lickitung.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "65.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Licking"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Lickitung"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lickilicky"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Mareanie",
+    "description": "This Pokemon wanders the seaside looking for food. It often gets electric shocks from broken Pincurchin spines that it tries to eat.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mareanie.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Brutal Star"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Limber"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mareanie"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Toxapex"
+        }
+    ]
+}
