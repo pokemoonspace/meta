@@ -1,0 +1,48 @@
+{
+    "name": "Oddish",
+    "description": "Its scientific name is Oddium wanderus. It is said to cover distances as far as 1,000 feet when night falls, walking on its two roots.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Oddish.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "5.40 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Weed"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Oddish"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gloom"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Vileplume"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Bellossom"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "name": "Tyrogue",
+    "description": "This earnest Pokemon battles all sorts of opponents, searching for the fighting style that suits it best.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tyrogue.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "21.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Scuffle"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Guts"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Tyrogue"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Hitmonlee"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Hitmonchan"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Hitmontop"
+        }
+    ]
+}
