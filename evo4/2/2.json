@@ -1,0 +1,48 @@
+{
+    "name": "Kirlia",
+    "description": "It has a psychic power that enables it to distort the space around it and see into the future.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kirlia.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "20.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Emotion"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Synchronize"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Ghost, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Ralts"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Kirlia"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Gardevoir"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Gallade"
+        }
+    ]
+}

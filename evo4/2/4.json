@@ -1,0 +1,48 @@
+{
+    "name": "Cosmoem",
+    "description": "The king who ruled Alola in times of antiquity called it the \u201ccocoon of the stars\u201d and built an altar to worship it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cosmoem.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.10 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "999.90 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Protostar"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Cosmog"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Cosmoem"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Solgaleo"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Lunala"
+        }
+    ]
+}
