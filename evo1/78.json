@@ -1,0 +1,36 @@
+{
+    "name": "Shaymin",
+    "description": "It can dissolve toxins in the air to instantly transform ruined land into a lush field of flowers.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shaymin.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.09 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Gratitude"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Natural Cure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Giratina",
+    "description": "This Pokemon is said to live in a world on the reverse side of ours, where common knowledge is distorted and strange.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Giratina.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "4.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "750.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Renegade"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Ghost, Dragon, Dark, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

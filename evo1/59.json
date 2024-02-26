@@ -1,0 +1,36 @@
+{
+    "name": "Bombirdier",
+    "description": "It gathers things up in an apron made from shed feathers added to the Pokemons chest feathers, then drops those things from high places for fun.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bombirdier.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Flying, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "42.91 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Item Drop"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Pincurchin",
+    "description": "This Pokemon generates electricity when it digests food. It uses its five hard teeth to scrape seaweed off surfaces and eat it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pincurchin.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Urchin"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Lightning Rod"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Scream Tail",
+    "description": "There has been only one reported sighting of this Pokemon. It resembles a mysterious creature depicted in an old expedition journal.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Scream_Tail.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Protosynthesis"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Ghost, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Regirock",
+    "description": "Every bit of Regirocks body is made of stone. As parts of its body erode, this Pokemon sticks rocks to itself to repair whats been lost.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Regirock.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "230.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rock Peak"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Clear Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

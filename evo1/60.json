@@ -1,0 +1,36 @@
+{
+    "name": "Regice",
+    "description": "With cold air that can reach temperatures as low as degrees Fahrenheit, Regice instantly freezes any creature that approaches it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Regice.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "175.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Iceberg"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Clear Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

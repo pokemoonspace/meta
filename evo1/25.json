@@ -1,0 +1,36 @@
+{
+    "name": "Ho-Oh",
+    "description": "Ho-Ohs feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokemon is said to live at the foot of a rainbow.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ho-Oh.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.81 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "198.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rainbow"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Electric, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

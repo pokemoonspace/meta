@@ -1,0 +1,36 @@
+{
+    "name": "Necrozma",
+    "description": "It looks somehow pained as it rages around in search of light, which serves as its energy. Its apparently from another world.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Necrozma.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.39 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "230.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Prism"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Prism Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

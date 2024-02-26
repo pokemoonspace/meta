@@ -1,0 +1,36 @@
+{
+    "name": "Entei",
+    "description": "Entei embodies the passion of magma. This Pokemon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Entei.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.11 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "197.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Volcano"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

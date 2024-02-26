@@ -1,0 +1,36 @@
+{
+    "name": "Regidrago",
+    "description": "An academic theory proposes that Regidrago\u2019s arms were once the head of an ancient dragon Pokemon. The theory remains unproven.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Regidrago.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.11 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "199.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dragon Orb"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Dragon\u2019s Maw"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

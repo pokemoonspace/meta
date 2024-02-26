@@ -1,0 +1,36 @@
+{
+    "name": "Morpeko",
+    "description": "Morpeko eats seeds constantly to keep its hunger at bay. If it\u2019s hungry for too long, it grows wild and brutish.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Morpeko.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Two-Sided"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hunger Switch"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Ground, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

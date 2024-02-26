@@ -1,0 +1,36 @@
+{
+    "name": "Kyurem",
+    "description": "This legendary ice Pokemon waits for a hero to fill in the missing parts of its body with truth or ideals.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kyurem.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.00 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "325.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Boundary"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Rock, Dragon, Steel, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

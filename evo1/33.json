@@ -1,0 +1,36 @@
+{
+    "name": "Aerodactyl",
+    "description": "This is a ferocious Pokemon from ancient times. Apparently even modern technology is incapable of producing a perfectly restored specimen.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Aerodactyl.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "59.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fossil"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Electric, Ice, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

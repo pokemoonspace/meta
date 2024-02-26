@@ -1,0 +1,36 @@
+{
+    "name": "Zapdos",
+    "description": "This legendary Pokemon is said to live in thunderclouds. It freely controls lightning bolts.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Zapdos.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "52.62 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

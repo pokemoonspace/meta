@@ -1,0 +1,36 @@
+{
+    "name": "Sigilyph",
+    "description": "Psychic power allows these Pokemon to fly. Some say they were the guardians of an ancient city. Others say they were the guardians emissaries.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sigilyph.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "14.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Avianoid"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Magic Guard"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Raikou",
+    "description": "Raikou embodies the speed of lightning. The roars of this Pokemon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Raikou.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "177.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Thunder"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

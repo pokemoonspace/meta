@@ -1,0 +1,36 @@
+{
+    "name": "Reshiram",
+    "description": "This legendary Pokemon can scorch the world with fire. It helps those who want to build a world of truth.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Reshiram.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "329.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Vast White"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Turboblaze"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Rock, Dragon"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

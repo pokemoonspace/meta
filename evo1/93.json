@@ -1,0 +1,36 @@
+{
+    "name": "Dedenne",
+    "description": "Its small and its electricity-generating organ is not fully developed, so it uses its tail to absorb electricity from peoples homes and charge itself.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dedenne.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.22 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Antenna"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pickup"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

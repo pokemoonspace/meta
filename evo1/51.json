@@ -1,0 +1,36 @@
+{
+    "name": "Kecleon",
+    "description": "It changes its hue to blend into its surroundings. If no one takes notice of it for too long, it will pout and never reveal itself.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kecleon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "22.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Color Swap"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Color Change"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

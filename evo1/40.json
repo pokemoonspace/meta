@@ -1,0 +1,36 @@
+{
+    "name": "Rayquaza",
+    "description": "Rayquaza is said to have lived for hundreds of millions of years. Legends remain of how it put to rest the clash between Kyogre and Groudon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rayquaza.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "7.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "206.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sky High"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Air Lock"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Rock, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

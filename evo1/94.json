@@ -1,0 +1,36 @@
+{
+    "name": "Keldeo",
+    "description": "It crosses the world, running over the surfaces of oceans and rivers. It appears at scenic waterfronts.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Keldeo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "48.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Colt"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Justified"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

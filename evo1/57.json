@@ -1,0 +1,36 @@
+{
+    "name": "Relicanth",
+    "description": "Rock-hard scales and oil-filled swim bladders allow this Pokemon to survive the intense water pressure of the deep sea.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Relicanth.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "23.41 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Longevity"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

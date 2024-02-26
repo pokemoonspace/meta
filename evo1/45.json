@@ -1,0 +1,36 @@
+{
+    "name": "Miltank",
+    "description": "Miltank produces highly nutritious milk, so it\u2019s been supporting the lives of people and other Pokemon since ancient times.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Miltank.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "75.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Milk Cow"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Thick Fat"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

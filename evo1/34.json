@@ -1,0 +1,36 @@
+{
+    "name": "Miraidon",
+    "description": "Much remains unknown about this creature. It resembles Cyclizar, but it is far more ruthless and powerful.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Miraidon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "240.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hadron Engine"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Ground, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

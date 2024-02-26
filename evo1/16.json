@@ -1,0 +1,36 @@
+{
+    "name": "Sandy Shocks",
+    "description": "No records exist of this Pokemon being caught. Data is lacking, but the Pokemons traits match up with a creature shown in an expedition journal.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sandy_Shocks.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.31 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "60.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Protosynthesis"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Spiritomb",
+    "description": "Its constant mischief and misdeeds resulted in it being bound to an Odd Keystone by a mysterious spell.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Spiritomb.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "108.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Forbidden"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

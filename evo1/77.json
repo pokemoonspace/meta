@@ -1,0 +1,36 @@
+{
+    "name": "Cramorant",
+    "description": "Cramorant instinctively swallow everything whole. Theyre at their most formidable when theyre struggling to swallow overly large prey.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cramorant.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Flying, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "18.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Gulp"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Gulp Missile"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

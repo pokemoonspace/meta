@@ -1,0 +1,36 @@
+{
+    "name": "Victini",
+    "description": "This Pokemon brings victory. It is said that Trainers with Victini always win, regardless of the type of encounter.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Victini.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Victory"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Victory Star"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

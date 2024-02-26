@@ -1,0 +1,36 @@
+{
+    "name": "Guzzlord",
+    "description": "Although its alien to this world and a danger here, its apparently a common organism in the world where it normally lives.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Guzzlord.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "5.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "888.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Junkivore"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Beast Boost"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Fighting, Bug, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

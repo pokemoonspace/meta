@@ -1,0 +1,36 @@
+{
+    "name": "Roaring Moon",
+    "description": "It is possible that this is the creature listed as Roaring Moon in an expedition journal that still holds many mysteries.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Roaring_Moon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "380.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Protosynthesis"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Fighting, Bug, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

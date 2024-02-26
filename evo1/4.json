@@ -1,0 +1,36 @@
+{
+    "name": "Celesteela",
+    "description": "One of the dangerous UBs, high energy readings can be detected coming from both of its huge arms.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Celesteela.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "9.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "999.90 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Launch"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Beast Boost"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Electric"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

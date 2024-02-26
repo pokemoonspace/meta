@@ -1,0 +1,36 @@
+{
+    "name": "Pyukumuku",
+    "description": "It lives in warm, shallow waters. If it encounters a foe, it will spit out its internal organs as a means to punch them.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pyukumuku.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Cucumber"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Innards Out"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Stunfisk",
+    "description": "Its skin is very hard, so it is unhurt even if stepped on by sumo wrestlers. It smiles when transmitting electricity.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Stunfisk.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground, Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "11.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Trap"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

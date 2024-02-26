@@ -1,0 +1,36 @@
+{
+    "name": "Ting-Lu",
+    "description": "The fear poured into an ancient ritual vessel has clad itself in rocks and dirt to become a Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ting-Lu.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.69 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "699.71 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ruinous"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Vessel of Ruin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice, Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

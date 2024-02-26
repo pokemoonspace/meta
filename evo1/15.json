@@ -1,0 +1,36 @@
+{
+    "name": "Brute Bonnet",
+    "description": "It is possible that the creature listed as Brute Bonnet in a certain book could actually be this Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Brute_Bonnet.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "21.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Protosynthesis"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Fighting, Poison, Flying, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

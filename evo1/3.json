@@ -1,0 +1,36 @@
+{
+    "name": "Palkia",
+    "description": "It has the ability to distort space. It is described as a deity in Sinnoh-region mythology.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Palkia.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "4.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "336.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Spatial"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

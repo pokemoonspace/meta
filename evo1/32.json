@@ -1,0 +1,36 @@
+{
+    "name": "Spectrier",
+    "description": "It probes its surroundings with all its senses save one it does not use its sense of sight. Spectrier\u2019s kicks are said to separate soul from body.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Spectrier.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "44.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Swift Horse"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Grim Neigh"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

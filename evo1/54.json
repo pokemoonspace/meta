@@ -1,0 +1,36 @@
+{
+    "name": "Solrock",
+    "description": "When it rotates itself, it gives off light similar to the sun, thus blinding its foes.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Solrock.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "153.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Meteorite"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ground, Bug, Ghost, Dark, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

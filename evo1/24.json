@@ -1,0 +1,36 @@
+{
+    "name": "Heatmor",
+    "description": "Theres a hole in its tail that allows it to draw in the air it needs to keep its fire burning. If the hole gets blocked, this Pokemon will fall ill.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Heatmor.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "58.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Anteater"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

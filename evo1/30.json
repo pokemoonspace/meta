@@ -1,0 +1,36 @@
+{
+    "name": "Dhelmise",
+    "description": "After a piece of seaweed merged with debris from a sunken ship, it was reborn as this ghost Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dhelmise.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "210.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Creeper"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Steelworker"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Emolga",
+    "description": "As Emolga flutters through the air, it crackles with electricity. This Pokemon is cute, but it can cause a lot of trouble.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Emolga.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sky Squirrel"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Articuno",
+    "description": "This legendary bird Pokemon can create blizzards by freezing moisture in the air.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Articuno.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "55.38 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Freeze"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Electric, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

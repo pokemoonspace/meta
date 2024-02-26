@@ -1,0 +1,36 @@
+{
+    "name": "Zangoose",
+    "description": "It\u2019s Seviper\u2019s archrival. To threaten those it encounters, it fans out the claws on its front paws.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Zangoose.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "40.28 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cat Ferret"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Immunity"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

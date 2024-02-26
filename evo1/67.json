@@ -1,0 +1,36 @@
+{
+    "name": "Glastrier",
+    "description": "Glastrier emits intense cold from its hooves. It\u2019s also a belligerent Pokemon anything it wants, it takes by force.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Glastrier.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.21 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "800.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wild Horse"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chilling Neigh"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

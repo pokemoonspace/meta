@@ -1,0 +1,36 @@
+{
+    "name": "Komala",
+    "description": "Komala spends its entire life sleeping. It feeds on leaves that contain a potent poison only Komala can break down.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Komala.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.91 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Drowsing"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Comatose"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

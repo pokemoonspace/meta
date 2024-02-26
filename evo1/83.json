@@ -1,0 +1,36 @@
+{
+    "name": "Groudon",
+    "description": "Groudon is said to be the personification of the land itself. Legends tell of its many clashes against Kyogre, as each sought to gain the power of nature.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Groudon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "950.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Continent"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Drought"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

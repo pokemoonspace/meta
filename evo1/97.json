@@ -1,0 +1,36 @@
+{
+    "name": "Delibird",
+    "description": "It carries food all day long. There are tales about lost people who were saved by the food it had.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Delibird.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "16.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Delivery"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Vital Spirit"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Electric, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

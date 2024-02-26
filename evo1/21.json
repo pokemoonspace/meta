@@ -1,0 +1,36 @@
+{
+    "name": "Volcanion",
+    "description": "It lets out billows of steam and disappears into the dense fog. Its said to live in mountains where humans do not tread.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Volcanion.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "195.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Steam"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Water Absorb"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

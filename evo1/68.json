@@ -1,0 +1,36 @@
+{
+    "name": "Iron Valiant",
+    "description": "It has some similarities to a mad scientist\u2019s invention covered in a paranormal magazine.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Iron_Valiant.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "35.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Quark Drive"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Flying, Psychic, Steel, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Veluza",
+    "description": "When Veluza discards unnecessary flesh, its mind becomes honed and its psychic power increases. The spare flesh has a mild but delicious flavor.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Veluza.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.49 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "89.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Jettison"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Mold Breaker"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

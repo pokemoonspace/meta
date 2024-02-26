@@ -1,0 +1,36 @@
+{
+    "name": "Orthworm",
+    "description": "When attacked, this Pokemon will wield the tendrils on its body like fists and pelt the opponent with a storm of punches.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Orthworm.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.49 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "309.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Earthworm"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Earth Eater"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

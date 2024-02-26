@@ -1,0 +1,36 @@
+{
+    "name": "Iron Thorns",
+    "description": "It has some similarities to a Pokemon introduced in a dubious magazine as a Tyranitar from one billion years into the future.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Iron_Thorns.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "303.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Quark Drive"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

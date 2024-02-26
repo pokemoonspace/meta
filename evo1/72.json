@@ -1,0 +1,36 @@
+{
+    "name": "Zarude",
+    "description": "Within dense forests, this Pokemon lives in a pack with others of its kind. Its incredibly aggressive, and the other Pokemon of the forest fear it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Zarude.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "69.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rogue Monkey"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Leaf Guard"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Fighting, Poison, Flying, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

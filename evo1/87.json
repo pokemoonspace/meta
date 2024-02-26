@@ -1,0 +1,36 @@
+{
+    "name": "Passimian",
+    "description": "This Pokemon battles by throwing hard berries. It wont obey a Trainer who throws Poke Balls without skill.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Passimian.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "82.78 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Teamwork"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Receiver"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

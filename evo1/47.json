@@ -1,0 +1,36 @@
+{
+    "name": "Stonjourner",
+    "description": "The elemental composition of the rocks that form its body were found to match the bedrock of a land far away from this Pokemons habitat.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Stonjourner.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.49 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "520.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Big Rock"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Power Spot"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

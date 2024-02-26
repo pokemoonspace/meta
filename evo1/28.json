@@ -1,0 +1,36 @@
+{
+    "name": "Virizion",
+    "description": "A legend tells of this Pokemon working together with Cobalion and Terrakion to protect the Pokemon of the Unova region.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Virizion.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "199.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Grassland"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Justified"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Bouffalant",
+    "description": "These Pokemon can crush a car with no more than a headbutt. Bouffalant with more hair on their heads hold higher positions within the herd.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bouffalant.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "94.62 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bash Buffalo"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Reckless"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Eiscue",
+    "description": "On hot days, these Pokemon press their ice cube heads together and pass the time cooling each other down.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Eiscue.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "88.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Penguin"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Ice Face"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

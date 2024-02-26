@@ -1,0 +1,36 @@
+{
+    "name": "Magearna",
+    "description": "It synchronizes its consciousness with others to understand their feelings. This faculty makes it useful for taking care of people.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Magearna.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "80.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Artificial"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Soul-Heart"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

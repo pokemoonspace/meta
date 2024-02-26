@@ -1,0 +1,36 @@
+{
+    "name": "Iron Leaves",
+    "description": "Many of its physical characteristics match those of a Virizion from the future that was covered in a paranormal magazine.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Iron_Leaves.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "125.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Quark Drive"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

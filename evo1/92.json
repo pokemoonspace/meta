@@ -1,0 +1,36 @@
+{
+    "name": "Arctozolt",
+    "description": "The shaking of its freezing upper half is what generates its electricity. It has a hard time walking around.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Arctozolt.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.31 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "150.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fossil"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Static"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

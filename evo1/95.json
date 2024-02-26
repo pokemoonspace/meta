@@ -1,0 +1,36 @@
+{
+    "name": "Iron Crown",
+    "description": "It resembles a mysterious object introduced in a paranormal magazine as a cutting-edge weapon shaped like a Cobalion.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Iron_Crown.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "155.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Quark Drive"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ground, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

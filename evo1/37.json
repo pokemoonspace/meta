@@ -1,0 +1,36 @@
+{
+    "name": "Azelf",
+    "description": "Known as The Being of Willpower. It sleeps at the bottom of a lake to keep the world in balance.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Azelf.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.32 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Willpower"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

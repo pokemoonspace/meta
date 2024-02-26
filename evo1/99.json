@@ -1,0 +1,36 @@
+{
+    "name": "Heatran",
+    "description": "It dwells in volcanic caves. It digs in with its cross-shaped feet to crawl on ceilings and walls.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Heatran.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "430.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Lava Dome"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flash Fire"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

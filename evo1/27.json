@@ -1,0 +1,36 @@
+{
+    "name": "Oricorio",
+    "description": "This Pokemon is incredibly popular, possibly because its passionate dancing is a great match with the temperament of Paldean people.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Oricorio.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.40 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Dancing"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Dancer"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Electric, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

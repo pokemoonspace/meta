@@ -1,0 +1,36 @@
+{
+    "name": "Minior",
+    "description": "This Pokemon is born in the ozone layer. It falls to the ground once the outer shell enclosing its core grows heavy.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Minior.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "40.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Meteor"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shields Down"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Electric, Ice, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

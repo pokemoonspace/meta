@@ -1,0 +1,36 @@
+{
+    "name": "Yveltal",
+    "description": "When this legendary Pokemons wings and tail feathers spread wide and glow red, it absorbs the life force of living creatures.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Yveltal.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "5.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "202.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Destruction"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Dark Aura"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

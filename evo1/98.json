@@ -1,0 +1,36 @@
+{
+    "name": "Luvdisc",
+    "description": "Its heart-shaped body makes it popular. In some places, you would give a Luvdisc to someone you love.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Luvdisc.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.71 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rendezvous"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

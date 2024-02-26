@@ -1,0 +1,36 @@
+{
+    "name": "Marshadow",
+    "description": "It slips into the shadows of others and mimics their powers and movements. As it improves, it becomes stronger than those it\u2019s imitating.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Marshadow.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "22.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Gloomdweller"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Technician"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Ghost, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}
