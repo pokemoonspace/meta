@@ -1,0 +1,40 @@
+{
+  "name": "Barraskewda",
+  "description": "It spins its tail fins to leap from the water, then viciously bites down on Wingull flying close to the water’s surface.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Barraskewda.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.30 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "29.98 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Skewer"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Swift Swim"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Arrokuda"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Barraskewda"
+    }
+  ]
+}

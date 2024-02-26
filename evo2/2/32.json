@@ -1,0 +1,40 @@
+{
+  "name": "Hariyama",
+  "description": "It loves challenging others to tests of strength. It has the power to stop a train with a slap.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hariyama.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Fighting"
+    },
+    {
+      "trait_type": "Height",
+      "value": "2.31 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "253.78 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Arm Thrust"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Guts"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Flying, Psychic, Fairy"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Makuhita"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Hariyama"
+    }
+  ]
+}

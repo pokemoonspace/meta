@@ -1,0 +1,40 @@
+{
+  "name": "Ribombee",
+  "description": "Ribombee can sense when people or Pokémon are feeling down, and it will cheer them up with handmade pollen puffs.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ribombee.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Bug, Fairy"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.20 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "0.50 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Bee Fly"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Shield Dust"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Poison, Flying, Rock, Steel"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Cutiefly"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Ribombee"
+    }
+  ]
+}

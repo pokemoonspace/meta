@@ -1,0 +1,40 @@
+{
+    "name": "Crawdaunt",
+    "description": "Loving to battle, this Pokemon pinches all Pokemon that enter its territory with its pincers and throws them out.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Crawdaunt.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "32.79 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Rogue"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shell Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Corphish"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Crawdaunt"
+        }
+    ]
+}

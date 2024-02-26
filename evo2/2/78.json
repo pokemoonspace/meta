@@ -1,0 +1,40 @@
+{
+  "name": "Wugtrio",
+  "description": "It has a vicious temperament, contrary to what its appearance may suggest. It wraps its long bodies around prey, then drags the prey into its den.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wugtrio.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.19 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "5.40 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Garden Eel"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Gooey"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Wiglett"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Wugtrio"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Copperajah",
+  "description": "This Pokémon was brought to Paldea long ago by people from a faraway land. It’s so strong that it can easily pull an airplane.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Copperajah.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Steel"
+    },
+    {
+      "trait_type": "Height",
+      "value": "3.00 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "650.00 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Copperderm"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Sheer Force"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Fighting, Ground"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Cufant"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Copperajah"
+    }
+  ]
+}

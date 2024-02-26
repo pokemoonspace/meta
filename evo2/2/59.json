@@ -1,0 +1,40 @@
+{
+  "name": "Milotic",
+  "description": "Its lovely scales are described as rainbow-colored. They change color depending on the viewing angle.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Milotic.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Height",
+      "value": "6.20 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "161.98 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Tender"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Marvel Scale"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Feebas"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Milotic"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Hypno",
+  "description": "When it locks eyes with an enemy, it will use a mix of psi moves, such as Hypnosis and Confusion.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hypno.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Psychic"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.60 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "75.61 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Hypnosis"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Insomnia"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Bug, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Drowzee"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Hypno"
+    }
+  ]
+}

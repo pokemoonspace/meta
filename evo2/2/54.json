@@ -1,0 +1,40 @@
+{
+  "name": "Mismagius",
+  "description": "Its cry sounds like an incantation. It is said the cry may rarely be imbued with happiness-giving power.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mismagius.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Ghost"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.89 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "4.40 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Magical"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Levitate"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Misdreavus"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Mismagius"
+    }
+  ]
+}

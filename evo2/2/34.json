@@ -1,0 +1,40 @@
+{
+  "name": "Noivern",
+  "description": "Ultrasonic waves emitted by a Noivern can pulverize a large boulder. This Pokémon has a cruel disposition.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Noivern.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Flying, Dragon"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.50 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "85.00 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Sound Wave"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Frisk"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ice, Rock, Dragon, Fairy"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Noibat"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Noivern"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Toedscruel",
+  "description": "These Pokémon gather into groups and form colonies deep within forests. They absolutely hate it when strangers approach.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Toedscruel.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Ground, Grass"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.91 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "58.01 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Woodear"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Mycelium Might"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Ice, Flying, Bug"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Toedscool"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Toedscruel"
+    }
+  ]
+}

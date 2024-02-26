@@ -1,0 +1,40 @@
+{
+    "name": "Steelix",
+    "description": "It is said that if an Onix lives for over 100 years, its composition changes to become diamond-like.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Steelix.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "9.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "399.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Iron Snake"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Water, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Onix"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Steelix"
+        }
+    ]
+}

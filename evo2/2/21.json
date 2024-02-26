@@ -1,0 +1,40 @@
+{
+    "name": "Yanmega",
+    "description": "Yanmegas wingbeats are so powerful that the Pokemon blows down huge trees nearby when it vigorously launches itself into flight.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Yanmega.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "51.48 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ogre Darner"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Tinted Lens"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Electric, Ice, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Yanma"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Yanmega"
+        }
+    ]
+}

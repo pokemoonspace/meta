@@ -1,0 +1,40 @@
+{
+  "name": "Kilowattrel",
+  "description": "Kilowattrel inflates its throat sac to amplify its electricity. By riding the wind, this Pokémon can fly over 430 miles in a day.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kilowattrel.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Electric, Flying"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.40 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "38.60 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Frigatebird"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Volt Absorb"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ice, Rock"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Wattrel"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Kilowattrel"
+    }
+  ]
+}

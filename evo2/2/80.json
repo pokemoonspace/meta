@@ -1,0 +1,40 @@
+{
+  "name": "Grumpig",
+  "description": "It can perform odd dance steps to influence foes. Its style of dancing became hugely popular overseas.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Grumpig.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Psychic"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.89 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "71.49 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Manipulate"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Own Tempo"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Bug, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Spoink"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Grumpig"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Drapion",
+    "description": "Its poison is potent, but it rarely sees use. This Pokemon prefers to use physical force instead, going on rampages with its car-crushing strength.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Drapion.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "61.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ogre Scorpion"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sniper"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Skorupi"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Drapion"
+        }
+    ]
+}

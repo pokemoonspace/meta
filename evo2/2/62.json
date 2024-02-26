@@ -1,0 +1,40 @@
+{
+  "name": "Mabosstiff",
+  "description": "This Pokémon can store energy in its large dewlap. Mabosstiff unleashes this energy all at once to blow away enemies.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mabosstiff.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.09 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "61.01 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Boss"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Intimidate"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fighting, Bug, Fairy"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Maschiff"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Mabosstiff"
+    }
+  ]
+}

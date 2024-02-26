@@ -1,0 +1,40 @@
+{
+  "name": "Clawitzer",
+  "description": "Clawitzer can move through the water at a speed of 60 knots by using gas inside its body to expel water from the back of its claw.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Clawitzer.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.30 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "35.29 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Howitzer"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Mega Launcher"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Clauncher"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Clawitzer"
+    }
+  ]
+}

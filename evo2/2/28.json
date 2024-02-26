@@ -1,0 +1,40 @@
+{
+  "name": "Ferrothorn",
+  "description": "This Pokémon scrapes its spikes across rocks, and then uses the tips of its feelers to absorb the nutrients it finds within the stone.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ferrothorn.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Grass, Steel"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.99 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "110.00 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Thorn Pod"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Iron Barbs"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Fighting"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Ferroseed"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Ferrothorn"
+    }
+  ]
+}

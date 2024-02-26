@@ -1,0 +1,40 @@
+{
+  "name": "Golduck",
+  "description": "When it swims at full speed using its long, webbed limbs, its forehead somehow begins to glow.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Golduck.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.70 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "76.61 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Duck"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Damp"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Psyduck"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Golduck"
+    }
+  ]
+}

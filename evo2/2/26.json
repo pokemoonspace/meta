@@ -1,0 +1,40 @@
+{
+  "name": "Octillery",
+  "description": "It has a tendency to want to be in holes. It prefers rock crags or pots and sprays ink from them before attacking.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Octillery.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.89 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "28.49 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Jet"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Sniper"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Remoraid"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Octillery"
+    }
+  ]
+}

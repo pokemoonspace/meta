@@ -1,0 +1,40 @@
+{
+  "name": "Mudsdale",
+  "description": "This Pokémon has been treasured not just for its physical labor but also because it produces high-quality mud used for making pottery.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mudsdale.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Height",
+      "value": "2.49 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "920.02 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Draft Horse"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Own Tempo"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Water, Grass, Ice"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Mudbray"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Mudsdale"
+    }
+  ]
+}

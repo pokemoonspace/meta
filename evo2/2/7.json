@@ -1,0 +1,40 @@
+{
+  "name": "Lilligant",
+  "description": "The fragrance of the garland on its head has a relaxing effect, but taking care of it is very difficult.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lilligant.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Grass"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.09 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "16.28 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Flowering"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Chlorophyll"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Ice, Poison, Flying, Bug"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Petilil"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Lilligant"
+    }
+  ]
+}

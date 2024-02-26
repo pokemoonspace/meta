@@ -1,0 +1,40 @@
+{
+    "name": "Sudowoodo",
+    "description": "Although it always pretends to be a tree, its composition appears more similar to rock than to vegetation.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sudowoodo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "38.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Imitation"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rock Head"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Bonsly"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sudowoodo"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Watchog",
+    "description": "Using luminescent matter, it makes its eyes and body glow and stuns attacking opponents.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Watchog.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "26.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Lookout"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Patrat"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Watchog"
+        }
+    ]
+}

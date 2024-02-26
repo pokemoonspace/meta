@@ -1,0 +1,40 @@
+{
+  "name": "Frosmoth",
+  "description": "Frosmoth senses air currents with its antennae. It sends its scales drifting on frigid air, making them fall like snow.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Frosmoth.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Ice, Bug"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.30 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "42.00 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Frost Moth"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Shield Dust"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Flying, Rock, Steel"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Snom"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Frosmoth"
+    }
+  ]
+}

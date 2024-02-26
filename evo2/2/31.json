@@ -1,0 +1,40 @@
+{
+  "name": "Carracosta",
+  "description": "Carracosta completely devours its prey—bones, shells, and all. Because of this, Carracosta’s own shell grows thick and sturdy.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Carracosta.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water, Rock"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.19 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "81.01 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Prototurtle"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Sturdy"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric, Fighting, Ground"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Tirtouga"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Carracosta"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Snorlax",
+  "description": "This gluttonous Pokémon eats constantly, apart from when it’s asleep. It devours nearly 900 pounds of food per day.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Snorlax.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Height",
+      "value": "2.11 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "459.99 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Sleeping"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Thick Fat"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fighting"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Munchlax"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Snorlax"
+    }
+  ]
+}

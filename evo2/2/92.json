@@ -1,0 +1,40 @@
+{
+    "name": "Gyarados",
+    "description": "Once it appears, it goes on a rampage. It remains enraged until it demolishes everything around it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gyarados.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "6.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "235.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Atrocious"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Magikarp"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gyarados"
+        }
+    ]
+}

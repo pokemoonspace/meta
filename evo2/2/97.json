@@ -1,0 +1,40 @@
+{
+    "name": "Exeggutor",
+    "description": "It is called the Walking Jungle. Each of the nuts has a face and a will of its own.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Exeggutor.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "120.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Coconut"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Exeggcute"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Exeggutor"
+        }
+    ]
+}

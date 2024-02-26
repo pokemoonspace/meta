@@ -1,0 +1,40 @@
+{
+    "name": "Malamar",
+    "description": "Its hypnotic powers are dangerously strong. Anyone who falls under Malamars control loses their memories surrounding the event.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Malamar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "46.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Overturning"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Suction Cups"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Inkay"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Malamar"
+        }
+    ]
+}

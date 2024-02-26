@@ -1,0 +1,40 @@
+{
+  "name": "Zebstrika",
+  "description": "This Pokemon is aggressive and has a volatile disposition. When agitated, it will illuminate its mane in yellow and fire off bolts of electricity.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Zebstrika.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.60 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "79.51 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Thunderbolt"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Lightning Rod"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Blitzle"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Zebstrika"
+    }
+  ]
+}

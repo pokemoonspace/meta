@@ -1,0 +1,40 @@
+{
+    "name": "Cradily",
+    "description": "It has short legs and can\u2019t walk very fast, but its neck and tentacles can extend to over three times their usual length to nab distant prey.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cradily.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "60.42 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Barnacle"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Suction Cups"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Fighting, Bug, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Lileep"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Cradily"
+        }
+    ]
+}

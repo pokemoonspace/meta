@@ -1,0 +1,40 @@
+{
+  "name": "Lycanroc",
+  "description": "Lycanroc attacks its prey with its sharp claws and fangs. It loyally obeys the instructions of a Trainer it trusts.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lycanroc.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Rock"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.79 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "24.99 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Wolf"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Keen Eye"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Water, Grass, Fighting, Ground, Steel"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Rockruff"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Lycanroc"
+    }
+  ]
+}

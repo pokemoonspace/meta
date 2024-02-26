@@ -1,0 +1,40 @@
+{
+  "name": "Arbok",
+  "description": "The pattern on its belly appears to be a frightening face. Weak foes will flee just at the sight of the pattern.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Arbok.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Poison"
+    },
+    {
+      "trait_type": "Height",
+      "value": "3.51 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "65.00 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Cobra"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Shed Skin"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ground, Psychic"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Ekans"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Arbok"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Crustle",
+  "description": "This highly territorial Pokémon prefers dry climates. It won’t come out of its boulder on rainy days.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Crustle.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Bug, Rock"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.40 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "199.99 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Stone Home"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Sturdy"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Water, Rock, Steel"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Dwebble"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Crustle"
+    }
+  ]
+}

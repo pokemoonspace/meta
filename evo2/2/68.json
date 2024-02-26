@@ -1,0 +1,40 @@
+{
+  "name": "Garbodor",
+  "description": "This Pokémon eats trash, which turns into poison inside its body. The main component of the poison depends on what sort of trash was eaten.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Garbodor.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Poison"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.91 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "107.32 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Trash Heap"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Stench"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ground, Psychic"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Trubbish"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Garbodor"
+    }
+  ]
+}

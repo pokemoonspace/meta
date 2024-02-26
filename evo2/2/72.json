@@ -1,0 +1,40 @@
+{
+  "name": "Drednaw",
+  "description": "Its massive, jagged teeth can crush a boulder in a single bite. This Pokémon has an extremely vicious disposition.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Drednaw.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water, Rock"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.99 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "115.48 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Bite"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Shell Armor"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric, Fighting, Ground"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Chewtle"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Drednaw"
+    }
+  ]
+}

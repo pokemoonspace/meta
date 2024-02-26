@@ -1,0 +1,40 @@
+{
+  "name": "Granbull",
+  "description": "It is actually timid and easily spooked. If attacked, it desperately flails its limbs about in an attempt to repel its opponent.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Granbull.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Fairy"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.40 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "48.72 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Fairy"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Intimidate"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Poison, Steel"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Snubbull"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Granbull"
+    }
+  ]
+}

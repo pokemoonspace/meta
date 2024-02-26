@@ -1,0 +1,40 @@
+{
+  "name": "Vespiquen",
+  "description": "It houses its colony in cells in its body and releases various pheromones to make those grubs do its bidding.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Vespiquen.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Bug, Flying"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.19 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "38.51 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Beehive"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Pressure"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Electric, Ice, Flying, Rock"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Combee"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Vespiquen"
+    }
+  ]
+}

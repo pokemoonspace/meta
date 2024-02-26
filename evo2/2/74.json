@@ -1,0 +1,40 @@
+{
+  "name": "Meowstic",
+  "description": "Though it has enough psychic power to blast away any opponent, Meowstic prefers to support its allies rather than attack.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Meowstic.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Psychic"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.61 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "8.48 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Constraint"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Keen Eye"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Bug, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Espurr"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Meowstic"
+    }
+  ]
+}

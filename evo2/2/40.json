@@ -1,0 +1,40 @@
+{
+  "name": "Glimmora",
+  "description": "When this Pokémon detects danger, it will open up its crystalline petals and fire beams from its conical body.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Glimmora.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Rock, Poison"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.50 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "45.00 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Ore"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Toxic Debris"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Water, Ground, Psychic, Steel"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Glimmet"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Glimmora"
+    }
+  ]
+}

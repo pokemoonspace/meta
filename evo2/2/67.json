@@ -1,0 +1,40 @@
+{
+  "name": "Barbaracle",
+  "description": "Seven Binacle come together to form one Barbaracle. The Binacle that serves as the head gives orders to those serving as the limbs.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Barbaracle.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Rock, Water"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.30 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "95.98 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Collective"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Sniper"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric, Fighting, Ground"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Binacle"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Barbaracle"
+    }
+  ]
+}

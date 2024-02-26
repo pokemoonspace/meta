@@ -1,0 +1,40 @@
+{
+  "name": "Whimsicott",
+  "description": "Like the wind, it can slip through any gap, no matter how small. It leaves balls of white fluff behind.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Whimsicott.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Grass, Fairy"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.71 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "6.62 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Windveiled"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Prankster"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Ice, Poison, Flying, Steel"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Cottonee"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Whimsicott"
+    }
+  ]
+}

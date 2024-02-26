@@ -1,0 +1,40 @@
+{
+  "name": "Grapploct",
+  "description": "A body made up of nothing but muscle makes the grappling moves this Pokémon performs with its tentacles tremendously powerful.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Grapploct.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Fighting"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.60 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "39.01 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Jujitsu"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Limber"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Flying, Psychic, Fairy"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Clobbopus"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Grapploct"
+    }
+  ]
+}

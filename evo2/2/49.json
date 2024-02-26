@@ -1,0 +1,40 @@
+{
+  "name": "Venomoth",
+  "description": "The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Venomoth.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Bug, Poison"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.50 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "12.52 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Poison Moth"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Shield Dust"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Flying, Psychic, Rock"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Venonat"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Venomoth"
+    }
+  ]
+}

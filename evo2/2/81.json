@@ -1,0 +1,40 @@
+{
+  "name": "Kricketune",
+  "description": "By allowing its cry to resonate in the hollow of its belly, it produces a captivating sound.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kricketune.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Bug"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.99 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "25.49 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Cricket"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Swarm"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Flying, Rock"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Kricketot"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Kricketune"
+    }
+  ]
+}

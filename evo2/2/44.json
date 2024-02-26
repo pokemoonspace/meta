@@ -1,0 +1,40 @@
+{
+  "name": "Brambleghast",
+  "description": "It will open the branches of its head to envelop its prey. Once it absorbs all the life energy it needs, it expels the prey and discards it.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Brambleghast.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Grass, Ghost"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.19 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "5.99 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Tumbleweed"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Wind Rider"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Ice, Flying, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Bramblin"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Brambleghast"
+    }
+  ]
+}

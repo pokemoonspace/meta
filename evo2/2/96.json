@@ -1,0 +1,40 @@
+{
+    "name": "Grafaiai",
+    "description": "The color of the poisonous saliva depends on what the Pokemon eats. Grafaiai covers its fingers in its saliva and draws patterns on trees in forests.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Grafaiai.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "27.22 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Toxic Monkey"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Unburden"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Psychic"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Shroodle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Grafaiai"
+        }
+    ]
+}

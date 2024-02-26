@@ -1,0 +1,40 @@
+{
+  "name": "Altaria",
+  "description": "If it bonds with a person, it will gently envelop the friend with its soft wings, then hum.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Altaria.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Dragon, Flying"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.09 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "20.59 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Humming"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Natural Cure"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ice, Rock, Dragon, Fairy"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Swablu"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Altaria"
+    }
+  ]
+}

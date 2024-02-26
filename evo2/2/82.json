@@ -1,0 +1,40 @@
+{
+  "name": "Dragalge",
+  "description": "Using a liquid poison, Dragalge indiscriminately attacks anything that wanders into its territory. This poison can corrode the undersides of boats.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dragalge.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Poison, Dragon"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.80 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "81.51 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Mock Kelp"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Poison Point"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ice, Ground, Psychic, Dragon"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Skrelp"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Dragalge"
+    }
+  ]
+}

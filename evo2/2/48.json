@@ -1,0 +1,40 @@
+{
+  "name": "Chimecho",
+  "description": "It uses the sucker on its head to hang from a tree or from eaves. It can produce seven different tones.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chimecho.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Psychic"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.61 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "1.00 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Wind Chime"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Levitate"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Bug, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Chingling"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Chimecho"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Magcargo",
+  "description": "This Pokémon lives near the craters of volcanoes. It stores fire energy in its shell of cooled and hardened magma.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Magcargo.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Fire, Rock"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.79 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "55.02 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Lava"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Flame Body"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Water, Fighting, Ground, Rock"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Slugma"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Magcargo"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Aurorus",
+  "description": "Aurorus was restored from a fossil. Its said that when this Pokémon howls, auroras appear in the night sky.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Aurorus.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Rock, Ice"
+    },
+    {
+      "trait_type": "Height",
+      "value": "2.69 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "224.98 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Tundra"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Refrigerate"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Water, Grass, Fighting, Ground, Rock, Steel"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Amaura"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Aurorus"
+    }
+  ]
+}

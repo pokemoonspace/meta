@@ -1,0 +1,40 @@
+{
+  "name": "Bronzong",
+  "description": "In ages past, this Pokémon was revered as a bringer of rain. It was found buried in the ground.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bronzong.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Steel, Psychic"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.30 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "187.02 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Bronze Bell"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Levitate"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Ground, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Bronzor"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Bronzong"
+    }
+  ]
+}

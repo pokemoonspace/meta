@@ -1,0 +1,40 @@
+{
+  "name": "Weezing",
+  "description": "Top-grade perfume is made using its internal poison gases by diluting them to the highest level.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Weezing.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Poison"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.19 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "9.48 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Poison Gas"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Levitate"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ground, Psychic"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Koffing"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Weezing"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Trevenant",
+    "description": "Using its roots, Trevenant connects itself to trees and monitors every corner of its forest. It uses curses to drive intruders away.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Trevenant.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "70.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Elder Tree"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Natural Cure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Flying, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Phantump"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Trevenant"
+        }
+    ]
+}

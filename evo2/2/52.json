@@ -1,0 +1,40 @@
+{
+  "name": "Armaldo",
+  "description": "After evolution, this Pokémon emerged onto land. Its lower body has become stronger, and blows from its tail are devastating.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Armaldo.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Rock, Bug"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.50 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "68.22 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Plate"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Battle Armor"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Water, Rock, Steel"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Anorith"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Armaldo"
+    }
+  ]
+}

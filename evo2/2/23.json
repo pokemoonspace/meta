@@ -1,0 +1,40 @@
+{
+  "name": "Medicham",
+  "description": "Through yoga training, it gained the psychic power to predict its foe’s next move.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Medicham.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Fighting, Psychic"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.30 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "31.48 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Meditate"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Pure Power"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Flying, Ghost, Fairy"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Meditite"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Medicham"
+    }
+  ]
+}

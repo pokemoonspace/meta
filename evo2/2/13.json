@@ -1,0 +1,40 @@
+{
+  "name": "Lurantis",
+  "description": "By masquerading as a bug Pokémon, it lowers the guard of actual bug Pokémon lured in by a scent of sweet flowers. Its sickles bring them down.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lurantis.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Grass"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.89 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "18.51 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Bloom Sickle"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Leaf Guard"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Ice, Poison, Flying, Bug"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Fomantis"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Lurantis"
+    }
+  ]
+}

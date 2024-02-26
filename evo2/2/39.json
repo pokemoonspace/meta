@@ -1,0 +1,40 @@
+{
+  "name": "Toxtricity",
+  "description": "Many youths admire the way this Pokemon listlessly picks fights and keeps its cool no matter what opponent it faces.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Toxtricity.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Electric, Poison"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.60 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "40.01 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Punk"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Minus"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ground, Psychic"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Toxel"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Toxtricity"
+    }
+  ]
+}

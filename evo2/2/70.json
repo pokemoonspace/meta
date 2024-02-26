@@ -1,0 +1,40 @@
+{
+    "name": "Alcremie",
+    "description": "Desserts that Alcremie have decorated with their cream have a rich, sweet flavor and bring happiness to all who eat them.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Alcremie.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cream"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sweet Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Milcery"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Alcremie"
+        }
+    ]
+}

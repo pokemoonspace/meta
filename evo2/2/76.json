@@ -1,0 +1,40 @@
+{
+    "name": "Lokix",
+    "description": "When it decides to fight all out, it stands on its previously folded legs to enter Showdown Mode. It neutralizes its enemies in short order.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lokix.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "17.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Grasshopper"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Bug, Rock, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nymble"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lokix"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+  "name": "Thievul",
+  "description": "It secretly marks potential targets with a scent. By following the scent, it stalks its targets and steals from them when they least expect it.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Thievul.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.19 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "19.91 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Fox"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Run Away"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fighting, Bug, Fairy"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Nickit"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Thievul"
+    }
+  ]
+}

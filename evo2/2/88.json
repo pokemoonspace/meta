@@ -1,0 +1,40 @@
+{
+    "name": "Hippowdon",
+    "description": "It is surprisingly quick to anger. It holds its mouth agape as a display of its strength.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hippowdon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "300.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Heavyweight"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sand Stream"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ice"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Hippopotas"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Hippowdon"
+        }
+    ]
+}

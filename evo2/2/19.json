@@ -1,0 +1,40 @@
+{
+    "name": "Lumineon",
+    "description": "With its shining light, it lures its prey close. However, the light also happens to attract ferocious fish Pokemon its natural predators.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lumineon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "24.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Neon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Finneon"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lumineon"
+        }
+    ]
+}

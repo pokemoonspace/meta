@@ -1,0 +1,40 @@
+{
+  "name": "Ambipom",
+  "description": "They live on large trees. They are said to communicate by connecting their tails to those of others.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ambipom.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.19 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "20.32 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Long Tail"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Pickup"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fighting"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Aipom"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Ambipom"
+    }
+  ]
+}
