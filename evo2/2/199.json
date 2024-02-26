@@ -1,0 +1,40 @@
+{
+    "name": "Liepard",
+    "description": "Dont be fooled by its gorgeous fur and elegant figure. This is a moody and vicious Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Liepard.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "37.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cruel"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Limber"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Purrloin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Liepard"
+        }
+    ]
+}

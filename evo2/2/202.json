@@ -1,0 +1,40 @@
+{
+    "name": "Araquanid",
+    "description": "A caring Pokemon, Araquanid carries Dewpider around inside its water bubble to protect them as it walks. It protects its food in its bubble too.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Araquanid.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "82.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Water Bubble"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Water Bubble"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Dewpider"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Araquanid"
+        }
+    ]
+}

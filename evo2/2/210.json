@@ -1,0 +1,40 @@
+{
+    "name": "Gogoat",
+    "description": "It can sense the feelings of others by touching them with its horns. This species has assisted people with their work since 5,000 years ago.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gogoat.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.70 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "90.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mount"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sap Sipper"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Skiddo"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gogoat"
+        }
+    ]
+}

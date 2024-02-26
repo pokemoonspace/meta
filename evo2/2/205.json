@@ -1,0 +1,40 @@
+{
+    "name": "Forretress",
+    "description": "Its usually found hanging on to a fat tree trunk. It shoots out bits of its shell when it sees action.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Forretress.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "125.78 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bagworm"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Pineco"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Forretress"
+        }
+    ]
+}

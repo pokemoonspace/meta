@@ -1,0 +1,40 @@
+{
+    "name": "Sirfetch'd",
+    "description": "Only Farfetchd that have survived many battles can attain this evolution. When this Pokemons leek withers, it will retire from combat.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sirfetchd.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "116.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wild Duck"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Steadfast"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Farfetch'd"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sirfetch'd"
+        }
+    ]
+}

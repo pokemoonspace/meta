@@ -1,0 +1,40 @@
+{
+    "name": "Lanturn",
+    "description": "Portions of its dorsal fin mutated, becoming the parts that glow brightly to lure prey.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lanturn.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "22.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Light"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Illuminate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Chinchou"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lanturn"
+        }
+    ]
+}

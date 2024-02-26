@@ -1,0 +1,40 @@
+{
+    "name": "Mr. Mime",
+    "description": "It is a pantomime expert that can create invisible but solid walls using miming gestures.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mr.Mime.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "54.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Barrier"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Soundproof"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Ghost, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mime Jr."
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Mr. Mime"
+        }
+    ]
+}

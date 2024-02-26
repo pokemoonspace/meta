@@ -1,0 +1,40 @@
+{
+    "name": "Camerupt",
+    "description": "It lives in the crater of a volcano. It is well known that the humps on its back erupt every 10 years.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Camerupt.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "219.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Eruption"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Magma Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Numel"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Camerupt"
+        }
+    ]
+}
