@@ -1,0 +1,36 @@
+{
+    "name": "Zacian",
+    "description": "Known as a legendary hero, this Pokemon absorbs metal particles, transforming them into a weapon it uses to battle.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Zacian.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "110.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Warrior"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intrepid Sword"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

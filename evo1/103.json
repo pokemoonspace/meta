@@ -1,0 +1,36 @@
+{
+    "name": "Volbeat",
+    "description": "It lives around clean ponds. At night, its rear lights up. It converses with others by flashing its light.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Volbeat.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "17.69 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Firefly"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

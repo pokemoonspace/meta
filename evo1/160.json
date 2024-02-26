@@ -1,0 +1,36 @@
+{
+    "name": "Tropius",
+    "description": "It lives in tropical jungles. The bunch of fruit around its neck is delicious. The fruit grows twice a year.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Tropius.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "100.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fruit"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Chlorophyll"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Koraidon",
+    "description": "This seems to be the Winged King mentioned in an old expedition journal. It was said to have split the land with its bare fists.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Koraidon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.49 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "303.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Orichalcum Pulse"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Flying, Psychic, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

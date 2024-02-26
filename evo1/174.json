@@ -1,0 +1,36 @@
+{
+    "name": "Nihilego",
+    "description": "A life-form from another world, it was dubbed a UB and is thought to produce a strong neurotoxin.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nihilego.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "55.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Parasite"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Beast Boost"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Psychic, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

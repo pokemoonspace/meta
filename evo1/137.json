@@ -1,0 +1,36 @@
+{
+    "name": "Rotom",
+    "description": "Its electricity-like body can enter some kinds of machines and take control in order to make mischief.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Rotom.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.32 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Plasma"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

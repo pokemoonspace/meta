@@ -1,0 +1,36 @@
+{
+    "name": "Phione",
+    "description": "When the water warms, they inflate the flotation sac on their heads and drift languidly on the sea in packs.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Phione.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.08 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Sea Drifter"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hydration"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

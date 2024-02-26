@@ -1,0 +1,36 @@
+{
+    "name": "Flutter Mane",
+    "description": "This Pokemon has characteristics similar to those of Flutter Mane, a creature mentioned in a certain book.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Flutter_Mane.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Ghost, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.40 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Protosynthesis"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ghost, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

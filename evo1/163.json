@@ -1,0 +1,36 @@
+{
+    "name": "Chi-Yu",
+    "description": "It controls flames burning at over 5,400 degrees Fahrenheit. It casually swims through the sea of lava it creates by melting rock and sand.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chi-Yu.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Fire"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.90 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ruinous"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Beads of Ruin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Fighting, Ground, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

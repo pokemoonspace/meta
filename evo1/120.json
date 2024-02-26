@@ -1,0 +1,36 @@
+{
+    "name": "Eternatus",
+    "description": "The core on its chest absorbs energy emanating from the lands of the Galar region. This energy is what allows Eternatus to stay active.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Eternatus.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "19.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "950.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Gigantic"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Ground, Psychic, Dragon"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Dondozo",
+    "description": "This Pokemon is a glutton, but it\u2019s bad at getting food. It teams up with a Tatsugiri to catch prey.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dondozo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "11.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "219.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Big Catfish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

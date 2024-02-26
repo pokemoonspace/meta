@@ -1,0 +1,36 @@
+{
+    "name": "Mew",
+    "description": "When viewed through a microscope, this Pokemons short, fine, delicate hair can be seen.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mew.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "New Species"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Synchronize"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

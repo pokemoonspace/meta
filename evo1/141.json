@@ -1,0 +1,36 @@
+{
+    "name": "Chatot",
+    "description": "It mimics the cries of other Pokemon to trick them into thinking its one of them. This way they wont attack it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chatot.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.91 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Music Note"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

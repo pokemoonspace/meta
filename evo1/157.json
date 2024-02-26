@@ -1,0 +1,36 @@
+{
+    "name": "Illumise",
+    "description": "Illumise uses its sweet scent to guide Volbeat, having them form over 200 patterns in the night sky.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Illumise.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "17.69 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Firefly"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Tinted Lens"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

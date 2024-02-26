@@ -1,0 +1,36 @@
+{
+    "name": "Wishiwashi",
+    "description": "Individually, theyre incredibly weak. Its by gathering up into schools that theyre able to confront opponents.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wishiwashi.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.32 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Small Fry"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Schooling"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

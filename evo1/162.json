@@ -1,0 +1,36 @@
+{
+    "name": "Hoopa",
+    "description": "In its true form, it possesses a huge amount of power. Legends of its avarice tell how it once carried off an entire castle to gain the treasure hidden within.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hoopa.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mischief"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Magician"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

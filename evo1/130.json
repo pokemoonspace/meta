@@ -1,0 +1,36 @@
+{
+    "name": "Genesect",
+    "description": "This ancient bug Pokemon was altered by Team Plasma. They upgraded the cannon on its back.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Genesect.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "82.51 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paleozoic"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Download"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

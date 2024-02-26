@@ -1,0 +1,36 @@
+{
+    "name": "Manaphy",
+    "description": "It is born with a wondrous power that lets it bond with any kind of Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Manaphy.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.41 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Seafaring"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hydration"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

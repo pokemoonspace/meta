@@ -1,0 +1,36 @@
+{
+    "name": "Regieleki",
+    "description": "This Pokemon is a cluster of electrical energy. Its said that removing the rings on Regielekis body will unleash the Pokemons latent power.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Regieleki.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "145.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Electron"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Transistor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Munkidori",
+    "description": "The chain is made from toxins that enhance capabilities. It stimulated Munkidoris brain and caused the Pokemons psychic powers to bloom.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Munkidori.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Poison, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.20 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Retainer"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Toxic Chain"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

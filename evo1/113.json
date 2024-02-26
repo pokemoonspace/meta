@@ -1,0 +1,36 @@
+{
+    "name": "Gouging Fire",
+    "description": "There are scant few reports of this creature being sighted. One short video shows it rampaging and spouting pillars of flame.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Gouging_Fire.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "589.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Protosynthesis"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Rock, Dragon"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Heracross",
+    "description": "It loves sweet nectar. To keep all the nectar to itself, it hurls rivals away with its prized horn.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Heracross.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "53.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Single Horn"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

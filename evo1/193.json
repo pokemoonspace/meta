@@ -1,0 +1,36 @@
+{
+    "name": "Unown",
+    "description": "This Pokemon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Unown.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Symbol"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

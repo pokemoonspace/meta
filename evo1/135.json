@@ -1,0 +1,36 @@
+{
+    "name": "Chien-Pao",
+    "description": "This Pokemon can control 100 tons of fallen snow. It plays around innocently by leaping in and out of avalanches it has caused.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chien-Pao.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "152.18 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ruinous"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sword of Ruin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Bug, Rock, Steel, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

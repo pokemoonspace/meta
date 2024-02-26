@@ -1,0 +1,36 @@
+{
+    "name": "Regigigas",
+    "description": "It is said to have made Pokemon that look like itself from a special ice mountain, rocks, and magma.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Regigigas.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "419.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Colossal"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Slow Start"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

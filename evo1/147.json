@@ -1,0 +1,36 @@
+{
+    "name": "Klefki",
+    "description": "Once it absorbs a key\u2019s metal ions, it discards the key without a second thought. However, it will hang on to keys it favors for decades.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Klefki.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Key Ring"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Prankster"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

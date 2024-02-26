@@ -1,0 +1,36 @@
+{
+    "name": "Shuckle",
+    "description": "It stores berries inside its shell. To avoid attacks, it hides beneath rocks and remains completely still.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Shuckle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "20.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mold"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

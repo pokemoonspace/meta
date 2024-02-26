@@ -1,0 +1,36 @@
+{
+    "name": "Mewtwo",
+    "description": "Its DNA is almost the same as Mew\u2019s. However, its size and disposition are vastly different.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mewtwo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "122.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Genetic"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

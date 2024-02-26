@@ -1,0 +1,36 @@
+{
+    "name": "Registeel",
+    "description": "Registeels body is made of a strange material that is flexible enough to stretch and shrink but also more durable than any metal.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Registeel.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Steel"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "204.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Iron"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Clear Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

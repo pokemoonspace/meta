@@ -1,0 +1,36 @@
+{
+    "name": "Ogerpon",
+    "description": "This Pokemons type changes based on which mask its wearing. It confounds its enemies with nimble movements and kicks.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Ogerpon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "39.78 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mask"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Defiant"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

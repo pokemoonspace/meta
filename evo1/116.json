@@ -1,0 +1,36 @@
+{
+    "name": "Lapras",
+    "description": "It ferries people across the sea on its back. It may sing an enchanting cry if it is in a good mood.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Lapras.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.49 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "219.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Transport"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Water Absorb"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

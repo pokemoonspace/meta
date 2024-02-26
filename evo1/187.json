@@ -1,0 +1,36 @@
+{
+    "name": "Hawlucha",
+    "description": "Its elegant finishing moves\u2014performed by nimbly leaping around using its wings are polished in the forest where it was born and raised.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hawlucha.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "21.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wrestling"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Limber"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

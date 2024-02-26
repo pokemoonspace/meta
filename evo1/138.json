@@ -1,0 +1,36 @@
+{
+    "name": "Falinks",
+    "description": "The brass, which is the one that stands at the front and issues orders, is the strongest and smartest of the six.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Falinks.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.00 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "62.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Formation"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Battle Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

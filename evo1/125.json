@@ -1,0 +1,36 @@
+{
+    "name": "Squawkabilly",
+    "description": "These Pokemon prefer to live in cities. They form flocks based on the color of their feathers, and they fight over territory.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Squawkabilly.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.40 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Parrot"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Intimidate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

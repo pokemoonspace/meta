@@ -1,0 +1,36 @@
+{
+    "name": "Wo-Chien",
+    "description": "The grudge of a person punished for writing the kings evil deeds upon wooden tablets has clad itself in dead leaves to become a Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wo-Chien.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "74.21 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Ruinous"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Tablets of Ruin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Fighting, Poison, Flying, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Druddigon",
+    "description": "Druddigon lives in caves, but it never skips sunbathingit wont be able to move if its body gets too cold.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Druddigon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "138.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cave"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Rough Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

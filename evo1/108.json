@@ -1,0 +1,36 @@
+{
+    "name": "Dracovish",
+    "description": "Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dracovish.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.31 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "215.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fossil"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Water Absorb"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

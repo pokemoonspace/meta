@@ -1,0 +1,36 @@
+{
+    "name": "Blacephalon",
+    "description": "It slithers toward people. Then, without warning, it triggers the explosion of its own head. Its apparently one kind of Ultra Beast.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Blacephalon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "13.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fireworks"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Beast Boost"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

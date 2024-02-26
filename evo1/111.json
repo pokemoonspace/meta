@@ -1,0 +1,36 @@
+{
+    "name": "Flamigo",
+    "description": "This Pokemon apparently ties the base of its neck into a knot so that energy stored in its belly does not escape from its beak.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Flamigo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Flying, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "37.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Synchronize"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Tangled Feet"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

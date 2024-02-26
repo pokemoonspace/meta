@@ -1,0 +1,36 @@
+{
+    "name": "Terrakion",
+    "description": "It has phenomenal power. It will mercilessly crush anyone or anything that bullies small Pokemon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Terrakion.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.91 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "260.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cavern"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Justified"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Psychic, Steel, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

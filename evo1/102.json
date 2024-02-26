@@ -1,0 +1,36 @@
+{
+    "name": "Comfey",
+    "description": "It uses its vine to pick flowers. The flowers that Comfey attaches to itself develop healing properties.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Comfey.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.10 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.32 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Posy Picker"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Flower Veil"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

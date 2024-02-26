@@ -1,0 +1,36 @@
+{
+    "name": "Pachirisu",
+    "description": "Its one of the kinds of Pokemon with electric cheek pouches. It shoots charges from its tail.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pachirisu.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "3.90 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "EleSquirrel"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Run Away"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

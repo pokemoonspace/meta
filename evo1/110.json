@@ -1,0 +1,36 @@
+{
+    "name": "Pinsir",
+    "description": "These Pokemon judge one another based on pincers. Thicker, more impressive pincers make for more popularity with the opposite gender.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pinsir.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "55.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Stag Beetle"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hyper Cutter"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

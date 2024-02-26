@@ -1,0 +1,36 @@
+{
+    "name": "Iron Jugulis",
+    "description": "It resembles a certain Pokemon introduced in a paranormal magazine, described as the offspring of a Hydreigon that fell in love with a robot.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Iron_Jugulis.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "110.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Paradox"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Quark Drive"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

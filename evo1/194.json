@@ -1,0 +1,36 @@
+{
+    "name": "Sneasler",
+    "description": "Because of Sneaslers virulent poison and daunting physical prowess, no other species could hope to best it on the frozen highlands. Preferring solitude, this species does not form packs.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sneasler.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "43.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Free Climb"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Pressure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Flying, Psychic"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Sableye",
+    "description": "It dwells in the darkness of caves. It uses its sharp claws to dig up gems to nourish itself.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Sableye.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark, Ghost"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "11.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Darkness"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

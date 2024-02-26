@@ -1,0 +1,36 @@
+{
+    "name": "Buzzwole",
+    "description": "Although its alien to this world and a danger here, its apparently a common organism in the world where it normally lives.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Buzzwole.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.39 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "333.62 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Swollen"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Beast Boost"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

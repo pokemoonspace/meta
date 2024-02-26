@@ -1,0 +1,36 @@
+{
+    "name": "Minun",
+    "description": "Exposure to electricity from Minun and Plusle promotes blood circulation and relaxes muscles.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Minun.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.22 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cheering"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Minus"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Turtonator",
+    "description": "Explosive substances coat the shell on its back. Enemies that dare attack it will be blown away by an immense detonation.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Turtonator.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "212.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Blast Turtle"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shell Armor"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ground, Rock, Dragon"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

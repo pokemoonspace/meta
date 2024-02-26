@@ -1,0 +1,36 @@
+{
+    "name": "Pheromosa",
+    "description": "A life-form that lives in another world, its body is thin and supple, but it also possesses great power.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Pheromosa.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "24.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Lissome"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Beast Boost"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

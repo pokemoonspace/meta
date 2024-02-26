@@ -1,0 +1,36 @@
+{
+    "name": "Cresselia",
+    "description": "When it flies, it releases shiny particles from its veil-like wings. It is said to represent the crescent moon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cresselia.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.50 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "85.59 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Lunar"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Levitate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

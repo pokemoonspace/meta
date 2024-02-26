@@ -1,0 +1,36 @@
+{
+    "name": "Celebi",
+    "description": "This Pokemon came from the future by crossing over time. It is thought that so long as Celebi appears, a bright and shining future awaits us.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Celebi.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Time Travel"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Natural Cure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

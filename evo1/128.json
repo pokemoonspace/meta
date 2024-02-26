@@ -1,0 +1,36 @@
+{
+    "name": "Xerneas",
+    "description": "Legends say it can share eternal life. It slept for a thousand years in the form of a tree before its revival.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Xerneas.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "3.00 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "215.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Life"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Fairy Aura"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

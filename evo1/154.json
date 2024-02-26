@@ -1,0 +1,36 @@
+{
+    "name": "Bruxish",
+    "description": "It grinds its teeth with great force to stimulate its brain. It fires the psychic energy created by this process from the protuberance on its head.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Bruxish.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "19.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Gnash Teeth"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Strong Jaw"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

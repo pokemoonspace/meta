@@ -1,0 +1,36 @@
+{
+    "name": "Diancie",
+    "description": "A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Diancie.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "8.80 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Jewel"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Clear Body"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

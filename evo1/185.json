@@ -1,0 +1,36 @@
+{
+    "name": "Cyclizar",
+    "description": "Apparently Cyclizar has been allowing people to ride on its back since ancient times. Depictions of this have been found in 10,000-year-old murals.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cyclizar.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "63.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mount"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shed Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Fighting, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

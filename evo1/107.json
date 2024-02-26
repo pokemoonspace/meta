@@ -1,0 +1,36 @@
+{
+    "name": "Zekrom",
+    "description": "This legendary Pokemon can scorch the world with lightning. It assists those who want to build an ideal world.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Zekrom.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.90 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "345.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Deep Black"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Teravolt"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Ground, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

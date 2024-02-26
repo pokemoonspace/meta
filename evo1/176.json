@@ -1,0 +1,36 @@
+{
+    "name": "Terapagos",
+    "description": "Terapagos protects itself using its power to transform energy into hard crystals. This Pokemon is the source of the Terastal phenomenon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Terapagos.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tera"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Tera Shift"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "Calyrex",
+    "description": "Calyrex is a merciful Pokemon, capable of providing healing and blessings. It reigned over the Galar region in times of yore.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Calyrex.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.09 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "7.71 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "King"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Unnerve"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

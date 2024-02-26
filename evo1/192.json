@@ -1,0 +1,36 @@
+{
+    "name": "Zygarde",
+    "description": "This is Zygardes form when about half of its pieces have been assembled. It plays the role of monitoring the ecosystem.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Zygarde.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dragon, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "5.00 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "305.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Order"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Aura Break"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

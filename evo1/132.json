@@ -1,0 +1,36 @@
+{
+    "name": "Throh",
+    "description": "It performs throwing moves with first-rate skill. Over the course of many battles, Throh\u2019s belt grows darker as it absorbs its wearers sweat.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Throh.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fighting"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "55.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Judo"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Guts"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Flying, Psychic, Fairy"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

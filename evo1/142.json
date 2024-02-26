@@ -1,0 +1,36 @@
+{
+    "name": "Arctovish",
+    "description": "Though it\u2019s able to capture prey by freezing its surroundings, it has trouble eating the prey afterward because its mouth is on top of its head.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Arctovish.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Ice"
+        },
+        {
+            "trait_type": "Height",
+            "value": "2.01 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "175.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Fossil"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Water Absorb"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Rock"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

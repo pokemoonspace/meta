@@ -1,0 +1,36 @@
+{
+    "name": "Alomomola",
+    "description": "It gently holds injured and weak Pokemon in its fins. Its special membrane heals their wounds.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Alomomola.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "31.62 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Caring"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Hydration"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}

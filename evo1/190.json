@@ -1,0 +1,36 @@
+{
+    "name": "Enamorus",
+    "description": "When it flies to this land from across the sea, the bitter winter comes to an end. According to legend, this Pokemons love gives rise to the budding of fresh life across Hisui.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Enamorus.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fairy, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.60 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "47.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Love-Hate"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Cute Charm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Poison, Rock, Steel"
+        },
+        {
+            "trait_type": "Evolutions",
+            "value": "Doesn't evolve"
+        }
+    ]
+}
