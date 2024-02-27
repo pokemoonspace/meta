@@ -1,0 +1,40 @@
+{
+    "name": "Numel",
+    "description": "Magma of almost 2,200 degrees Fahrenheit courses through its body. When it grows cold, the magma hardens and slows it.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Numel.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Fire, Ground"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "24.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Numb"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Oblivious"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Numel"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Camerupt"
+        }
+    ]
+}

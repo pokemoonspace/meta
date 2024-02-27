@@ -1,0 +1,40 @@
+{
+    "name": "Natu",
+    "description": "It is extremely good at climbing tree trunks and likes to eat the new sprouts on the trees.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Natu.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "2.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Tiny Bird"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Synchronize"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Natu"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Xatu"
+        }
+    ]
+}

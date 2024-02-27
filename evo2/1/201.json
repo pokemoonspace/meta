@@ -1,0 +1,40 @@
+{
+    "name": "Nosepass",
+    "description": "The magnet in Nosepasss nose provides an unerring compass, making this Pokemon an excellent partner for Trainers going on a journey.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Nosepass.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "96.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Compass"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sturdy"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Water, Grass, Fighting, Ground, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Nosepass"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Probopass"
+        }
+    ]
+}

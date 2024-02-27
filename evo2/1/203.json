@@ -1,0 +1,40 @@
+{
+    "name": "Farfetch'd",
+    "description": "It cant live without the stalk it holds. Thats why it defends the stalk from attackers with its life.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Farfetchd.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Normal, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.79 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "15.01 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Wild Duck"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Keen Eye"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Electric, Ice, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Farfetch'd"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Sirfetch'd"
+        }
+    ]
+}

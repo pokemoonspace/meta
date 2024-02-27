@@ -1,0 +1,40 @@
+{
+    "name": "Purrloin",
+    "description": "It steals things from people just to amuse itself with their frustration. A rivalry exists between this Pokemon and Nickit.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Purrloin.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Dark"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "10.12 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Devious"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Limber"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fighting, Bug, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Purrloin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Liepard"
+        }
+    ]
+}

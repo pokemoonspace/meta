@@ -1,0 +1,40 @@
+{
+    "name": "Skiddo",
+    "description": "Until recently, people living in the mountains would ride on the backs of these Pokemon to traverse the mountain paths.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Skiddo.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.89 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "30.98 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mount"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Sap Sipper"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Skiddo"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Gogoat"
+        }
+    ]
+}

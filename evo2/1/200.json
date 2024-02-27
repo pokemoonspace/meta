@@ -1,0 +1,40 @@
+{
+    "name": "Flittle",
+    "description": "Flittles toes levitate about half an inch above the ground because of the psychic power emitted from the frills on the Pokemons belly.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Flittle.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Frill"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Frisk"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Bug, Ghost, Dark"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Flittle"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Espathra"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Kabuto",
+    "description": "This species is almost entirely extinct. Kabuto molt every three days, making their shells harder and harder.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Kabuto.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Rock, Water"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "11.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Shellfish"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swift Swim"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Kabuto"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Kabutops"
+        }
+    ]
+}

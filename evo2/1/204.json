@@ -1,0 +1,40 @@
+{
+    "name": "Chinchou",
+    "description": "It lives in ocean depths beyond the reach of sunlight. It flashes lights on its antennae to communicate with others of its kind.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Chinchou.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Electric"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "12.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Angler"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Illuminate"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Chinchou"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Lanturn"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Mime Jr.",
+    "description": "It mimics everyone it sees, but it puts extra effort into copying the graceful dance steps of Mr. Rime as practice.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/MimeJr.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Psychic, Fairy"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "13.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Mime"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Soundproof"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Poison, Ghost, Steel"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Mime Jr."
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Mr. Mime"
+        }
+    ]
+}

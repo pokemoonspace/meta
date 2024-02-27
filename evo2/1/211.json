@@ -1,0 +1,40 @@
+{
+    "name": "Corsola",
+    "description": "Many live in the clean seas of the south. They apparently can\u2019t live in polluted waters.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Corsola.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Water, Rock"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.61 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "4.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Coral"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Natural Cure"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Grass, Electric, Fighting, Ground"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Corsola"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Cursola"
+        }
+    ]
+}
