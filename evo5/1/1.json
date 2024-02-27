@@ -1,0 +1,52 @@
+{
+    "name": "Applin",
+    "description": "It grows by eating the flesh of an apple. Applin uses its own body fluid to strengthen the apple\u2019s skin and prevent it from rotting.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Applin.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.20 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "0.50 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Apple Core"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Gluttony"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Poison, Flying, Bug, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Applin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Flapple"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Appletun"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Dipplin"
+        },
+        {
+            "trait_type": "Evolutions 5",
+            "value": "Hydrapple"
+        }
+    ]
+}
