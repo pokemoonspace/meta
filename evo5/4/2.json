@@ -1,0 +1,52 @@
+{
+    "name": "Beautifly",
+    "description": "Beautiflys favorite food is the sweet pollen of flowers. If you want to see this Pokemon, just leave a potted flower by an open window. Beautifly is sure to come looking for pollen.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Beautifly.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Flying"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.99 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "28.39 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Butterfly"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Swarm"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Electric, Ice, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wurmple"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Silcoon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Cascoon"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Beautifly"
+        },
+        {
+            "trait_type": "Evolutions 5",
+            "value": "Dustox"
+        }
+    ]
+}
