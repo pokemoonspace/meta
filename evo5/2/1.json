@@ -1,0 +1,52 @@
+{
+    "name": "Flapple",
+    "description": "It flutters around while seeking an opening in the opponent\u2019s guard, then attacks by spitting acidic liquid strong enough to melt metal.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Flapple.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.30 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "1.00 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Apple Wing"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Gluttony"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Poison, Flying, Bug, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Applin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Flapple"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Appletun"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Dipplin"
+        },
+        {
+            "trait_type": "Evolutions 5",
+            "value": "Hydrapple"
+        }
+    ]
+}
