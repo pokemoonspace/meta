@@ -1,0 +1,52 @@
+{
+    "name": "Hydrapple",
+    "description": "Seven syrpents live inside an apple made of syrup. The syrpent in the center is the commander.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Hydrapple.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.80 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "92.99 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Apple Hydra"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Regenerator"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Poison, Flying, Bug, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Applin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Flapple"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Appletun"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Dipplin"
+        },
+        {
+            "trait_type": "Evolutions 5",
+            "value": "Hydrapple"
+        }
+    ]
+}

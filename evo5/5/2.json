@@ -1,0 +1,52 @@
+{
+    "name": "Dustox",
+    "description": "Dustox is instinctively drawn to light. Swarms of this Pokemon are attracted by the bright lights of cities, where they wreak havoc by stripping the leaves off roadside trees for food.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Dustox.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Poison"
+        },
+        {
+            "trait_type": "Height",
+            "value": "1.19 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "31.62 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Poison Moth"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shield Dust"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Psychic, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wurmple"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Silcoon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Cascoon"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Beautifly"
+        },
+        {
+            "trait_type": "Evolutions 5",
+            "value": "Dustox"
+        }
+    ]
+}
