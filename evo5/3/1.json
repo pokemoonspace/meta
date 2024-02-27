@@ -1,0 +1,52 @@
+{
+    "name": "Appletun",
+    "description": "It feeds mainly on sweet apples. It will also eat small bug Pokemon that are attracted by its sweet nectar.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Appletun.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Grass, Dragon"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.41 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "13.02 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Apple Nectar"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Gluttony"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Ice, Poison, Flying, Bug, Dragon, Fairy"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Applin"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Flapple"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Appletun"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Dipplin"
+        },
+        {
+            "trait_type": "Evolutions 5",
+            "value": "Hydrapple"
+        }
+    ]
+}

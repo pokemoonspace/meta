@@ -1,0 +1,52 @@
+{
+    "name": "Cascoon",
+    "description": "Cascoon makes its protective cocoon by wrapping its body entirely with a fine silk from its mouth. Once the silk goes around its body, it hardens. This Pokemon prepares for its evolution inside the cocoon.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Cascoon.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.71 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "11.52 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Cocoon"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Shed Skin"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Flying, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Wurmple"
+        },
+        {
+            "trait_type": "Evolutions 2",
+            "value": "Silcoon"
+        },
+        {
+            "trait_type": "Evolutions 3",
+            "value": "Cascoon"
+        },
+        {
+            "trait_type": "Evolutions 4",
+            "value": "Beautifly"
+        },
+        {
+            "trait_type": "Evolutions 5",
+            "value": "Dustox"
+        }
+    ]
+}
