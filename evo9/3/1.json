@@ -1,0 +1,68 @@
+{
+  "name": "Jolteon",
+  "description": "It concentrates the weak electric charges emitted by its cells and launches wicked lightning bolts.",
+  "image": "Jolteon.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Electric"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.79 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "24.49 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Volt Absorb"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Ground"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Eevee"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Vaporeon"
+    },
+    {
+      "trait_type": "Evolutions 3",
+      "value": "Jolteon"
+    },
+    {
+      "trait_type": "Evolutions 4",
+      "value": "Flareon"
+    },
+    {
+      "trait_type": "Evolutions 5",
+      "value": "Espeon"
+    },
+    {
+      "trait_type": "Evolutions 6",
+      "value": "Umbreon"
+    },
+    {
+      "trait_type": "Evolutions 7",
+      "value": "Leafeon"
+    },
+    {
+      "trait_type": "Evolutions 8",
+      "value": "Glaceon"
+    },
+    {
+      "trait_type": "Evolutions 9",
+      "value": "Sylveon"
+    }
+  ]
+}
