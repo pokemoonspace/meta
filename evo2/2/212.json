@@ -1,40 +1,40 @@
 {
-    "name": "Mothim",
-    "description": "It loves the honey of flowers and steals honey collected by Combee.",
-    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Mothim.png",
-    "external_url": "https://pokemoon.space",
-    "attributes": [
-        {
-            "trait_type": "Type",
-            "value": "Bug, Flying"
-        },
-        {
-            "trait_type": "Height",
-            "value": "0.89 m"
-        },
-        {
-            "trait_type": "Weight",
-            "value": "23.31 kg"
-        },
-        {
-            "trait_type": "Category",
-            "value": "Moth"
-        },
-        {
-            "trait_type": "Abilities",
-            "value": "Swarm"
-        },
-        {
-            "trait_type": "Weaknesses",
-            "value": "Fire, Electric, Ice, Flying, Rock"
-        },
-        {
-            "trait_type": "Evolutions 1",
-            "value": "Wormadam"
-        },
-        {
-            "trait_type": "Evolutions 2",
-            "value": "Mothim"
-        }
-    ]
+  "name": "Jellicent",
+  "description": "Most of this Pokémons body composition is identical to sea water. It makes sunken ships its lair.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo2/2/Jellicent.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water, Ghost"
+    },
+    {
+      "trait_type": "Height",
+      "value": "2.2 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "135 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Floating"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Water, Ghost"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Frillish"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Jellicent"
+    }
+  ]
 }

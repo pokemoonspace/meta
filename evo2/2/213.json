@@ -1,0 +1,40 @@
+{
+  "name": "Gourgeist",
+  "description": "Eerie cries emanate from its body in the dead of night. The sounds are said to be the wails of spirits who are suffering in the afterlife.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo2/2/Gourgeist.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Ghost, Grass"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.9 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "12.5 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Pumpkin"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Pickup"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Ice, Flying, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Pumpkaboo"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Gourgeist"
+    }
+  ]
+}
