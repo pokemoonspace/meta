@@ -1,7 +1,7 @@
 {
   "name": "Umbreon",
   "description": "When exposed to the moons aura, the rings on its body glow faintly and it gains a mysterious power.",
-  "image": "Umbreon.png",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo9/6/Umbreon.png",
   "external_url": "https://pokemoon.space",
   "attributes": [
     {
