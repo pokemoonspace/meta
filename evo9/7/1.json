@@ -1,0 +1,68 @@
+{
+  "name": "Leafeon",
+  "description": "When you see Leafeon asleep in a patch of sunshine, youll know it is using photosynthesis to produce clean air.",
+  "image": "Leafeon.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Grass"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.99 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "25.49 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Verdant"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Leaf Guard"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Ice, Poison, Flying, Bug"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Eevee"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Vaporeon"
+    },
+    {
+      "trait_type": "Evolutions 3",
+      "value": "Jolteon"
+    },
+    {
+      "trait_type": "Evolutions 4",
+      "value": "Flareon"
+    },
+    {
+      "trait_type": "Evolutions 5",
+      "value": "Espeon"
+    },
+    {
+      "trait_type": "Evolutions 6",
+      "value": "Umbreon"
+    },
+    {
+      "trait_type": "Evolutions 7",
+      "value": "Leafeon"
+    },
+    {
+      "trait_type": "Evolutions 8",
+      "value": "Glaceon"
+    },
+    {
+      "trait_type": "Evolutions 9",
+      "value": "Sylveon"
+    }
+  ]
+}
