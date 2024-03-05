@@ -1,0 +1,68 @@
+{
+  "name": "Eevee",
+  "description": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+  "image": "Eevee.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.30 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "6.49 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Evolution"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Run Away"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fighting"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Eevee"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Vaporeon"
+    },
+    {
+      "trait_type": "Evolutions 3",
+      "value": "Jolteon"
+    },
+    {
+      "trait_type": "Evolutions 4",
+      "value": "Flareon"
+    },
+    {
+      "trait_type": "Evolutions 5",
+      "value": "Espeon"
+    },
+    {
+      "trait_type": "Evolutions 6",
+      "value": "Umbreon"
+    },
+    {
+      "trait_type": "Evolutions 7",
+      "value": "Leafeon"
+    },
+    {
+      "trait_type": "Evolutions 8",
+      "value": "Glaceon"
+    },
+    {
+      "trait_type": "Evolutions 9",
+      "value": "Sylveon"
+    }
+  ]
+}
