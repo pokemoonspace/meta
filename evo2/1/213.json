@@ -1,0 +1,40 @@
+{
+  "name": "Pumpkaboo",
+  "description": "Spirits that wander this world are placed into Pumpkaboos body. Theyre then moved on to the afterlife.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo2/1/Pumpkaboo.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Ghost, Grass"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.41 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "4.99 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Pumpkin"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Pickup"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Ice, Flying, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Pumpkaboo"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Gourgeist"
+    }
+  ]
+}

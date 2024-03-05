@@ -1,40 +1,40 @@
 {
-    "name": "Wormadam",
-    "description": "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",
-    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wormadam.png",
-    "external_url": "https://pokemoon.space",
-    "attributes": [
-        {
-            "trait_type": "Type",
-            "value": "Bug, Grass"
-        },
-        {
-            "trait_type": "Height",
-            "value": "0.51 m"
-        },
-        {
-            "trait_type": "Weight",
-            "value": "6.49 kg"
-        },
-        {
-            "trait_type": "Category",
-            "value": "Bagworm"
-        },
-        {
-            "trait_type": "Abilities",
-            "value": "Anticipation"
-        },
-        {
-            "trait_type": "Weaknesses",
-            "value": "Fire, Ice, Poison, Flying, Bug, Rock"
-        },
-        {
-            "trait_type": "Evolutions 1",
-            "value": "Wormadam"
-        },
-        {
-            "trait_type": "Evolutions 2",
-            "value": "Mothim"
-        }
-    ]
+  "name": "Frillish",
+  "description": "It envelops its prey in its veillike arms and draws it down to the deeps, five miles below the oceans surface.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo2/1/Frillish.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water, Ghost"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.19 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "33.02 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Floating"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Water Absorb"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Frillish"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Jellicent"
+    }
+  ]
 }
