@@ -1,0 +1,44 @@
+{
+    "name": "Wormadam",
+    "description": "Its appearance changes depending on where it evolved. The materials on hand become a part of its body.",
+    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Wormadam.png",
+    "external_url": "https://pokemoon.space",
+    "attributes": [
+        {
+            "trait_type": "Type",
+            "value": "Bug, Grass"
+        },
+        {
+            "trait_type": "Height",
+            "value": "0.51 m"
+        },
+        {
+            "trait_type": "Weight",
+            "value": "6.49 kg"
+        },
+        {
+            "trait_type": "Category",
+            "value": "Bagworm"
+        },
+        {
+            "trait_type": "Abilities",
+            "value": "Anticipation"
+        },
+        {
+            "trait_type": "Weaknesses",
+            "value": "Fire, Ice, Poison, Flying, Bug, Rock"
+        },
+        {
+            "trait_type": "Evolutions 1",
+            "value": "Burmy"
+          },
+          {
+            "trait_type": "Evolutions 2",
+            "value": "Wormadam"
+          },
+          {
+            "trait_type": "Evolutions 3",
+            "value": "Mothim"
+          }
+    ]
+}
