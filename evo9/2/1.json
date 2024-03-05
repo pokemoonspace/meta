@@ -1,0 +1,36 @@
+{
+  "name": "Vaporeon",
+  "description": "It lives close to water. Its long tail is ridged with a fin, which is often mistaken for a mermaids.",
+  "image": "Vaporeon.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.99 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "28.98 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Bubble Jet"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Water Absorb"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric"
+    },
+    {
+      "trait_type": "Evolutions",
+      "value": "Eevee --> Vaporeon --> Vaporeon --> Jolteon --> Flareon --> Espeon --> Umbreon --> Leafeon --> Glaceon --> Sylveon"
+    }
+  ]
+}
