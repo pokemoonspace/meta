@@ -1,0 +1,68 @@
+{
+  "name": "Glaceon",
+  "description": "It can control its body temperature at will. This enables it to freeze the moisture in the atmosphere, creating flurries of diamond dust.",
+  "image": "Glaceon.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Ice"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.79 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "25.90 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Fresh Snow"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Snow Cloak"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Fighting, Rock, Steel"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Eevee"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Vaporeon"
+    },
+    {
+      "trait_type": "Evolutions 3",
+      "value": "Jolteon"
+    },
+    {
+      "trait_type": "Evolutions 4",
+      "value": "Flareon"
+    },
+    {
+      "trait_type": "Evolutions 5",
+      "value": "Espeon"
+    },
+    {
+      "trait_type": "Evolutions 6",
+      "value": "Umbreon"
+    },
+    {
+      "trait_type": "Evolutions 7",
+      "value": "Leafeon"
+    },
+    {
+      "trait_type": "Evolutions 8",
+      "value": "Glaceon"
+    },
+    {
+      "trait_type": "Evolutions 9",
+      "value": "Sylveon"
+    }
+  ]
+}
