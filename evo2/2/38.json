@@ -1,40 +1,40 @@
 {
-    "name": "Masquerain",
-    "description": "It flaps its four wings to hover and fly freely in any directionto and fro and sideways.",
-    "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Masquerain.png",
-    "external_url": "https://pokemoon.space",
-    "attributes": [
-      {
-        "trait_type": "Type",
-        "value": "Bug, Flying"
-      },
-      {
-        "trait_type": "Height",
-        "value": "0.79 m"
-      },
-      {
-        "trait_type": "Weight",
-        "value": "3.58 kg"
-      },
-      {
-        "trait_type": "Category",
-        "value": "Eyeball"
-      },
-      {
-        "trait_type": "Abilities",
-        "value": "Intimidate"
-      },
-      {
-        "trait_type": "Weaknesses",
-        "value": "Fire, Electric, Ice, Flying, Rock"
-      },
-      {
-        "trait_type": "Evolutions 1",
-        "value": "Surskit"
-      },
-      {
-        "trait_type": "Evolutions 2",
-        "value": "Masquerain"
-      }
-    ]
-  }
+  "name": "Masquerain",
+  "description": "It flaps its four wings to hover and fly freely in any directionto and fro and sideways.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/img/Masquerain.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Bug, Flying"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.79 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "3.58 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Eyeball"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Intimidate"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Electric, Ice, Flying, Rock"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Surskit"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Masquerain"
+    }
+  ]
+}
