@@ -1,7 +1,7 @@
 {
   "name": "Sylveon",
   "description": "This Pokemon uses its ribbonlike feelers to send a soothing aura into its opponents, erasing their hostility.",
-  "image": "Sylveon.png",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo9/9/Sylveon.png",
   "external_url": "https://pokemoon.space",
   "attributes": [
     {
