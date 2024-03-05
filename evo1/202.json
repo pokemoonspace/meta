@@ -1,0 +1,36 @@
+{
+  "name": "Durant",
+  "description": "They lay their eggs deep inside their nests. When attacked by Heatmor, they retaliate using their massive mandibles.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo1/Durant.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Bug, Steel"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.30 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "33.02 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Iron Ant"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Swarm"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Evolutions",
+      "value": "Durant"
+    }
+  ]
+}

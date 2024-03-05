@@ -1,0 +1,36 @@
+{
+  "name": "Tapu Bulu",
+  "description": "Although its called a guardian deity, its violent enough to crush anyone it sees as an enemy.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo1/Tapu_Bulu.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Grass, Fairy"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.91 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "45.50 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Land Spirit"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Grassy Surge"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Ice, Poison, Flying, Steel"
+    },
+    {
+      "trait_type": "Evolutions",
+      "value": "Tapu Bulu"
+    }
+  ]
+}
