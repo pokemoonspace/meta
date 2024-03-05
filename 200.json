@@ -1,0 +1,36 @@
+{
+  "name": "Tornadus",
+  "description": "The lower half of its body is wrapped in a cloud of energy. It zooms through the sky at 200 mph.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo1/Tornadus.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Flying"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.50 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "63.00 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Cyclone"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Prankster"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Electric, Ice, Rock"
+    },
+    {
+      "trait_type": "Evolutions",
+      "value": "Tornadus"
+    }
+  ]
+}

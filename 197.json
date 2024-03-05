@@ -1,0 +1,36 @@
+{
+  "name": "Tapu Fini",
+  "description": "This guardian deity of Poni Island manipulates water. Because it lives deep within a thick fog, it came to be both feared and revered.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo1/Tapu_Fini.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Water, Fairy"
+    },
+    {
+      "trait_type": "Height",
+      "value": "1.30 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "21.18 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Land Spirit"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Misty Surge"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Grass, Electric, Poison"
+    },
+    {
+      "trait_type": "Evolutions",
+      "value": "Tapu Fini"
+    }
+  ]
+}
