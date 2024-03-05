@@ -1,0 +1,68 @@
+{
+  "name": "Espeon",
+  "description": "The tip of its forked tail quivers when it is predicting its opponents next move.",
+  "image": "Espeon.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Psychic"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.89 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "26.49 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Sun"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Synchronize"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Bug, Ghost, Dark"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Eevee"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Vaporeon"
+    },
+    {
+      "trait_type": "Evolutions 3",
+      "value": "Jolteon"
+    },
+    {
+      "trait_type": "Evolutions 4",
+      "value": "Flareon"
+    },
+    {
+      "trait_type": "Evolutions 5",
+      "value": "Espeon"
+    },
+    {
+      "trait_type": "Evolutions 6",
+      "value": "Umbreon"
+    },
+    {
+      "trait_type": "Evolutions 7",
+      "value": "Leafeon"
+    },
+    {
+      "trait_type": "Evolutions 8",
+      "value": "Glaceon"
+    },
+    {
+      "trait_type": "Evolutions 9",
+      "value": "Sylveon"
+    }
+  ]
+}
