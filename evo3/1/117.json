@@ -1,0 +1,44 @@
+{
+  "name": "Burmy",
+  "description": "To shelter itself from cold, wintry winds, it covers itself with a cloak made of twigs and leaves.",
+  "image": "https://raw.githubusercontent.com/pokemoonspace/meta/main/evo3/1/Burmy.png",
+  "external_url": "https://pokemoon.space",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Bug"
+    },
+    {
+      "trait_type": "Height",
+      "value": "0.20 m"
+    },
+    {
+      "trait_type": "Weight",
+      "value": "3.40 kg"
+    },
+    {
+      "trait_type": "Category",
+      "value": "Bagworm"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Shed Skin"
+    },
+    {
+      "trait_type": "Weaknesses",
+      "value": "Fire, Flying, Rock"
+    },
+    {
+      "trait_type": "Evolutions 1",
+      "value": "Burmy"
+    },
+    {
+      "trait_type": "Evolutions 2",
+      "value": "Wormadam"
+    },
+    {
+      "trait_type": "Evolutions 3",
+      "value": "Mothim"
+    }
+  ]
+}
